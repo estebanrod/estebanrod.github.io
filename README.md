@@ -29,6 +29,54 @@ La **Asamblea Cristiana de Madrid** abre un local en la **calle Zazuar 13, en el
 
 ---
 
+### Contexto estratégico: web dual + café concierto mensual
+
+Dos decisiones posteriores a las propuestas iniciales afectan directamente a la elección del nombre:
+
+#### 1. Estrategia de dos webs separadas
+
+Se ha decidido separar la presencia digital en **dos sitios independientes**:
+
+| | **asambleacristiana.es** (corporativa) | **[nombre].es** (local/evangelística) |
+|---|---|---|
+| **Público** | Miembros, iglesias, instituciones | Vecinos, curiosos, invitados |
+| **Tono** | Institucional cálido | Cercano, de barrio, evangelístico |
+| **Función** | Credibilidad, historia, base de fe | Atraer, invitar, conectar, asimilar |
+
+**Implicación para el nombre**: El nombre del local ES la marca de la web evangelística. Es el dominio (`[nombre].es`), la identidad de Instagram, el link que se manda por WhatsApp. Ya no es un "nombre de local" — es una **marca digital completa** que debe funcionar como:
+- Dominio web memorable y tecleble
+- Handle de Instagram/redes
+- URL compartible por WhatsApp sin vergüenza
+- Identidad que sostiene TODO el contenido público (no solo el cartel de la puerta)
+
+La navegación de la web del local usa: **VEN · CONECTA · CRECE · SIRVE** (escalera de asimilación). El nombre del local es la marca paraguas de todo ese recorrido.
+
+#### 2. Café Concierto mensual (último viernes de cada mes)
+
+Se ha definido un **evento insignia mensual**: una noche de música en directo, picoteo para compartir y ambiente relajado, abierto al barrio. No es un culto, no es un concierto de iglesia — es un plan de viernes para vecinos.
+
+**Implicación para el nombre**: El café concierto será probablemente la **actividad más visible** del local para el barrio (más que el culto del domingo, que es interno). Es la "excusa para invitar" recurrente del evangelismo relacional (LIDERE 3.2). El nombre debe sonar natural en esta frase:
+
+> *"El viernes hay música en [NOMBRE], ¿vienes?"*
+
+**Test del Café Concierto** (nuevo test junto al test del WhatsApp):
+| Nombre | ¿Suena natural? | Ejemplo |
+|--------|-----------------|---------|
+| *Sala Eugenia* | ✅✅✅ | "Hay concierto en Sala Eugenia" — perfecto, "sala" = sala de conciertos |
+| *Café Zazuar* | ✅✅✅ | "Hay música en el Café de Zazuar" — totalmente orgánico |
+| *Local 4/13* | ✅✅ | "Hay concierto en el 4/13" — suena underground, interesante |
+| *Pura Vida* | ✅✅ | "Hay música en Pura Vida" — suena a chiringuito cool |
+| *La Sala* | ✅✅✅ | "Hay concierto en La Sala" — es literalmente la palabra para esto |
+| *Entre Amigos* | ✅✅ | "Concierto entre amigos" — funciona como concepto |
+| *Mesa Abierta* | ✅ | "Concierto en Mesa Abierta" — un poco forzado |
+| *Restaura* | ⚠️ | "Concierto en Restaura" — suena a evento solidario de ONG |
+| *Brota* | ⚠️ | "Hay música en Brota" — raro |
+| *Ven y Ve* | ⚠️ | "Concierto en Ven y Ve" — forzado |
+
+**Conclusión**: El café concierto mensual favorece nombres que evoquen **espacio cultural / hostelería / lugar de encuentro social**, no nombres que evoquen transformación personal o movimiento espiritual. Los nombres tipo "sala", "café" o "local" son los que más se benefician.
+
+---
+
 ## 1. NOMBRES CON ENFOQUE EN COMUNIDAD Y PERTENENCIA
 
 ### 1.1 La Casa de Santa Eugenia
@@ -127,18 +175,20 @@ La **Asamblea Cristiana de Madrid** abre un local en la **calle Zazuar 13, en el
 
 ### 1.6 La Sala
 
-**Potencial: ★★★☆☆**
+**Potencial: ★★★★☆** (sube de ★★★ con el café concierto mensual)
 
 | Aspecto | Detalle |
 |---------|---------|
 | **Concepto** | Un espacio donde estar. La sala de tu casa, pero compartida. |
 | **Público** | Jóvenes, personas solas que buscan un lugar donde ir. |
 | **Ventaja** | Minimalista. Bajísimo umbral. "¿Vienes a La Sala?" suena a plan de amigos. |
-| **Riesgo** | Puede confundirse con sala de conciertos o sala de fiestas. |
-| **Eslogan** | *"Tu sala en el barrio"* |
+| **Ventaja +café concierto** | En España, "sala" ES la palabra para locales de música en vivo. "Hay concierto en La Sala" es 100% natural. El riesgo original (confusión con sala de conciertos) se convierte en VENTAJA: es literalmente lo que pasa el último viernes del mes. |
+| **Ventaja +web dual** | `lasala.es` o `lasalase.es` — breve, memorable, tecleble. Funciona como marca digital. |
+| **Riesgo** | Genérico: puede haber muchas "Sala" en Google. Menos ancla al barrio que "Sala Eugenia". |
+| **Eslogan** | *"Tu sala en el barrio"* / *"Música, café y buena gente"* |
 
 **Propuesta de imagen/logo:**
-- Sofá estilizado con una lámpara, icono de hogar.
+- Sofá estilizado con una lámpara, icono de hogar. O: micrófono + taza de café fusionados.
 - Colores: morado suave y crema.
 
 ---
@@ -338,18 +388,23 @@ La **Asamblea Cristiana de Madrid** abre un local en la **calle Zazuar 13, en el
 
 ### 3.5 Café Zazuar / El Café de Santa Eugenia
 
-**Potencial: ★★★★★**
+**Potencial: ★★★★★+** (reforzado por el café concierto mensual)
 
 | Aspecto | Detalle |
 |---------|---------|
 | **Concepto** | Si el local puede tener una barra de café o espacio de cafetería, esto es oro. El temario LIDERE tiene una sección entera sobre "Cuidado Pastoral: CAFÉ" (Compartir, Amor, Fe, Edificar). El café es excusa para sentarse, hablar, conocerse. |
 | **Público** | Literalmente todo el mundo. Quien no entraría a una "iglesia", sí entra a tomarse un café. |
 | **Ventaja** | **Umbral de entrada prácticamente cero.** "¿Tomamos un café?" es la frase más universal de España. Una vez dentro, la persona encuentra comunidad, conversación, vida. Es exactamente el modelo del evangelismo relacional. En Vallecas, los bares son el centro de la vida social. Este nombre compite directamente en ese espacio. |
+| **Ventaja +café concierto** | **La coherencia nombre-actividad es TOTAL.** "Hay música en el Café de Zazuar" es la frase más natural del mundo. Un café con conciertos el último viernes del mes es un formato que existe en miles de barrios de España: el vecino lo entiende instantáneamente. Es el bar del barrio con música en directo — excepto que aquí también encuentras comunidad, fe y familia. |
+| **Ventaja +web dual** | `cafezazuar.es` funciona perfectamente como marca digital. La URL es tecleble, memorable, no suena a iglesia. `cafezazuar.es/cafeconcierto` como link compartible mensual es 100% coherente. Instagram: @cafezazuar — parece una cafetería de barrio (y lo es). |
+| **Ventaja +asimilación** | El café concierto es la puerta de asimilación perfecta (escalón 0→1): "poca presión, poco compromiso y diversión". El visitante que viene al concierto del viernes puede volver al café entre semana, y luego quizá al domingo. El nombre facilita esa transición sin fricción: nunca deja de ser "un café". |
 | **Riesgo** | Requiere que haya realmente café (no tiene que ser un negocio, puede ser café gratis o a voluntad). Si no hay café, pierde sentido. |
-| **Eslogan** | *"Más que un café, una familia"* / *"El mejor café de Santa Eugenia... y la mejor compañía"* |
+| **Riesgo multiplicación** | Atado a "Zazuar" — no se replica literalmente. Pero el concepto sí: "Café [calle]" en otro barrio. O se mantiene "Café Zazuar" como marca única. |
+| **Eslogan** | *"Más que un café, una familia"* / *"El mejor café de Santa Eugenia... y la mejor compañía"* / *"Música, café y buena gente"* |
 
 **Propuesta de imagen/logo:**
 - **Taza de café** humeante donde el humo forma siluetas de personas o un corazón.
+- Alternativa café concierto: taza de café con una nota musical en el humo.
 - Alternativa: taza vista desde arriba donde el café forma un símbolo de comunidad (círculo de personas).
 - Tipografía: estilo pizarra de cafetería, manuscrita.
 - Colores: marrón café, crema, con toques de verde o naranja.
@@ -821,16 +876,20 @@ La **Asamblea Cristiana de Madrid** abre un local en la **calle Zazuar 13, en el
 
 ### 9.5 Sala Eugenia
 
-**Potencial: ★★★★☆**
+**Potencial: ★★★★★** (sube de ★★★★ con el café concierto mensual y la web dual)
 
 | Aspecto | Detalle |
 |---------|---------|
 | **Concepto** | Evolución de "La Sala" (sección 1.6) con el anclaje del barrio. "Sala" evoca espacio de estar, lugar de reunión, pero también "sala de conciertos", "sala de estar", "sala de espera" (de la vida). "Eugenia" localiza y humaniza: suena a persona, no solo a barrio. |
 | **ADN LIDERE** | **Compartimos** (6C) — la sala como espacio de vida compartida: Palabra, ocio, fiestas, trabajos. **Conectamos con la comunidad** (6C) — *"nos involucramos en actividades sociales, fiestas, ocio, culturales que nuestro entorno viva"*. La programación artística es puerta al evangelismo relacional (Lección 3.1). |
-| **Público** | Jóvenes, creativos, personas que buscan un espacio cultural/comunitario alternativo. |
+| **Público** | Jóvenes, creativos, personas que buscan un espacio cultural/comunitario alternativo. Amplio: "sala" es una palabra que no excluye a nadie. |
 | **Ventaja** | Suena a espacio cultural-artístico. "¿Vamos a Sala Eugenia?" funciona como "vamos al teatro" o "vamos al centro cultural". Permite organizar eventos culturales (conciertos, exposiciones, charlas, talleres) como puerta de entrada al evangelio. Estilo Elan Church: espacio con alma. |
-| **Riesgo** | Puede confundirse con sala de fiestas o discoteca. También con un centro cultural municipal. |
-| **Eslogan** | *"El espacio que tu barrio necesitaba"* / *"Entra. Quédate. Vive."* |
+| **Ventaja +café concierto** | **El café concierto mensual DEFINE la identidad del nombre.** En España, "sala" es literalmente la palabra para locales de música en directo. "Hay concierto en Sala Eugenia" suena a cartel real, a programación cultural de barrio. El riesgo original (confusión con sala de conciertos) se convierte en la VENTAJA PRINCIPAL: es exactamente lo que suena, y eso es exactamente lo que ofrecéis el último viernes del mes. Las fotos del café concierto (luces cálidas, gente con copas, artista en escenario pequeño) son la imagen perfecta para la web y las redes. |
+| **Ventaja +web dual** | `salaeugenia.es` es un dominio perfecto: breve, memorable, con personalidad, anclado al barrio. En la web, la marca "Sala Eugenia" sostiene todo el contenido (VEN · CONECTA · CRECE · SIRVE) con naturalidad. El Instagram @salaeugenia suena a espacio cultural con programación. La URL `salaeugenia.es/cafeconcierto` es 100% coherente. |
+| **Ventaja +asimilación** | El concepto "sala" es un espacio donde te sientes invitado de forma natural (escalón 0→1). No es un templo, no es una iglesia — es una sala donde pasan cosas. El visitante del café concierto vuelve "a la sala" para un grupo de encuentro, y luego "a la sala" un domingo. El nombre no cambia, la experiencia se profundiza. |
+| **Multiplicabilidad** | ✅ Excelente: **Sala + [barrio]** funciona en cualquier ciudad. Sala Lavapiés, Sala Embajadores, Sala Hortaleza. El formato se replica. |
+| **Riesgo** | Puede confundirse con sala de fiestas o discoteca. El diseño interior y la comunicación (cálido, no discotequero) lo resuelven. |
+| **Eslogan** | *"El espacio que tu barrio necesitaba"* / *"Entra. Quédate. Vive."* / *"Música, comunidad y vida"* |
 
 **Propuesta de imagen/logo — estilo Elan Church:**
 - **Logo**: **SALA EUGENIA** en tipografía serif moderna y elegante (Playfair Display o DM Serif Display). Mayúsculas, espaciado amplio (tracking generoso). Sofisticada pero accesible.
@@ -1013,14 +1072,14 @@ El equipo ha identificado un estilo común en las iglesias que inspiran el proye
 
 ### 10.3 Qué propuesta encaja con qué estilo
 
-| Iglesia de referencia | Estilo visual | Propuestas que mejor encajan |
-|----------------------|---------------|------------------------------|
-| **VIVE Church** | Morado/rosa, energía, eventos masivos, aspiracional, tipografía bold | **YoVoy**, **Pura Vida**, **Alasala** |
-| **Hillsong Madrid** | "Bienvenido a Casa", crema/dorado, familiar, cálido pero premium | **La Casa de Santa Eugenia**, **Mesa Abierta**, **Pura Vida** |
-| **Elan Church** | Fotos full-bleed, blanco dominante, serif elegante, "transformación real" | **Sala Eugenia**, **Restaura**, **Renueva** |
-| **121 BCN** | Minimalismo extremo B/N, nombre=número, referencia bíblica oculta | **Local 4/13** ★, **Zazuar 13**, **Meet Madrid** |
-| **Hechos Barcelona** | Nombre bíblico directo, identidad sin disfraces | **La Asamblea**, **Ven y Ve**, **Buenas Noticias** |
-| **Propio / mixto** | Acción social + fe, identidad de barrio, brazo comunitario | **ReCreando**, **Oasis**, **Entre Amigos** |
+| Iglesia de referencia | Estilo visual | Propuestas que mejor encajan | Encaje con café concierto |
+|----------------------|---------------|------------------------------|---------------------------|
+| **VIVE Church** | Morado/rosa, energía, eventos masivos, aspiracional, tipografía bold | **YoVoy**, **Pura Vida**, **Alasala** | Medio: son marcas de movimiento, no de espacio |
+| **Hillsong Madrid** | "Bienvenido a Casa", crema/dorado, familiar, cálido pero premium | **La Casa de Santa Eugenia**, **Mesa Abierta**, **Pura Vida** | Medio: calidez sí, pero no evocan música en vivo |
+| **Elan Church** | Fotos full-bleed, blanco dominante, serif elegante, "transformación real" | **Sala Eugenia** ★, **Restaura**, **Renueva** | **Alto para Sala Eugenia**: el estilo Elan (espacio cultural cálido + luces Edison + fotografía artística) es EXACTO para un café concierto |
+| **121 BCN** | Minimalismo extremo B/N, nombre=número, referencia bíblica oculta | **Local 4/13** ★, **Zazuar 13**, **Meet Madrid** | Alto: estilo underground que encaja con conciertos íntimos |
+| **Hechos Barcelona** | Nombre bíblico directo, identidad sin disfraces | **La Asamblea**, **Ven y Ve**, **Buenas Noticias** | Bajo: tono espiritual directo no encaja con evento social |
+| **Propio / mixto** | Acción social + fe, identidad de barrio, brazo comunitario | **ReCreando**, **Oasis**, **Entre Amigos**, **Café Zazuar** ★ | **Alto para Café Zazuar**: identidad de cafetería de barrio + conciertos = formato existente y reconocible |
 
 ### 10.4 Paleta de colores recomendada
 
@@ -1061,16 +1120,20 @@ Cada aplicación debe reflejar el modelo LIDERE: la vida compartida, el evangeli
 5. **Camisetas / merch**: el equipo las lleva por el barrio. El nombre debe funcionar como diseño de moda que la gente QUIERA llevar. *Conexión LIDERE*: *"ministramos por quiénes somos"* — la camiseta hace visible quién eres sin necesidad de predicar.
 6. **Vasos / servilletas**: si hay café o comida. *Conexión LIDERE*: cada café servido es literalmente el acróstico CAFÉ en acción — Compartir, Amor, Fe, Edificar.
 7. **Stickers / pegatinas urbanas**: para nombres como YoVoy, Local 4/13 o Alasala. *Conexión LIDERE*: *"Ven y Ve"* — evangelismo de invitación, sembrar curiosidad como la samaritana sembraba en su pueblo (Juan 4).
+8. **Cartel mensual del Café Concierto**: diseño recurrente (misma marca, distinto artista cada mes) para Stories de Instagram, WhatsApp y carteles en portales del barrio. El nombre debe funcionar como cabecera de cartel: "[NOMBRE] presenta: [artista] · Viernes 30 · 21:00". *Conexión LIDERE*: evangelismo de grupo (Lección 3.2) — la actividad evangelística del mes como puerta de entrada.
+9. **Web evangelística del local** (`[nombre].es`): el nombre es la marca de toda la web. Debe funcionar como dominio, como cabecera, y como identidad que sostiene las secciones VEN · CONECTA · CRECE · SIRVE. *Conexión LIDERE*: la web es el tríptico de bienvenida digital — el primer "H.O.L.A." antes de pisar el local.
 
-### 10.7 Combinaciones más potentes (nombre + estilo + ADN LIDERE)
+### 10.7 Combinaciones más potentes (nombre + estilo + ADN LIDERE + café concierto)
 
-Si el equipo quiere fusionar un nombre con la estética de una iglesia de referencia concreta, estas tres combinaciones son las que mejor integran todo: barrio + marca + contenido LIDERE.
+Si el equipo quiere fusionar un nombre con la estética de una iglesia de referencia concreta, estas combinaciones son las que mejor integran todo: barrio + marca + contenido LIDERE + actividad insignia (café concierto mensual).
 
-| Combinación | Resultado visual | ADN LIDERE dominante |
-|-------------|-----------------|---------------------|
-| **Pura Vida + estilo Hillsong** | Comunidad aspiracional y cálida. Fotografía de gente real abrazándose sobre fondo oscuro con verde/dorado. La web dice "Bienvenido a Pura Vida". Sensación de hogar premium. | **Visión** (vida en abundancia, Jn 10:10) + **Celebramos** (gratitud) + **Compartimos la Vida** (6C). El eslogan natural es "La vida que siempre quisiste", que conecta con el itinerario de nueva vida en Cristo. |
-| **Local 4/13 + estilo 121 BCN** | Minimalismo blanco y negro. El número como único protagonista del logo. Web con fondo blanco, solo el número y la dirección. Al entrar al local, descubres Filipenses 4:13 en la pared. Momento "wow". | **Estrategia** (fe en lo cotidiano, Hechos 2 — la calle, la casa, la dirección real) + **Crecemos** (la Palabra aplicada a la vida, no a la teología). El "descubrimiento" del versículo replica el evangelismo relacional: no argumentar, invitar y que la persona descubra. |
-| **YoVoy + estilo VIVE Church** | Energía pura. Morado/rosa/negro. Contenido de vídeo. Hashtag #YoVoy en todo. Web con vídeo hero de gente del barrio diciendo "Yo voy". Stickers, pulseras, camisetas neón. | **Conquistamos** (6C) + **Gran Comisión** (Mt 28 — "yendo") + **Multiplicación** (cada persona que dice "YoVoy" se convierte en multiplicador de la invitación). El nombre encarna la cuarta generación de 2 Timoteo 2:2 — cada persona transmite a la siguiente. |
+| Combinación | Resultado visual | ADN LIDERE dominante | Encaje con café concierto |
+|-------------|-----------------|---------------------|---------------------------|
+| **Sala Eugenia + estilo Elan Church** | Espacio cultural cálido. Serif elegante, fotos de interiores con luces Edison, plantas, gente con copas de vino, artista en escenario pequeño. La web dice "Entra. Quédate. Vive." Sensación de café literario con alma. | **Compartimos** (6C) — la sala como espacio de vida compartida. **Conectamos con la comunidad** — programación artística como puerta. | **PERFECTO**: "sala" = sala de conciertos en español. El cartel "SALA EUGENIA presenta: [artista]" es exactamente lo que parece — y lo que es. |
+| **Café Zazuar + estilo propio (barrio)** | Cafetería de barrio con personalidad. Pizarra con eventos, tazas con logo, luces cálidas, sofás, micrófono en la esquina. Web tipo `cafezazuar.es` con sensación de cafetería con programación cultural. | **CAFÉ pastoral** (Compartir + Amor + Fe + Edificar) + **Evangelismo relacional** (la tabla de metas incluye "CAFÉ"). | **PERFECTO**: un café con conciertos es un formato que todo vecino de España reconoce al instante. |
+| **Pura Vida + estilo Hillsong** | Comunidad aspiracional y cálida. Fotografía de gente real abrazándose sobre fondo oscuro con verde/dorado. La web dice "Bienvenido a Pura Vida". Sensación de hogar premium. | **Visión** (vida en abundancia, Jn 10:10) + **Celebramos** (gratitud) + **Compartimos la Vida** (6C). El eslogan natural es "La vida que siempre quisiste", que conecta con el itinerario de nueva vida en Cristo. | Bueno: "Viernes de Pura Vida" funciona como evento recurrente. |
+| **Local 4/13 + estilo 121 BCN** | Minimalismo blanco y negro. El número como único protagonista del logo. Web con fondo blanco, solo el número y la dirección. Al entrar al local, descubres Filipenses 4:13 en la pared. Momento "wow". | **Estrategia** (fe en lo cotidiano, Hechos 2 — la calle, la casa, la dirección real) + **Crecemos** (la Palabra aplicada a la vida, no a la teología). El "descubrimiento" del versículo replica el evangelismo relacional: no argumentar, invitar y que la persona descubra. | Bueno: "Concierto en el 4/13" suena a evento underground íntimo. |
+| **YoVoy + estilo VIVE Church** | Energía pura. Morado/rosa/negro. Contenido de vídeo. Hashtag #YoVoy en todo. Web con vídeo hero de gente del barrio diciendo "Yo voy". Stickers, pulseras, camisetas neón. | **Conquistamos** (6C) + **Gran Comisión** (Mt 28 — "yendo") + **Multiplicación** (cada persona que dice "YoVoy" se convierte en multiplicador de la invitación). El nombre encarna la cuarta generación de 2 Timoteo 2:2 — cada persona transmite a la siguiente. | Neutro: nombre de movimiento, no de espacio. El café concierto no lo refuerza especialmente. |
 
 ---
 
@@ -1083,26 +1146,39 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 3. **Bajo umbral de entrada** (16%) — ¿Cuánto "miedo" da el nombre a un no creyente? (Menos = mejor)
 4. **Potencial de imagen / marca** (16%) — ¿Funciona como logo, en redes, en merch, en la fachada?
 5. **Encaje con Santa Eugenia / Vallecas** (16%) — ¿Suena a algo del barrio o a algo importado?
-6. **Capacidad de multiplicación** (16%) — ¿El nombre es replicable si se abren más locales / células? (LIDERE Tema 4: *"reproducirnos en otro discípulo le llamamos multiplicación"*.)
+6. **Capacidad de multiplicación** (14%) — ¿El nombre es replicable si se abren más locales / células? (LIDERE Tema 4: *"reproducirnos en otro discípulo le llamamos multiplicación"*.)
+7. **Test del Café Concierto** (14%) — NUEVO: "Hay música en [nombre]" ¿suena natural? El café concierto mensual será la actividad más visible para el barrio.
+8. **Coherencia como marca digital** (14%) — NUEVO (web dual): ¿funciona como dominio, handle de Instagram, link de WhatsApp? El nombre es la marca de la web evangelística completa.
 
-| Pos. | Nombre | Punt. | Estilo ref. | Conexión LIDERE | Resumen |
-|------|--------|-------|-------------|-----------------|---------|
-| **1** | **Pura Vida** | ★★★★★ | Hillsong / VIVE | **Visión** (Juan 10:10 — vida en abundancia) + **Itinerario** ("nueva vida en Cristo") + **Celebramos** (celebrar la vida que Dios da). Pasa el test del evangelismo relacional: "¿Vienes a Pura Vida?" suena a plan, no a sermón. | Nombre de marca perfecto. Universal, aspiracional, bíblico. En un barrio con dificultades reales, "pura vida" es contracultural y esperanzador. Merch que la gente quiere llevar. Cero barrera. La comunidad latina lo reconoce al instante. Multiplicable: *Pura Vida Barcelona, Pura Vida Sevilla*. |
-| **2** | **Local 4/13** | ★★★★★ | 121 BCN | **Estrategia** — la dirección del local conecta con la vida cotidiana del barrio, como Hechos 2 conecta la fe con las casas y calles reales. Fil. 4:13 es declaración de fe sin barrera. Multiplicable: cada nuevo local toma su dirección + cita (*Local 7/21*). | Doble lectura magistral: dirección postal para el vecino, declaración de fe para el creyente. Curiosidad garantizada. Estilo 121 BCN llevado a Vallecas. Minimalismo industrial con alma. |
-| **3** | **YoVoy** | ★★★★★ | VIVE Church | **Conquistamos** (6C) — *"la misión de Dios nos mueve"*. **Gran Comisión** — el primer verbo es "yendo" (Mt 28:19). El nombre ES movimiento, ES la invitación del evangelismo relacional. Multiplicable: *YoVoy Madrid, YoVoy Sevilla*. | La invitación hecha identidad. "¿Tú dónde vas?" — "YoVoy." Funciona como hashtag, camiseta, movimiento. Energía joven. Estilo VIVE: directo, aspiracional, disruptivo. |
-| **4** | **Mesa Abierta** | ★★★★★ | Hillsong | **Estrategia** (Hechos 2:46 — *"partiendo el pan en las casas con sencillez de corazón"*). **Compartimos** (6C) — compartir la vida, el tiempo, las comidas. **Evangelismo relacional** (Mateo 9 — Mateo invita a publicanos y pecadores a comer con Jesús). Test: "¿Vienes a Mesa Abierta?" ✅ | La esencia de Hechos 2 hecha nombre. En un barrio multicultural, la mesa es universal. Puede arrancar literalmente con cenas comunitarias. "Siempre hay un sitio para ti." |
-| **5** | **La Casa de Santa Eugenia** | ★★★★★ | Hillsong | **Estrategia** — *"la iglesia en las casas"* (Hechos 2:46). **Conectamos** (6C) — con la comunidad, involucrándose en las actividades del entorno. La casa es la metáfora central de todo el modelo celular. Replicable como concepto: *La Casa de Embajadores*. | "Iglesia en las casas" en lenguaje del barrio. Pertenencia máxima. Hillsong: "Bienvenido a Casa" — misma filosofía, acento vallecano. |
-| **6** | **Ven y Ve** | ★★★★★ | Hechos BCN | **Evangelismo relacional** — la invitación de Juan 1:46 y Juan 4 (la samaritana). Marcos Zapata lo usa en el vídeo de visión. *"¿No sabes decir 'ven y ve'?"* (Lección 3.1). Es el verbo del evangelismo LIDERE: no argumentar, invitar. | Directo, vallecano, bíblico. "No te lo cuento, ven y compruébalo." Nombre corto, memorable, con fuerza de eslogan. |
-| **7** | **Restaura** | ★★★★★ | Elan Church | **Visión** — Isaías 61:4 (*"restaurarán las ruinas antiguas"*). La segunda pata de la visión LIDERE: *"mientras estemos aquí, transformar el mundo"*. En Vallecas, restaurar no es metáfora, es necesidad real. | Doble lectura: restauración personal y social. Imagen icónica: la grieta en el muro de la que brota una planta. Terracota + verde esperanza. |
-| **8** | **Sala Eugenia** | ★★★★☆ | Elan Church | **Compartimos** (6C) — la sala como espacio de vida compartida: Palabra, ocio, fiestas, trabajos. **Conectamos con la comunidad** — programación artística como puerta al evangelio relacional. | "¿Vamos a Sala Eugenia?" suena a centro cultural. Permite programación (conciertos, charlas, exposiciones) como puerta al evangelio. Estilo Elan: cálido, elegante. |
-| **9** | **Entre Amigos** | ★★★★★ | — (propio) | **6C — Conquistamos**: *"Un grupo pequeño es un grupo de amigos con una misión"* — directamente del temario. **Valores**: evangelismo por amistad. La célula como grupo de amigos, no como institución. | Cero barrera: "¿Dónde vas?" — "A Entre Amigos." Suena a bar de barrio. En Vallecas, la amistad es moneda de oro. El nombre habla el idioma del barrio. |
-| **10** | **Oasis** | ★★★★★ | — (propio) | **Cuidamos** (6C) — *"nadie solo, en desamparo u olvidado"*. **CAFÉ pastoral** — un espacio de refugio donde compartir, amar, animar en la fe, edificar. El oasis es el grupo pequeño en medio del desierto urbano. | Contraste hormigón/vida. Refugio, descanso, agua en medio del desierto urbano. Universal, atractivo, sin connotación religiosa. |
-| **11** | **Café Zazuar** | ★★★★★ | — (propio) | **CAFÉ pastoral** (Lección 3.3) — Compartir + Amor + Fe + Edificar. **Evangelismo relacional** — la tabla de metas incluye literalmente "CAFÉ" como columna de contactos semanales. *"¿Tomamos un café?"* es la frase más evangelística de España. | Si el local puede servir café, umbral de entrada = cero. El temario LIDERE usa CAFÉ como acróstico pastoral. En Vallecas, los bares son la vida social. |
-| **12** | **Alasala** | ★★★★☆ | VIVE / 121 | **Estrategia** — la sala/casa como espacio central. **Celebramos** (6C) — el nombre suena a cántico, a celebración. Original, con potencial de grito comunitario. Multiplicable: *Alasala Madrid, Alasala Barcelona*. | Musical, memorable. Contracción de "A la sala". Simetría visual para logos tipo espejo. Requiere inversión en comunicar significado, pero una vez anclado, es inconfundible. |
-| **13** | **Renueva** | ★★★★★ | Elan Church | **Visión** — transformar el mundo + llenar el cielo. **Crecemos** (6C) — *"Maduramos como creyentes y como personas"* en carácter y Palabra. **Itinerario** — cada etapa es una renovación: nuevo convertido → bautismo → encuentro → líder. | Verbo activo. "Renueva tu vida, renueva tu barrio." Potente, positivo, sin carga religiosa. En un barrio obrero, renovarse es aspiración real. |
-| **14** | **La Asamblea** | ★★★★☆ | Hechos BCN | **Estrategia** (Hechos 2) — la primera iglesia era literalmente una asamblea que partía el pan. **Conectamos** (6C) — la asamblea como espacio de conexión horizontal. Honra la denominación (Asamblea Cristiana de Madrid). | En Vallecas, "asamblea" suena a reunión vecinal, a movimiento ciudadano. Diseño: lettering bold, rojo vallecano sobre negro. |
-| **15** | **Brota** | ★★★★☆ | — (propio) | **Crecemos** (6C) — la célula como *"lugar de crecimiento espiritual más importante"*. Metáfora del agricultor (1 Juan 2): plantar hoy, recoger mañana. **Visión**: la vida que rompe el asfalto es la iglesia rompiendo la inercia del barrio. | Poética urbana: la planta que brota del hormigón. Fresco, original, esperanzador. "La vida brota donde menos lo esperas." Verde intenso sobre gris urbano. |
-| **16** | **ReCreando** | ★★★★☆ | — (propio) | **Visión** (Is 61:4) — restaurar las ruinas. **Cuidamos** (6C) — acción social concreta. **Conquistamos** (6C) — servir al barrio para ganar al barrio. Nombre ya existente como asociación social de la iglesia (desde 2015). | Historia real en el barrio: asociación con años de trabajo social (alimentos, asesoría legal, Kids Games, ONN). Re-crear + recrear + creando. Unifica brazo social e iglesia bajo una sola marca. Riesgo: puede sonar más a ONG que a iglesia. |
+| Pos. | Nombre | Punt. | Estilo ref. | Test café concierto | Test web dual | Resumen actualizado |
+|------|--------|-------|-------------|--------------------:|:--------------|---------------------|
+| **1** | **Sala Eugenia** | ★★★★★ | Elan Church | ✅✅✅ "Concierto en Sala Eugenia" = perfecto | `salaeugenia.es` · @salaeugenia | **SUBE de #8 a #1.** El café concierto mensual DEFINE este nombre. En España "sala" = lugar de música en vivo. La coherencia nombre↔actividad↔web↔Instagram es total. Ancla al barrio ("Eugenia"). Multiplicable: Sala + [barrio]. Estilo Elan: cálido, cultural, bello. La web del local funciona como cartelera cultural + comunidad de fe. |
+| **2** | **Café Zazuar** | ★★★★★+ | — (propio) | ✅✅✅ "Música en el Café de Zazuar" = 100% natural | `cafezazuar.es` · @cafezazuar | **SUBE de #11 a #2.** Un café con conciertos el último viernes del mes es un formato que todo vecino de barrio entiende al instante. Coherencia total: nombre=espacio=actividad. CAFÉ pastoral del curso. `cafezazuar.es/cafeconcierto` es la URL perfecta. Debilidad: atado a "Zazuar" para multiplicación. |
+| **3** | **Pura Vida** | ★★★★★ | Hillsong / VIVE | ✅✅ "Música en Pura Vida" = suena a chiringuito cool | `puravida.es` · @puravida.madrid | Se mantiene fuerte. Marca lifestyle universal. "Un viernes pura vida" funciona. El café concierto refuerza la promesa de marca: esto ES pura vida. Multiplicable. La comunidad latina lo reconoce al instante. |
+| **4** | **Local 4/13** | ★★★★★ | 121 BCN | ✅✅ "Concierto en el 4/13" = underground, curioso | `local413.es` · @local413 | Se mantiene fuerte. Doble lectura (dirección + Filipenses 4:13). El café concierto con estética industrial/íntima encaja. Multiplicable: Local X/Y. Minimalismo con alma. |
+| **5** | **YoVoy** | ★★★★★ | VIVE Church | ✅ "YoVoy al concierto" = funciona pero neutro | `yovoy.es` · @yovoy_se | El café concierto no lo refuerza especialmente (el nombre es sobre movimiento, no sobre espacio). Sigue siendo potentísimo como marca-hashtag-movimiento. Multiplicable. Energía joven. |
+| **6** | **Entre Amigos** | ★★★★★ | — (propio) | ✅✅ "Concierto entre amigos" = buen concepto | `entreamigos.es` · @entreamigos.se | El café concierto "entre amigos" es el formato natural del evangelismo relacional: invitas a tus amigos de verdad a un plan real. Bajo umbral. Muy vallecano. |
+| **7** | **Mesa Abierta** | ★★★★★ | Hillsong | ✅ "Concierto en Mesa Abierta" = un poco forzado | `mesaabierta.es` · @mesaabierta | La esencia de Hechos 2 hecha nombre. El picoteo del café concierto encaja con "mesa", pero "concierto en Mesa Abierta" suena algo raro. Fuerte en todo lo demás. |
+| **8** | **La Casa de S.E.** | ★★★★★ | Hillsong | ✅ "Concierto en La Casa" = house concert | `lacasase.es` · @lacasase | "Concierto en casa" tiene cierto encanto (house concerts). Pero el formato café concierto no es su punto fuerte — la casa evoca más intimidad familiar que evento. Muy fuerte en todo lo demás. |
+| **9** | **Ven y Ve** | ★★★★☆ | Hechos BCN | ⚠️ "Concierto en Ven y Ve" = forzado | `venyve.es` · @venyve | Directamente del curso y del evangelio. Pero el café concierto y la web dual no lo refuerzan: es un verbo/invitación, no un nombre de espacio. Pierde algo de fuerza como marca digital (URL breve pero el dominio puede estar ocupado). |
+| **10** | **Oasis** | ★★★★☆ | — (propio) | ✅ "Concierto en El Oasis" = puede sonar a discoteca | `oasis.es` (probablemente ocupado) | Bonito concepto de refugio. Pero "Oasis" + concierto evoca la banda / discoteca ibicenca. Y el dominio `oasis.es` probablemente no está disponible. Baja como marca digital. |
+| **11** | **Restaura** | ★★★★☆ | Elan Church | ⚠️ "Concierto en Restaura" = suena a evento solidario | `restaura.es` · @restaura.madrid | Visión potente (Isaías 61:4). Pero "concierto en Restaura" suena a evento benéfico de ONG, no a plan de viernes. El tono transformacional no encaja con "música y picoteo". Baja relativamente. |
+| **12** | **Renueva** | ★★★★☆ | Elan Church | ⚠️ "Concierto en Renueva" = suena a campaña institucional | `renueva.es` · @renueva.madrid | Mismo problema que Restaura: el tono de transformación personal choca con un plan de viernes noche. Fuerte teológicamente pero pierde en la dimensión social/cultural. |
+| **13** | **Alasala** | ★★★★☆ | VIVE / 121 | ✅✅ "¡Alasala!" como grito de concierto = energético | `alasala.es` · @alasala | Contiene "sala" (guiño). Energético como grito. Original y memorable. Pero requiere mucha inversión en comunicar significado. Multiplicable. |
+| **14** | **La Asamblea** | ★★★★☆ | Hechos BCN | ✅ "Concierto en La Asamblea" = funciona, tono político | `laasamblea.es` · @laasamblea.se | Honra la denominación. En Vallecas el tono asambleario tiene fuerza. Pero como marca digital puede confundirse con movimientos políticos. El café concierto ni suma ni resta. |
+| **15** | **Brota** | ★★★☆☆ | — (propio) | ⚠️ "Concierto en Brota" = extraño | `brota.es` · @brota.madrid | Poética urbana hermosa. Pero "concierto en Brota" no funciona. Y como marca digital compite con muchos resultados (brota = verbo común). Baja significativamente con los nuevos criterios. |
+| **16** | **ReCreando** | ★★★★☆ | — (propio) | ✅ "Concierto en ReCreando" = suena a taller/evento | `recreando.es` · @recreando.se | "Recrear" incluye la dimensión de ocio y diversión. El café concierto encaja conceptualmente (recrearse). Pero sigue sonando más a ONG/asociación que a espacio cultural. Mantiene valor por la historia real de la asociación. |
+
+### Cambios principales respecto al ranking anterior (pre-café concierto)
+
+| Nombre | Antes | Ahora | Razón del cambio |
+|--------|-------|-------|-----------------|
+| **Sala Eugenia** | #8 | **#1** | El café concierto la define. "Sala" = música en vivo en España. |
+| **Café Zazuar** | #11 | **#2** | Coherencia total café + concierto + barrio + web. |
+| **Restaura** | #7 | #11 | "Concierto en Restaura" no funciona como plan de viernes. |
+| **Renueva** | #13 | #12 | Mismo problema que Restaura. |
+| **Ven y Ve** | #6 | #9 | Es un verbo/invitación, no un nombre de espacio. Pierde como marca digital. |
+| **Brota** | #15 | #15 | "Concierto en Brota" = raro. Baja en marca digital. |
 
 ### Menciones honoríficas (fuera del TOP 15 pero con valor)
 
@@ -1117,4 +1193,4 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 ---
 
 *Documento generado para la Asamblea Cristiana de Madrid.*
-*Abril 2026 — Versión unificada con propuestas del equipo, identidad visual, fundamentos LIDERE y ranking final.*
+*Abril 2026 — Versión actualizada con criterios de web dual, café concierto mensual y libro de asimilación. Incluye nuevo ranking con 8 criterios ponderados.*
