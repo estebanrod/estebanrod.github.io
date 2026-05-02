@@ -257,4 +257,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 15:57, 02/05/2026
+updated: 15:58, 02/05/2026
