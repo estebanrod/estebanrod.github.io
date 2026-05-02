@@ -44,48 +44,34 @@ El eslogan siempre en español y conteniendo la palabra CASA . Compensa el nombr
 
 ---
 
-## Qué deberíamos dejar
+## Qué deberíamos perder
+
+**OIKOS** Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el significado de HOME.
 
 **YoVoy** En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de volver a casa. YoVoy no tiene sentido en esta nueva identidad.
-**OIKOS** Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el sognificado de HOME.
+
 **Lidere** Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
 
 ---
 
-## Tests prácticos
+## Fortalezas
 
-### Test del WhatsApp — "¿Te vienes?"
+1. **Hechos 2 en una palabra**: la iglesia en las casas convertida en marca.
+2. **Bajo umbral máximo**: nadie tiene miedo de ir a "casa".
+3. **4 letras**: marca visual potentísima (fachada, merch, logo, cartel).
+4. **Eslogan probado**: "Bienvenido a casa" funciona (Hillsong lo demuestra cada semana).
+5. **Multiplicable al infinito**: HOME + [apellido local]. Cada local es un nuevo hogar.
+6. **Universal**: en un barrio multicultural, "home" trasciende idiomas.
+7. **Conexión LIDERE profunda**: la casa, el CAFÉ pastoral, la célula, la sencillez de corazón.
 
-Un miembro del grupo de encuentro le dice a un vecino:
+## Riesgos (y cómo mitigarlos)
 
-| Situación | Mensaje | ¿Suena natural? |
-| --- | --- | :---: |
-| Café concierto | *"El viernes hay música en HOME, ¿te apuntas?"* | ✅✅ Suena a venue moderno |
-| Grupo de encuentro | *"Los miércoles quedamos en HOME, ¿te vienes?"* | ✅✅ Suena a espacio de comunidad |
-| Cena comunitaria | *"Hay cena en HOME, trae algo para compartir"* | ✅✅✅ Perfecto: "home" + comida = cena en casa |
-| Domingo | *"El domingo vamos a HOME a las 11:30"* | ✅✅ Funciona. No suena a iglesia |
-| General | *"¿Conoces HOME? Pásate cuando quieras"* | ✅✅ Natural, abierto |
-
-### Test del Café Concierto
-
-> *"HOME presenta: [artista] · Viernes 30 · 21:00"*
-
-✅✅ Suena a venue moderno, tipo loft o espacio cultural. Las 4 letras de HOME en un cartel tienen impacto visual brutal.
-
-### Test del eslogan en fachada
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│            H O M E                      │
-│          [apellido]                     │
-│                                         │
-│       Bienvenido a casa                 │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-El vecino que pasa lee: HOME — Bienvenido a casa. Entiende al instante qué es: un lugar donde eres bienvenido.
+| Riesgo | Mitigación |
+| --- | --- |
+| **Inglés en barrio obrero** | "Home" es la palabra inglesa más conocida del planeta (iPhone Home, Google Home, IKEA Home). Y el eslogan siempre va en español: "Bienvenido a casa". La combinación funciona. |
+| **Puede sonar a inmobiliaria o tienda** | El apellido que elijamos lo diferencia. Y la fachada con el eslogan en español desambigua. |
+| **La señora mayor del portal no lo entiende** | Ella leerá "Bienvenido a casa" en grande. Y preguntará "¿qué es esto?". Esa pregunta es la puerta al evangelismo relacional. |
+| **Competencia digital genérica** | Se resuelve con el apellido correcto (ver sección siguiente). |
 
 ---
 
@@ -147,27 +133,6 @@ El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno p
 
 ---
 
-## Fortalezas
-
-1. **Hechos 2 en una palabra**: la iglesia en las casas convertida en marca.
-2. **Bajo umbral máximo**: nadie tiene miedo de ir a "casa".
-3. **4 letras**: marca visual potentísima (fachada, merch, logo, cartel).
-4. **Eslogan probado**: "Bienvenido a casa" funciona (Hillsong lo demuestra cada semana).
-5. **Multiplicable al infinito**: HOME + [apellido local]. Cada local es un nuevo hogar.
-6. **Universal**: en un barrio multicultural, "home" trasciende idiomas.
-7. **Conexión LIDERE profunda**: la casa, el CAFÉ pastoral, la célula, la sencillez de corazón.
-
-## Riesgos (y cómo mitigarlos)
-
-| Riesgo | Mitigación |
-| --- | --- |
-| **Inglés en barrio obrero** | "Home" es la palabra inglesa más conocida del planeta (iPhone Home, Google Home, IKEA Home). Y el eslogan siempre va en español: "Bienvenido a casa". La combinación funciona. |
-| **Puede sonar a inmobiliaria o tienda** | El apellido que elijamos lo diferencia. Y la fachada con el eslogan en español desambigua. |
-| **La señora mayor del portal no lo entiende** | Ella leerá "Bienvenido a casa" en grande. Y preguntará "¿qué es esto?". Esa pregunta es la puerta al evangelismo relacional. |
-| **Competencia digital genérica** | Se resuelve con el apellido correcto (ver sección siguiente). |
-
----
-
 ## PENDIENTE: El "apellido" de HOME
 
 HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
@@ -176,6 +141,43 @@ HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
 2. **Sea fácil de recordar** — que un vecino lo pueda decir y teclear sin dudar
 3. **Funcione como dominio e Instagram** — `home_____.es` y @home_____
 4. **Tenga conexión con el barrio o con el proyecto** — que no suene a franquicia genérica
+
+## Tests prácticos
+
+### Test del WhatsApp — "¿Te vienes?"
+
+Un miembro del grupo de encuentro le dice a un vecino:
+
+| Situación | Mensaje | ¿Suena natural? |
+| --- | --- | :---: |
+| Café concierto | *"El viernes hay música en HOME, ¿te apuntas?"* | ✅✅ Suena a venue moderno |
+| Grupo de encuentro | *"Los miércoles quedamos en HOME, ¿te vienes?"* | ✅✅ Suena a espacio de comunidad |
+| Cena comunitaria | *"Hay cena en HOME, trae algo para compartir"* | ✅✅✅ Perfecto: "home" + comida = cena en casa |
+| Domingo | *"El domingo vamos a HOME a las 11:30"* | ✅✅ Funciona. No suena a iglesia |
+| General | *"¿Conoces HOME? Pásate cuando quieras"* | ✅✅ Natural, abierto |
+
+### Test del Café Concierto
+
+> *"HOME presenta: [artista] · Viernes 30 · 21:00"*
+
+✅✅ Suena a venue moderno, tipo loft o espacio cultural. Las 4 letras de HOME en un cartel tienen impacto visual brutal.
+
+### Test del eslogan en fachada
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│            H O M E                      │
+│          [apellido]                     │
+│                                         │
+│       Bienvenido a casa                 │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+El vecino que pasa lee: HOME — Bienvenido a casa. Entiende al instante qué es: un lugar donde eres bienvenido.
+
+---
 
 ### Opciones en evaluación
 
@@ -335,5 +337,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-
-updated: 15:29, 02/05/2026
+updated: 15:44, 02/05/2026
