@@ -1549,3 +1549,5 @@ Ambos pasan todos los tests. Ambos tienen profundidad LIDERE. La pregunta es: **
 
 *Documento generado para la Asamblea Cristiana de Madrid.*
 *Mayo 2026 — Versión actualizada con comparativa de 7 finalistas (incluye HOME), análisis DAFO, tests prácticos y recomendación final.*
+
+updated: 12:23, 02/05/2026
