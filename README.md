@@ -90,11 +90,11 @@ La propuesta incluye una estrategia web dual para presentar la nueva marca junto
 
 ## Qué deberíamos perder
 
-- **OIKOS** Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el significado de HOME.
+- **OIKOS**: Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el significado de HOME.
 
-- **YoVoy** En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de volver a casa. YoVoy no tiene sentido en esta nueva identidad.
+- **YoVoy**: En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de volver a casa. YoVoy no tiene sentido en esta nueva identidad.
 
-- **Lidere** Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
+- **Lidere**: Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
 
 ---
 
