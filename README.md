@@ -2,7 +2,7 @@
 
 ## Propuesta de nombre para el local de Santa Eugenia
 
-**Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)**
+Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
 
 ---
 
@@ -66,7 +66,7 @@ Un miembro del grupo de encuentro le dice a un vecino:
 
 ### Test del eslogan en fachada
 
-```
+```text
 ┌─────────────────────────────────────────┐
 │                                         │
 │            H O M E                      │
@@ -197,6 +197,7 @@ La decisión del apellido depende de qué prioricéis:
 ### ⏳ Por decidir
 
 El equipo necesita elegir el apellido antes de:
+
 - Reservar dominio y handles de redes sociales
 - Briefing de diseño del logo
 - Producción de fachada
@@ -326,4 +327,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 14:54, 02/05/2026
+updated: 15:12, 02/05/2026
