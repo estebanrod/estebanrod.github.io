@@ -12,7 +12,7 @@ Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
 
 Cuatro letras que lo dicen todo. HOME = hogar, casa, refugio, pertenencia. Es la palabra más universal del mundo para nombrar el lugar donde uno pertenece.
 
-En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana — "home" es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno.
+En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana y por supuesto española — "home" es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno.
 
 La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un hogar espiritual. HOME convierte esa realidad en marca.
 
@@ -23,10 +23,10 @@ La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un h
 | Principio LIDERE | Conexión con HOME |
 | --- | --- |
 | **Estrategia** (Hechos 2:42-47) | *"Partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón."* La casa ES la estrategia. HOME es Hechos 2 en una palabra. |
-| **Cuidamos** (6C) | El hogar es donde se cuida. Espacio del CAFÉ pastoral: Compartir, Amor, Fe, Edificar — todo sucede en casa. |
-| **Conectamos** (6C) | El hogar es donde los lazos se forman: *"nos conectamos unos con otros por medio de la vulnerabilidad y la transparencia"*. |
+| **Cuidamos** (las 6C) | El hogar es donde se cuida. Espacio del CAFÉ pastoral: Compartir, Amor, Fe, Edificar — todo sucede en casa. |
+| **Conectamos** (las 6C) | El hogar es donde los lazos se forman: *"nos conectamos unos con otros por medio de la vulnerabilidad y la transparencia"*. |
 | **Valores** | *"Sencillez de corazón"* (Hechos 2:46): nada más sencillo que la palabra "casa". *"Ministramos por quiénes somos"*: en casa eres tú mismo, sin máscaras. |
-| **Multiplicación** | HOME [barrio A] → HOME [barrio B] → HOME [ciudad]. Cada local es un nuevo hogar. El concepto escala infinitamente. |
+| **Multiplicación** | HOME [barrio A] → HOME [barrio B] → HOME [ciudad]. Cada local es un nuevo hogar en una iglesia que se multiplica. Pero no solo eso, porque cada casa también es HOME. No se trata solo de un local, es nuestra nueva forma de ser iglesia. El concepto escala infinitamente tanto hacia lo más grande como hacia lo más pequeño. |
 | **Evangelismo relacional** | "¿Te vienes a HOME?" suena a plan, a espacio, a lugar donde pasan cosas. No suena a iglesia. |
 | **Célula** | La célula es literalmente *un grupo de amigos reunido en una casa*. HOME nombra esa realidad. |
 
@@ -40,7 +40,15 @@ La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un h
 | *"Siéntete en casa"* | Interior, grupos pequeños, comunicación personal | Más íntimo. Invitación a relajarse, a ser tú mismo. |
 | *"Tu hogar en el barrio"* | Flyers de buzón, redes sociales, campañas locales | Ancla al barrio. Compensa que "HOME" no lo diga solo. |
 
-El eslogan siempre en español. Compensa el nombre en inglés con calidez y cercanía. La combinación HOME (moderno, reconocible) + "Bienvenido a casa" (cálido, cercano) crea un contraste que funciona.
+El eslogan siempre en español y conteniendo la palabra CASA . Compensa el nombre en inglés con calidez y cercanía. La combinación HOME (moderno, reconocible) + "Bienvenido a casa" (cálido, cercano) crea un contraste que funciona.
+
+---
+
+## Qué deberíamos dejar
+
+**YoVoy** En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de volver a casa. YoVoy no tiene sentido en esta nueva identidad.
+**OIKOS** Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el sognificado de HOME.
+**Lidere** Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
 
 ---
 
@@ -327,4 +335,5 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 15:12, 02/05/2026
+
+updated: 15:29, 02/05/2026
