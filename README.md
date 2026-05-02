@@ -12,9 +12,22 @@ Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
 
 Cuatro letras que lo dicen todo. HOME = hogar, casa, refugio, pertenencia. Es la palabra más universal del mundo para nombrar el lugar donde uno pertenece.
 
-En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana y por supuesto española — "home" es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno.
+En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana y por supuesto española — HOME es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno.
 
 La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un hogar espiritual. HOME convierte esa realidad en marca.
+
+---
+
+
+## El eslogan
+
+| Eslogan | Cuándo usarlo | Efecto |
+| --- | --- | --- |
+| *"Bienvenido a casa"* | Fachada, web, primer contacto, carteles | Declaración: esto es un hogar. Ven. |
+| *"Siéntete en casa"* | Interior, grupos pequeños, comunicación personal | Más íntimo. Invitación a relajarse, a ser tú mismo. |
+| *"Tu hogar en el barrio"* | Flyers de buzón, redes sociales, campañas locales | Ancla al barrio. Compensa que "HOME" no lo diga solo. |
+
+El eslogan siempre en español y debe contener la palabra "casa". Compensa el nombre en inglés con calidez y cercanía. La combinación HOME (moderno, reconocible) + "Bienvenido a casa" (cálido, cercano) crea un contraste que funciona.
 
 ---
 
@@ -29,18 +42,6 @@ La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un h
 | **Multiplicación** | HOME [barrio A] → HOME [barrio B] → HOME [ciudad]. Cada local es un nuevo hogar en una iglesia que se multiplica. Pero no solo eso, porque cada casa también es HOME. No se trata solo de un local, es nuestra nueva forma de ser iglesia. El concepto escala infinitamente tanto hacia lo más grande como hacia lo más pequeño. |
 | **Evangelismo relacional** | "¿Te vienes a HOME?" suena a plan, a espacio, a lugar donde pasan cosas. No suena a iglesia. |
 | **Célula** | La célula es literalmente *un grupo de amigos reunido en una casa*. HOME nombra esa realidad. |
-
----
-
-## El eslogan
-
-| Eslogan | Cuándo usarlo | Efecto |
-| --- | --- | --- |
-| *"Bienvenido a casa"* | Fachada, web, primer contacto, carteles | Declaración: esto es un hogar. Ven. |
-| *"Siéntete en casa"* | Interior, grupos pequeños, comunicación personal | Más íntimo. Invitación a relajarse, a ser tú mismo. |
-| *"Tu hogar en el barrio"* | Flyers de buzón, redes sociales, campañas locales | Ancla al barrio. Compensa que "HOME" no lo diga solo. |
-
-El eslogan siempre en español y conteniendo la palabra CASA . Compensa el nombre en inglés con calidez y cercanía. La combinación HOME (moderno, reconocible) + "Bienvenido a casa" (cálido, cercano) crea un contraste que funciona.
 
 ---
 
@@ -72,6 +73,28 @@ El eslogan siempre en español y conteniendo la palabra CASA . Compensa el nombr
 | **Puede sonar a inmobiliaria o tienda** | El apellido que elijamos lo diferencia. Y la fachada con el eslogan en español desambigua. |
 | **La señora mayor del portal no lo entiende** | Ella leerá "Bienvenido a casa" en grande. Y preguntará "¿qué es esto?". Esa pregunta es la puerta al evangelismo relacional. |
 | **Competencia digital genérica** | Se resuelve con el apellido correcto (ver sección siguiente). |
+
+---
+
+## PENDIENTE: El "apellido" de HOME
+
+HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
+
+1. **Sea único en buscadores** — al buscarlo, que salgamos nosotros y nadie más
+2. **Sea fácil de recordar** — que un vecino lo pueda decir y teclear sin dudar
+3. **Funcione como dominio e Instagram** — `home_____.es` y @home_____
+4. **Tenga conexión con el barrio o con el proyecto** — que no suene a franquicia genérica
+
+## ADEMÁS: Estrategia Web Dual
+
+La propuesta incluye una estrategia web dual para presentar la nueva marca junto a la información institucional:
+
+- **Web corporativa (Asamblea Cristiana / `asambleacristiana.es`)**: información institucional, visión, formación `Lidere`, trámites, contacto denominacional y páginas principales de política y transparencia. Enfocada en credibilidad y servicios.
+- **Web local (HOME — `home[apellido].es`)**: foco en comunidad y conversión local. Hero con foto real del barrio, recorrido VEN · CONECTA · CRECE · SIRVE, landing mensual `/cafeconcierto`, eventos locales, formularios y CTA directo a WhatsApp para reservas/invitaciones.
+- **Integración y publicación**: multisite o headless CMS compartido para sincronizar activos (imágenes, estilos, footer), manteniendo contenidos independientes por sitio. URLs canónicas y meta locales para SEO.
+- **Contenido y social**: contenido local prioritario en el sitio HOME (eventos, reels, testimonios). Handles y dominio cortos y coherentes (`@home[apellido]`).
+- **Operativa mínima**: landing editable por el equipo local, plantilla de cartelería, y sistema simple para actualizar el próximo Café Concierto sin desplegar código.
+- **Métricas y gobierno**: analytics compartido con filtros por sitio, roles claros (editor local, admin corporativo) y proceso simple para publicar campañas y reservar dominios/handles.
 
 ---
 
@@ -124,7 +147,7 @@ El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno p
 | Aplicación | Descripción |
 | --- | --- |
 | **Web** | `home[apellido].es` — Hero image: gente real del barrio. Secciones: VEN · CONECTA · CRECE · SIRVE |
-| **Instagram** | @home[apellido] — Feed cálido: momentos de comunidad, frases cortas, reels de eventos |
+| **Instagram** | @home[apellido] — Se reutilizaría el actual de Asamblea Cristiana de Madrid pero cambiando su imagen y empleando un feed cálido: momentos de comunidad, frases cortas, reels de eventos |
 | **Cartel café concierto** | "HOME presenta: [artista]" — diseño recurrente, cartelería de venue |
 | **Merch** | Camisetas con "HOME" grande en pecho. La gente pregunta → conversación |
 | **Stickers / pegatinas** | HOME en pegatinas para portales del barrio, farolas, buzones |
@@ -132,77 +155,6 @@ El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno p
 | **Flyer de buzón** | "¿Conoces HOME? Bienvenido a casa. Pásate cualquier domingo a las 11:30" |
 
 ---
-
-## PENDIENTE: El "apellido" de HOME
-
-HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
-
-1. **Sea único en buscadores** — al buscarlo, que salgamos nosotros y nadie más
-2. **Sea fácil de recordar** — que un vecino lo pueda decir y teclear sin dudar
-3. **Funcione como dominio e Instagram** — `home_____.es` y @home_____
-4. **Tenga conexión con el barrio o con el proyecto** — que no suene a franquicia genérica
-
-## Tests prácticos
-
-### Test del WhatsApp — "¿Te vienes?"
-
-Un miembro del grupo de encuentro le dice a un vecino:
-
-| Situación | Mensaje | ¿Suena natural? |
-| --- | --- | :---: |
-| Café concierto | *"El viernes hay música en HOME, ¿te apuntas?"* | ✅✅ Suena a venue moderno |
-| Grupo de encuentro | *"Los miércoles quedamos en HOME, ¿te vienes?"* | ✅✅ Suena a espacio de comunidad |
-| Cena comunitaria | *"Hay cena en HOME, trae algo para compartir"* | ✅✅✅ Perfecto: "home" + comida = cena en casa |
-| Domingo | *"El domingo vamos a HOME a las 11:30"* | ✅✅ Funciona. No suena a iglesia |
-| General | *"¿Conoces HOME? Pásate cuando quieras"* | ✅✅ Natural, abierto |
-
-### Test del Café Concierto
-
-> *"HOME presenta: [artista] · Viernes 30 · 21:00"*
-
-✅✅ Suena a venue moderno, tipo loft o espacio cultural. Las 4 letras de HOME en un cartel tienen impacto visual brutal.
-
-### Test del eslogan en fachada
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│            H O M E                      │
-│          [apellido]                     │
-│                                         │
-│       Bienvenido a casa                 │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-El vecino que pasa lee: HOME — Bienvenido a casa. Entiende al instante qué es: un lugar donde eres bienvenido.
-
----
-
-### Opciones en evaluación
-
-| Apellido candidato | Ejemplo completo | Dominio | Instagram | Ventajas | Inconvenientes |
-| --- | --- | --- | --- | --- | --- |
-| **Zazuar** | HOME Zazuar | `homezazuar.es` | @homezazuar | Único en internet (0 resultados). Calle real. El vecino lo reconoce. La Z da punch. | Solo los del barrio saben qué es "Zazuar". |
-| **13** | HOME 13 | `home13.es` | @home13 | Muy corto. Número del portal. Fácil de recordar. | Puede estar ocupado. No dice nada por sí solo. |
-| **Eugenia** | HOME Eugenia | `homeeugenia.es` | @homeeugenia | Suena a persona (calidez). El barrio se llama Santa Eugenia. "Eugenia" = "bien nacida" (griego). | Largo en dominio. Puede confundir con nombre propio. |
-| **4/13** | HOME 4/13 | `home413.es` | @home413 | Referencia bíblica oculta (Filipenses 4:13). Intrigante. Estilo 121 BCN. | Formato raro. La barra es problema en URLs. |
-| **SE** | HOME SE | `homese.es` | @homese | Ultra corto. "SE" = Santa Eugenia. Compacto. | Ambiguo. Puede leerse como "home sé" o confundirse. |
-| **Vallecas** | HOME Vallecas | `homevallecas.es` | @homevallecas | Identidad de barrio amplia. Orgullo vallecano. | Más genérico. Puede competir con otros "Vallecas". |
-| **Santa Eugenia** | HOME Santa Eugenia | `homesantaeugenia.es` | @home.santaeugenia | Cero ambigüedad. Anclaje total al barrio. | Muy largo. Difícil de teclear. |
-
-### Criterios para elegir
-
-La decisión del apellido depende de qué prioricéis:
-
-| Si priorizo… | Mejor apellido | Por qué |
-| --- | --- | --- |
-| **Unicidad en internet** | Zazuar | 0 competencia. Google vacío. |
-| **Brevedad** | 13 / SE | Cortos y compactos. |
-| **Profundidad bíblica** | 4/13 | Filipenses 4:13 oculto. Estilo 121 BCN. |
-| **Calidez / nombre propio** | Eugenia | Suena a persona. "Bien nacida" (griego). |
-| **Identidad de barrio (amplia)** | Vallecas | Orgullo vallecano reconocible para todos. |
-| **Identidad de barrio (precisa)** | Zazuar / Santa Eugenia | Solo los del barrio lo conocen. |
 
 ### ⏳ Por decidir
 
@@ -285,42 +237,10 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 ### Reglas de uso
 
 1. **Siempre en español** — el eslogan compensa el nombre en inglés.
-2. **"HOME:" como prefijo visual** — en redes y carteles, siempre visible.
+2. **"HOME:" como prefijo visual** — en redes y carteles, siempre visible y todo en mayúsculas.
 3. **Variar la frase** — no repetir siempre "Bienvenido a casa". El catálogo anterior da variedad para todo el año.
 4. **Tono coherente** — las frases suenan a plan entre amigos, nunca a púlpito.
 5. **Adaptable al contexto** — si surge una actividad nueva, solo hay que inventar una frase con "casa". El formato se mantiene solo.
-
----
-
-## Webs de referencia para imagen y diseño
-
-### Lista de referencia actualizada
-
-| Web | Estilo / Aportación para HOME |
-| --- | --- |
-| [hillsong.com/spain/madrid](https://hillsong.com/spain/madrid/) | **Referencia principal**. "Bienvenido a Casa" como eslogan. Evento "Casa Abierta". Prueba de que el concepto funciona en España. Estilo visual premium: negro + tipografía bold + foto de comunidad |
-| [vivechurch.org/madrid](https://www.vivechurch.org/campus-location/madrid) | Multi-campus moderno. Hero visual potente con foto de pastores. Tono aspiracional pero cercano. Estructura de campus replicable |
-| [somoselan.com](https://www.somoselan.com/) | Diseño español contemporáneo. Lenguaje directo: "¿Listo para una transformación real?" Newsletter integrada. Scroll largo con secciones diferenciadas |
-| [121bcn.com](https://www.121bcn.com/) | **Nombre numérico + referencia bíblica (Salmo 121)** — mismo concepto que HOME 4/13. Minimalismo extremo. Bilingüe. Mapa + email + give. "A Church for Barcelona" = "Tu casa en Santa Eugenia" |
-| [hechosbarcelona.com](https://hechosbarcelona.com/) | En construcción (WordPress). Referencia del ecosistema evangélico español |
-| [ag.org](https://ag.org/) | Denominacional (Asambleas de Dios). Estructura corporativa de referencia para asambleacristiana.es |
-| [elevationchurch.org](https://www.elevationchurch.org/) | "A place for you and your family". Estructura Find → Connect → Serve (= VEN → CONECTA → SIRVE). Eventos visuales compartibles. eGroups como modelo de grupos |
-| [crossroads.net](https://www.crossroads.net/) | "Real People. Real Connection." Categorías claras: Groups, Care, Serve, Trips. Tono aventurero. Historias de personas reales. Quiz/herramienta "Next Step Navigator" |
-| [lifechurch.io](https://lifechurch.site.production.lifechurch.io/) | Multi-campus. App propia. YouVersion (Bible App). Modelo digital avanzado |
-
-### Conclusiones para el diseño de HOME
-
-1. **Hillsong Madrid valida directamente el concepto HOME**: usan "Bienvenido a Casa" y lo combinan con eventos temáticos ("Casa Abierta"). La diferenciación de HOME será el tono de barrio + la coherencia de eslóganes "en casa" en TODA la comunicación, no solo en la puerta.
-
-2. **121 BCN valida el modelo "nombre corto + referencia oculta"**: su nombre viene del Salmo 121. HOME con apellido 4/13 (Filipenses 4:13) sigue exactamente la misma lógica. En su web usan *solo* el nombre y el eslogan — sin explicar la referencia bíblica. Se descubre dentro.
-
-3. **Elevation + Crossroads confirman la estructura de navegación VEN · CONECTA · CRECE · SIRVE**: ambos organizan su web en ese recorrido (Find → Connect → Serve → Lead). No es invención nuestra: es el estándar de iglesias con mejor asimilación digital.
-
-4. **Elan (somoselan.com) es la referencia española más cercana en tono**: diseño limpio, lenguaje directo sin jerga, scroll largo, newsletter. Su "Atrévete a ver más allá" tiene el mismo espíritu que "Bienvenido a casa" — una invitación, no una doctrina.
-
-5. **VIVE Church demuestra el poder del hero visual con rostros reales**: su homepage es una foto de comunidad + un CTA. HOME debe hacer lo mismo: la primera impresión es una foto real del barrio, no un logo gigante.
-
-6. **Ninguna de estas webs parece una iglesia desde fuera** — y ese es el punto. HOME debe seguir esa línea: quien llega a la web ve comunidad, actividades y calidez. La fe se descubre dentro.
 
 ---
 
@@ -337,4 +257,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 15:44, 02/05/2026
+updated: 15:57, 02/05/2026
