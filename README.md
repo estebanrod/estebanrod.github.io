@@ -1,4 +1,7 @@
+<!-- markdownlint-disable MD036 -->
+
 # PROPUESTAS DE NOMBRE E IMAGEN
+
 ## Asamblea Cristiana de Madrid — Local en Zazuar 13, Santa Eugenia (Vallecas)
 
 ---
@@ -38,12 +41,13 @@ Dos decisiones posteriores a las propuestas iniciales afectan directamente a la 
 Se ha decidido separar la presencia digital en **dos sitios independientes**:
 
 | | **asambleacristiana.es** (corporativa) | **[nombre].es** (local/evangelística) |
-|---|---|---|
+| --- | --- | --- |
 | **Público** | Miembros, iglesias, instituciones | Vecinos, curiosos, invitados |
 | **Tono** | Institucional cálido | Cercano, de barrio, evangelístico |
 | **Función** | Credibilidad, historia, base de fe | Atraer, invitar, conectar, asimilar |
 
 **Implicación para el nombre**: El nombre del local ES la marca de la web evangelística. Es el dominio (`[nombre].es`), la identidad de Instagram, el link que se manda por WhatsApp. Ya no es un "nombre de local" — es una **marca digital completa** que debe funcionar como:
+
 - Dominio web memorable y tecleble
 - Handle de Instagram/redes
 - URL compartible por WhatsApp sin vergüenza
@@ -60,8 +64,9 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 > *"El viernes hay música en [NOMBRE], ¿vienes?"*
 
 **Test del Café Concierto** (nuevo test junto al test del WhatsApp):
+
 | Nombre | ¿Suena natural? | Ejemplo |
-|--------|-----------------|---------|
+| -------- | ----------------- | --------- |
 | *Sala Eugenia* | ✅✅✅ | "Hay concierto en Sala Eugenia" — perfecto, "sala" = sala de conciertos |
 | *Café Zazuar* | ✅✅✅ | "Hay música en el Café de Zazuar" — totalmente orgánico |
 | *Local 4/13* | ✅✅ | "Hay concierto en el 4/13" — suena underground, interesante |
@@ -84,7 +89,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | "Casa" es la palabra clave del modelo celular (iglesia en las casas, Hechos 2). Unido al nombre del barrio genera pertenencia inmediata. |
 | **Público** | Todas las edades y culturas. El inmigrante que busca un hogar lejos de casa. La familia del barrio que busca comunidad. |
 | **Ventaja** | Suena a espacio vecinal, no a iglesia. El vecino lo siente suyo. Muy vallecano: "la casa de todos". |
@@ -92,6 +97,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu casa en el barrio"* / *"Donde la vida se comparte"* |
 
 **Propuesta de imagen/logo:**
+
 - Icono de una **puerta abierta** con forma de casa, en colores cálidos (naranja, terracota, mostaza).
 - Tipografía manual/manuscrita, como escrita a mano, transmitiendo cercanía.
 - Alternativa: silueta de una casa con personas dentro formando un corazón.
@@ -104,7 +110,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Igual que el anterior pero usando la calle. Más local aún: los vecinos de la calle lo identifican al instante. |
 | **Público** | Vecinos del entorno inmediato. |
 | **Ventaja** | Ultra local. "Voy a La Casa de Zazuar" es natural en la conversación del barrio. |
@@ -112,6 +118,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Un lugar para ti"* |
 
 **Propuesta de imagen/logo:**
+
 - Similar al anterior. Puede incluir el número 13 integrado en el diseño de la puerta.
 - Tipografía bold, urbana, tipo lettering de barrio.
 
@@ -122,7 +129,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Arraigo, crecimiento, fundamentos sólidos. Muchos vecinos de Santa Eugenia son de familias que llegaron de otros lugares (pueblos, países). "Raíces" habla de echar raíces aquí. |
 | **Público** | Familias inmigrantes y de segunda generación que buscan pertenecer. |
 | **Ventaja** | Funciona como centro cultural/comunitario. No religioso. Conecta con la idea de fundamentos (cap. 1 Joel Comiskey). |
@@ -130,6 +137,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Echa raíces, crece en comunidad"* |
 
 **Propuesta de imagen/logo:**
+
 - Un **árbol** estilizado cuyas raíces forman siluetas de personas.
 - Colores: verde oscuro y tierra/marrón.
 - Alternativa: raíces que se entrelazan formando un corazón o un abrazo.
@@ -141,7 +149,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Puente entre culturas, entre personas, entre la necesidad y la respuesta, entre el barrio y la esperanza. Vallecas es un barrio-puente: conecta el Madrid urbano con el sureste. |
 | **Público** | Universal. Especialmente potente en un barrio multicultural. |
 | **Ventaja** | Metáfora clara y positiva. "Voy al Puente" funciona coloquialmente. |
@@ -149,6 +157,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Conectando vidas"* / *"Un puente entre tú y tu mejor vida"* |
 
 **Propuesta de imagen/logo:**
+
 - Puente estilizado con dos orillas y personas cruzando.
 - Alternativa: arco de puente formado por manos que se encuentran.
 - Colores: azul (confianza) y naranja (cercanía).
@@ -160,7 +169,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Conexión, vínculo. Las 6C del temario empiezan por "Conectamos". |
 | **Público** | Jóvenes y adultos urbanos. |
 | **Ventaja** | Moderno, breve, fácil para redes sociales (@nexosantaeugenia). |
@@ -168,6 +177,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Donde las vidas se conectan"* |
 
 **Propuesta de imagen/logo:**
+
 - Dos puntos unidos por una línea que forma un corazón o una sonrisa.
 - Tipografía sans-serif moderna. Colores: azul eléctrico y blanco.
 
@@ -178,7 +188,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆** (sube de ★★★ con el café concierto mensual)
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Un espacio donde estar. La sala de tu casa, pero compartida. |
 | **Público** | Jóvenes, personas solas que buscan un lugar donde ir. |
 | **Ventaja** | Minimalista. Bajísimo umbral. "¿Vienes a La Sala?" suena a plan de amigos. |
@@ -188,6 +198,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu sala en el barrio"* / *"Música, café y buena gente"* |
 
 **Propuesta de imagen/logo:**
+
 - Sofá estilizado con una lámpara, icono de hogar. O: micrófono + taza de café fusionados.
 - Colores: morado suave y crema.
 
@@ -200,7 +211,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Directamente del itinerario formativo ("Nueva Vida en Cristo"). Esperanza, cambio, segunda oportunidad. En un barrio con necesidades reales, "vida nueva" resuena. |
 | **Público** | Personas en crisis, buscadores, familias rotas, personas con adicciones. |
 | **Ventaja** | Mensaje claro de esperanza. En Vallecas hay mucha gente que necesita escuchar "vida nueva". |
@@ -208,6 +219,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Nunca es tarde para empezar de nuevo"* |
 
 **Propuesta de imagen/logo:**
+
 - Una mariposa (metamorfosis) o un amanecer sobre la silueta de edificios de barrio.
 - Colores: amarillo/dorado (esperanza) y azul profundo (cielo nuevo).
 
@@ -218,7 +230,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Verbo activo. Restauración, renovación. Isaías 61: "restaurarán las ruinas, levantarán los escombros". En un barrio obrero que conoce el desgaste, "renovarse" es aspiración real. |
 | **Público** | Amplio. Funciona para todas las culturas y edades. |
 | **Ventaja** | Potente, positivo, sin carga religiosa. Puede ser nombre de asociación, de centro, de movimiento. Muy versátil. |
@@ -226,6 +238,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Renueva tu vida, renueva tu barrio"* / *"Todo puede ser nuevo"* |
 
 **Propuesta de imagen/logo:**
+
 - Flechas circulares formando un ciclo de renovación, con un brote verde emergiendo.
 - Alternativa: la letra "R" estilizada con un trazo que se transforma en una hoja o rama nueva.
 - Colores: verde fresco y blanco, con acento dorado.
@@ -237,7 +250,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Isaías 61:4 — "Restaurarán las ruinas antiguas, levantarán los escombros de antaño, y renovarán las ciudades arruinadas". Restaurar personas, familias, el propio barrio. |
 | **Público** | Personas heridas, familias en crisis, pero también cualquiera que quiera ver su barrio mejorar. |
 | **Ventaja** | Doble lectura: restauración personal y restauración social/comunitaria. En Vallecas, donde se conoce la lucha vecinal por mejorar el barrio, "restaurar" tiene fuerza. |
@@ -245,6 +258,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Restaurando vidas, transformando el barrio"* / *"Hay esperanza para ti"* |
 
 **Propuesta de imagen/logo:**
+
 - Manos que reconstruyen/sostienen una pieza (corazón, casa, persona).
 - Alternativa: grieta en una pared de la que brota una planta. Muy potente visualmente: lo roto da vida.
 - Colores: terracota (como el ladrillo de Vallecas), con verde esperanza.
@@ -256,7 +270,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Movimiento, progreso. El "ir" de la Gran Comisión. Vallecas avanza, tú avanzas. |
 | **Público** | Jóvenes, emprendedores, personas que quieren salir adelante. |
 | **Ventaja** | Energía positiva. Funciona en redes sociales. Anti-estancamiento. |
@@ -264,6 +278,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu siguiente paso empieza aquí"* |
 
 **Propuesta de imagen/logo:**
+
 - Flecha hacia adelante integrada en la tipografía.
 - Colores: naranja vibrante y gris oscuro.
 
@@ -274,7 +289,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Lo pequeño que crece. El agricultor del proceso de discipulado. Parábola del sembrador. En Santa Eugenia estamos sembrando algo nuevo. |
 | **Público** | Familias, niños, personas que buscan crecimiento. |
 | **Ventaja** | Bello, esperanzador, humilde. Conecta con el proceso de discipulado (semilla→fruto). |
@@ -282,6 +297,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Algo nuevo está creciendo en tu barrio"* |
 
 **Propuesta de imagen/logo:**
+
 - Semilla que se abre y brota. Simple, icónico.
 - Alternativa: mano abierta con una semilla germinando.
 - Colores: verde y marrón tierra.
@@ -293,7 +309,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Variante más dinámica de Semilla. Lo que nace, lo inesperado, la vida que surge donde no se esperaba. En el hormigón de Vallecas, algo brota. |
 | **Público** | Jóvenes, creativos, personas en búsqueda. |
 | **Ventaja** | Fresco, original, poético. Imagen potentísima: una planta que rompe el asfalto. Muy Vallecas. |
@@ -301,6 +317,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"La vida brota donde menos lo esperas"* |
 
 **Propuesta de imagen/logo:**
+
 - **Planta que rompe el asfalto/hormigón**. Esta imagen es icónica y encaja perfectamente con Vallecas: la vida que surge en lo urbano, lo duro, lo gris.
 - Colores: verde intenso sobre gris urbano.
 
@@ -313,7 +330,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | El curso LIDERE define la célula como "un grupo de amigos con una misión". Este nombre captura esa esencia. En un barrio de calle como Vallecas, la amistad es moneda de oro. |
 | **Público** | Universal. Absolutamente todas las edades, culturas, situaciones. |
 | **Ventaja** | Cero barrera de entrada. "¿Dónde vas?" — "A Entre Amigos". Suena a bar de barrio, a plan del sábado, a lugar donde te conocen por tu nombre. |
@@ -321,6 +338,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Amigos de verdad, vida de verdad"* / *"Aquí nadie es extraño"* |
 
 **Propuesta de imagen/logo:**
+
 - Dos o tres siluetas de personas sentadas juntas en un banco o en torno a una mesa, en estilo minimalista.
 - Alternativa: la palabra "Entre Amigos" donde la "o" de "Amigos" es un grupo de puntos/personas formando un círculo.
 - Tipografía amigable, redondeada, tipo handwriting.
@@ -333,7 +351,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | La mesa es el centro de la vida compartida en Hechos 2: "partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón". En la cultura latina (tan presente en Santa Eugenia), la mesa es sagrada. |
 | **Público** | Familias, inmigrantes, personas solas. Cualquiera que quiera sentarse a una mesa donde es bienvenido. |
 | **Ventaja** | Evoca comida, hospitalidad, igualdad (en la mesa todos somos iguales). "Abierta" = sin exclusión. Perfecta para un barrio multicultural. Puede empezar literalmente con cenas/comidas comunitarias. |
@@ -341,6 +359,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Siempre hay un sitio para ti"* / *"Donde compartir es vivir"* |
 
 **Propuesta de imagen/logo:**
+
 - **Mesa vista desde arriba** con platos/tazas dispuestos en círculo, como una célula.
 - Alternativa: mesa larga tipo banquete con una silla vacía invitando a sentarse.
 - Colores: rojo cálido (pasión, comida, vida) y crema.
@@ -353,7 +372,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Juan 4: la mujer samaritana dice "Venid, ved a un hombre que me ha dicho todo cuanto he hecho". Es el nombre de uno de los vídeos del curso (Marcos Zapata). Es la esencia del evangelismo relacional: no argumentar, sino invitar a experimentar. |
 | **Público** | Curiosos, buscadores, personas que han oído hablar de Dios pero nunca lo han experimentado. |
 | **Ventaja** | Invitación directa. No impone, no presiona: "ven y comprueba tú mismo". Bíblico pero suena a eslogan de marketing. Muy memorable. En Vallecas, donde la gente es directa, este nombre encaja. |
@@ -361,6 +380,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Descúbrelo por ti mismo"* / *"No te lo contamos, vívelo"* |
 
 **Propuesta de imagen/logo:**
+
 - **Puerta entreabierta** con luz cálida saliendo de dentro. Invita a asomarse.
 - Alternativa: ojo estilizado (el "ve") combinado con pasos/camino (el "ven").
 - Tipografía: bold, directa, urbana. Puede tener estilo de cartel callejero.
@@ -373,7 +393,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Pertenencia. "Este es tu sitio". En un barrio donde mucha gente viene de fuera (de otro país, de otro barrio), decirle a alguien "este es tu lugar" es poderoso. |
 | **Público** | Inmigrantes, jóvenes sin referentes, personas solas, nuevos vecinos. |
 | **Ventaja** | Directo, simple, emocionalmente potente. |
@@ -381,6 +401,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu lugar en Santa Eugenia"* |
 
 **Propuesta de imagen/logo:**
+
 - Pin de mapa (📍) con un corazón dentro, señalando Santa Eugenia.
 - Colores: rojo y blanco.
 
@@ -391,7 +412,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★+** (reforzado por el café concierto mensual)
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Si el local puede tener una barra de café o espacio de cafetería, esto es oro. El temario LIDERE tiene una sección entera sobre "Cuidado Pastoral: CAFÉ" (Compartir, Amor, Fe, Edificar). El café es excusa para sentarse, hablar, conocerse. |
 | **Público** | Literalmente todo el mundo. Quien no entraría a una "iglesia", sí entra a tomarse un café. |
 | **Ventaja** | **Umbral de entrada prácticamente cero.** "¿Tomamos un café?" es la frase más universal de España. Una vez dentro, la persona encuentra comunidad, conversación, vida. Es exactamente el modelo del evangelismo relacional. En Vallecas, los bares son el centro de la vida social. Este nombre compite directamente en ese espacio. |
@@ -403,6 +424,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Más que un café, una familia"* / *"El mejor café de Santa Eugenia... y la mejor compañía"* / *"Música, café y buena gente"* |
 
 **Propuesta de imagen/logo:**
+
 - **Taza de café** humeante donde el humo forma siluetas de personas o un corazón.
 - Alternativa café concierto: taza de café con una nota musical en el humo.
 - Alternativa: taza vista desde arriba donde el café forma un símbolo de comunidad (círculo de personas).
@@ -416,7 +438,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Accesibilidad, bienvenida incondicional. Conecta con "abrir las casas" del temario. |
 | **Público** | Amplio. |
 | **Ventaja** | Mensaje claro y directo. |
@@ -431,7 +453,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | "Evangelio" = buenas noticias. En un barrio donde las noticias suelen ser malas (paro, inseguridad, crisis), decir "buenas noticias" es contracultural. La iglesia madre se llama "Buenas Noticias", así que hay coherencia. |
 | **Público** | Amplio. Especialmente personas en dificultad que necesitan escuchar algo positivo. |
 | **Ventaja** | Identidad de marca con la iglesia madre. Positivo. Funciona como cabecera de periódico de barrio, de podcast, de cartelería. |
@@ -439,6 +461,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Las mejores noticias son para ti"* / *"Porque tu barrio merece buenas noticias"* |
 
 **Propuesta de imagen/logo:**
+
 - Bocadillo de cómic / bocadillo de diálogo con el nombre dentro, como si alguien lo estuviera contando.
 - Colores: amarillo (optimismo), con tipografía en azul oscuro.
 - Alternativa: megáfono estilizado del que salen ondas de color.
@@ -450,7 +473,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Luz que guía, referencia en la oscuridad. "Vosotros sois la luz del mundo". |
 | **Público** | Personas perdidas, desorientadas, en crisis. |
 | **Ventaja** | Universal, breve, icónico. Fácil de diseñar. "El Faro de Santa Eugenia" tiene fuerza. |
@@ -458,6 +481,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Una luz en tu barrio"* |
 
 **Propuesta de imagen/logo:**
+
 - Faro estilizado con haz de luz. Simple y reconocible.
 - Colores: amarillo/dorado y azul marino.
 
@@ -468,7 +492,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Amanecer, nuevo comienzo. Cada día es una nueva oportunidad. |
 | **Público** | Mujeres, familias, personas en búsqueda de un nuevo inicio. |
 | **Ventaja** | Bello, poético, esperanzador. Funciona como nombre de asociación. |
@@ -476,6 +500,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Un nuevo amanecer en Santa Eugenia"* |
 
 **Propuesta de imagen/logo:**
+
 - Horizonte urbano (silueta de bloques de pisos) con sol naciente.
 - Colores: degradado de naranja a amarillo sobre silueta oscura.
 
@@ -486,7 +511,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Fuego cálido del hogar. La lumbre donde se reunía la familia. Calidez, calor humano, luz. En castellano "hacer lumbre" = encender fuego para reunirse. |
 | **Público** | Personas que buscan calor humano, comunidad, hogar. |
 | **Ventaja** | Original, evocador, muy español. Conecta con la pasión por Dios y por las personas. Suena a espacio cultural/comunitario. |
@@ -494,6 +519,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Ven a calentarte"* / *"Donde el fuego no se apaga"* |
 
 **Propuesta de imagen/logo:**
+
 - **Llama cálida** (no agresiva, no pentecostal) en tonos naranjas, como fuego de hogar.
 - La llama formada por siluetas de personas juntas.
 - Colores: naranja, ámbar, rojo cálido sobre fondo oscuro.
@@ -505,7 +531,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Juan 4: agua viva. Fuente que no se agota. Provisión, frescura. En un barrio de hormigón, un manantial es un oasis. |
 | **Público** | Personas sedientas (espiritual y emocionalmente). |
 | **Ventaja** | Positivo, fresco, evoca vida. Funciona como centro de bienestar comunitario. |
@@ -513,6 +539,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Agua fresca para tu vida"* |
 
 **Propuesta de imagen/logo:**
+
 - Gota de agua que forma una persona con brazos abiertos.
 - Colores: azul claro y blanco.
 
@@ -523,7 +550,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Descanso, refugio, agua en medio del desierto. La célula como "lugar seguro" (temario). Santa Eugenia, con sus bloques de hormigón y el ritmo frenético de Madrid, necesita un oasis. |
 | **Público** | Personas estresadas, solas, cansadas, quemadas. También personas en búsqueda espiritual. |
 | **Ventaja** | Universal, atractivo, sin connotación religiosa. "Voy al Oasis" suena a plan apetecible. Funciona para cualquier actividad: cafés, talleres, encuentros, yoga cristiano, meditación bíblica... |
@@ -531,6 +558,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu refugio en Santa Eugenia"* / *"Respira. Descansa. Vive."* |
 
 **Propuesta de imagen/logo:**
+
 - **Palmera estilizada** o planta sobre fondo urbano/gris. El contraste naturaleza-hormigón es potente.
 - Alternativa: gota de agua con reflejo verde dentro.
 - Colores: verde oasis, azul turquesa, arena.
@@ -544,7 +572,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | La dirección como nombre. Ultra local. Estilo "Studio 54", industrial, urbano. |
 | **Público** | Jóvenes urbanos, generación que se mueve por nombres con personalidad. |
 | **Ventaja** | Inconfundible. Fácil de encontrar. Genera curiosidad: "¿Qué es Zazuar 13?" Muy instagrameable. |
@@ -552,6 +580,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Pasa algo bueno en Zazuar 13"* / *"Tu nueva dirección"* |
 
 **Propuesta de imagen/logo:**
+
 - El número **13** grande y bold, con "Zazuar" en tipografía fina encima.
 - Estilo: industrial, urbano, mural callejero.
 - Colores: negro y amarillo (contraste urbano, tipo señalética de calle).
@@ -563,7 +592,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Declaración: el barrio está vivo, hay vida aquí. Conecta orgullo de barrio con vida espiritual. |
 | **Público** | Vecinos con orgullo vallecano. Asociaciones vecinales como aliados naturales. |
 | **Ventaja** | Identidad de barrio potentísima. "Santa Eugenia Vive" podría ser un movimiento, no solo un local. |
@@ -571,6 +600,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Porque tu barrio merece vida"* |
 
 **Propuesta de imagen/logo:**
+
 - Silueta reconocible de Santa Eugenia (bloques de pisos, metro) con la palabra VIVE grande.
 - Colores: los del barrio, colores vivos (multicolor) sobre fondo urbano.
 
@@ -581,7 +611,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | "El local donde pasan cosas buenas". En Vallecas, "el local" es lenguaje de la calle. |
 | **Público** | Gente del barrio. |
 | **Ventaja** | Coloquial, cercano, sin pretensiones. |
@@ -595,7 +625,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Funcional: centro que está abierto para el barrio. |
 | **Público** | Vecinos buscando actividades. |
 | **Ventaja** | Claro, funcional, sin barrera. |
@@ -610,7 +640,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Don gratuito, favor inmerecido. Palabra profundamente bíblica pero de uso cotidiano. "Tiene gracia", "dar las gracias", "por la gracia de Dios". |
 | **Público** | Amplio. Las personas de trasfondo católico (muchas en Vallecas) conectan con la palabra. |
 | **Ventaja** | Elegante, breve, doble lectura. Como nombre de espacio suena a galería, café literario. |
@@ -618,6 +648,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Todo es gracia"* |
 
 **Propuesta de imagen/logo:**
+
 - Tipografía caligráfica elegante. La "G" formada por una mano abierta que da/recibe.
 - Colores: dorado/mostaza y blanco.
 
@@ -628,7 +659,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Paz integral: cuerpo, mente, relaciones, espíritu, comunidad. |
 | **Público** | Personas interesadas en espiritualidad, bienestar, paz interior. |
 | **Ventaja** | Exótico pero conocido. Multicultural. |
@@ -641,7 +672,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Amor incondicional en griego. Las primeras iglesias se reunían en "ágapes" (comidas fraternales). |
 | **Público** | Personas con cultura bíblica o interés cultural. |
 | **Ventaja** | Conecta con Mesa Abierta conceptualmente. |
@@ -654,7 +685,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Símbolo bíblico (Romanos 11, Salmo 52) y mediterráneo de paz, provisión, arraigo. Un olivo tarda en crecer pero vive siglos. |
 | **Público** | Amplio. Especialmente la comunidad latina y española. |
 | **Ventaja** | Culturalmente familiar en España. Suena a restaurante, bar, lugar acogedor. Metáfora del crecimiento lento pero duradero (como el discipulado). |
@@ -662,6 +693,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Crece lento, vive para siempre"* / *"Un lugar donde echar raíces"* |
 
 **Propuesta de imagen/logo:**
+
 - **Olivo estilizado** con raíces visibles y ramas que acogen.
 - Colores: verde oliva, marrón madera, blanco.
 
@@ -674,7 +706,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Directamente de la visión: "transformar el mundo/la comunidad". Vallecas ha sido históricamente un barrio de transformación social. |
 | **Público** | Activistas, asociaciones, jóvenes con inquietud social. |
 | **Ventaja** | Suena a movimiento, no a iglesia. Puede articular acción social real (banco de alimentos, ayuda al desempleo, integración de inmigrantes). |
@@ -682,6 +714,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Tu vida transforma el barrio"* |
 
 **Propuesta de imagen/logo:**
+
 - Letra T que se transforma en una flecha ascendente con persona.
 - Colores: rojo y negro (energía, barrio).
 
@@ -692,7 +725,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Concepto central del curso: multiplicación de discípulos y células. |
 | **Público** | Personas con mentalidad emprendedora, de crecimiento. |
 | **Ventaja** | Suena a proyecto emprendedor o creativo. Muy positivo. Funciona como marca. |
@@ -700,6 +733,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Multiplica lo bueno"* |
 
 **Propuesta de imagen/logo:**
+
 - Símbolo de multiplicación (×) formado por personas.
 - Colores: azul y naranja.
 
@@ -710,7 +744,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Las 6C: "Conectamos". Conectar con Dios, con otros, con la comunidad, con el mundo. |
 | **Público** | Jóvenes, personas solas, nuevos vecinos del barrio. |
 | **Ventaja** | Digital, moderno. @conectasantaeugenia funciona en todas las redes. |
@@ -718,6 +752,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Conecta con lo que importa"* |
 
 **Propuesta de imagen/logo:**
+
 - Puntos que se unen formando una red/comunidad.
 - Colores: azul y verde.
 
@@ -728,7 +763,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Crecimiento personal, espiritual, comunitario. 1 Corintios 15:58: "creciendo en la obra del Señor siempre". |
 | **Público** | Familias con hijos, jóvenes, personas en proceso de cambio. |
 | **Ventaja** | Universal, positivo. "Crece con nosotros" es una invitación natural. |
@@ -736,6 +771,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Crece con nosotros en Santa Eugenia"* |
 
 **Propuesta de imagen/logo:**
+
 - Planta que crece con hojas que son personas.
 - Colores: verde y amarillo.
 
@@ -748,7 +784,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Juego con la dirección (nº 13) + referencia a Hechos 2:42-47 o Lucas 10:1-9 (los enviados). |
 | **Ventaja** | Misterioso, urbano, genera curiosidad. |
 | **Riesgo** | Nadie entendería la referencia sin explicación. |
@@ -760,7 +796,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | "Eugenia" significa "bien nacida" en griego. El nombre del barrio se convierte en profecía: un proyecto para que todos nazcan bien, nazcan de nuevo. |
 | **Público** | Vecinos del barrio. Fuerte identidad local. |
 | **Ventaja** | Doble lectura: proyecto del barrio + proyecto de nacer bien (nuevo nacimiento). Elegante. |
@@ -768,6 +804,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Eslogan** | *"Nacidos para vivir"* / *"Bien nacidos"* |
 
 **Propuesta de imagen/logo:**
+
 - La palabra EUGENIA con la E inicial estilizada como una puerta abierta.
 - Colores: morado (realeza, "bien nacida") y blanco.
 
@@ -778,7 +815,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Un rincón íntimo, acogedor, personalizado. |
 | **Ventaja** | Cercano, como hablar de una persona del barrio. |
 | **Riesgo** | Suena a bar o tienda de antigüedades. |
@@ -792,7 +829,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Recuperar con orgullo el nombre propio de la denominación. "Asamblea" en su origen griego (ἐκκλησία / ekklesia) es exactamente "iglesia": la reunión de los llamados. Pero en castellano cotidiano, "asamblea" evoca reunión ciudadana, movimiento vecinal, democracia de base. En Vallecas, donde el asociacionismo es parte del ADN, suena a algo propio del barrio. |
 | **ADN LIDERE** | **Estrategia** (Hechos 2) — la primera iglesia era literalmente una asamblea que partía el pan. **Conectamos** (6C) — la asamblea como espacio de conexión horizontal donde *"ministramos por quiénes somos, no por los dones"*. |
 | **Público** | Vecinos con conciencia de barrio, personas con memoria del movimiento vecinal vallecano, adultos y jóvenes con espíritu participativo. |
@@ -800,7 +837,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede evocar connotaciones políticas (asamblea popular, movimientos asamblearios de izquierda). En Vallecas eso puede ser ventaja o desventaja según el interlocutor. Necesita un diseño moderno para no sonar institucional. |
 | **Eslogan** | *"La reunión que cambia todo"* / *"Nos juntamos para vivir"* / *"Tu asamblea en Santa Eugenia"* |
 
-**Propuesta de imagen/logo — estilo VIVE/Hillsong:**
+**Propuesta de imagen/logo — estilo VIVE/Hillsong::**
+
 - **Logo**: la palabra **LA ASAMBLEA** en tipografía sans-serif bold (Montserrat Black o Sora Bold), toda en mayúsculas. Limpia, sin icono. El propio lettering es el logo. Estilo 121 BCN.
 - **Alternativa**: un punto de encuentro (•) o un asterisco estilizado (*) antes del nombre, como símbolo de "aquí nos reunimos".
 - **Colores**: fondo negro con texto blanco y acento en **rojo vallecano** (#C0392B). El rojo es el color del movimiento obrero, de la pasión, de la sangre de Cristo. En Vallecas es un color con identidad.
@@ -813,7 +851,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Declaración personal. "Yo voy" = decisión propia, movimiento, acción. Conecta con la Gran Comisión ("Id") pero en primera persona: no te mandan, tú decides. También es evangelismo viral: "YoVoy" funciona como hashtag, como camiseta, como cultura. "¿Tú dónde vas el domingo?" — "YoVoy." |
 | **ADN LIDERE** | **Conquistamos** (6C) — *"la misión de Dios nos mueve"*. **Gran Comisión** (Mt 28:19) — el primer verbo es "yendo" (gerundio de movimiento). **Evangelismo relacional** — el nombre ES la invitación. Pasa el test de Lección 3.1: *"¿te vienes?"* sin sonar a iglesia. **Multiplicación** (2 Ti 2:2) — cada persona que dice "YoVoy" multiplica la invitación. |
 | **Público** | Jóvenes, millennials, Gen Z. Personas activas en redes sociales. La generación que necesita sentir que es SU decisión, no la de sus padres o de una institución. |
@@ -821,7 +859,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede sonar a app de transporte o a campaña electoral. Requiere identidad visual fuerte para anclar el significado. |
 | **Eslogan** | *"¿Y tú?"* / *"YoVoy. ¿Vienes?"* / *"Cada domingo, YoVoy"* |
 
-**Propuesta de imagen/logo — estilo VIVE/Elan:**
+**Propuesta de imagen/logo — estilo VIVE/Elan::**
+
 - **Logo**: **YOVOY** en una sola palabra, tipografía geométrica bold (Poppins ExtraBold o Bebas Neue). La "O" central puede ser un **punto de mapa** 📍 estilizado (como un pin de ubicación = "voy AQUÍ").
 - **Alternativa**: las dos sílabas separadas **YO | VOY** con una barra vertical tipo separador, creando tensión visual.
 - **Colores**: fondo negro + texto en **morado eléctrico** (#8E44AD) o **rosa vibrante** (#E91E8C), al estilo VIVE Church. Energía, juventud, disrupción.
@@ -835,7 +874,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Expresión costarricense que significa "todo bien, la vida es buena, esto es lo mejor". Se ha globalizado y transmite optimismo radical, gratitud, sencillez. Aplicado al evangelio: en Cristo hay PURA VIDA, vida pura, vida abundante (Juan 10:10: "yo he venido para que tengan vida, y la tengan en abundancia"). Doble lectura: "pura vida" = vida plena, y "vida pura" = santidad sin legalismo. |
 | **ADN LIDERE** | **Visión** (Ap 7:9) — llenar el cielo de vida. **Celebramos** (6C) — gratitud como actitud central, celebrar la vida que Dios da. **Itinerario educativo** — "Nueva Vida en Cristo" es el primer libro del itinerario formativo; bautismo = *"muerte y nueva vida"* (Lección 1.3). **Compartimos la Vida** (6C) — no solo nos reunimos, compartimos el tiempo, el ocio, las fiestas, las alegrías y las penas. |
 | **Público** | **Universal**. Latinoamericanos la reconocen al instante (y hay muchos en Santa Eugenia). Españoles la asocian con vacaciones, buen rollo, positivismo. Jóvenes la usan en redes. |
@@ -843,7 +882,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede sonar a tienda de smoothies o centro de yoga. Pero si el diseño y comunicación son potentes, se ancla rápido como comunidad de fe. |
 | **Eslogan** | *"Esto es Pura Vida"* / *"Vida en abundancia"* / *"Pura Vida. Puro Dios."* |
 
-**Propuesta de imagen/logo — estilo Hillsong/VIVE:**
+**Propuesta de imagen/logo — estilo Hillsong/VIVE::**
+
 - **Logo**: **PURA VIDA** en tipografía sans-serif bold (Montserrat ExtraBold), toda en mayúsculas. Debajo, en tipografía fina: "santa eugenia" o "madrid".
 - **Alternativa icónica**: la palabra PURA en tipografía bold + VIDA en tipografía script/manuscrita, creando contraste entre fuerza y calidez. Un sol estilizado o una hoja de palma como acento tropical sutil.
 - **Colores**: **verde tropical** (#27AE60) + **blanco** + acento **dorado/amarillo** (#F1C40F). Frescura, vida, naturaleza. O versión urbana: fondo negro con PURA VIDA en **verde neón**.
@@ -858,7 +898,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★☆☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | "Meet" = encontrarse, conocerse. Doble sentido: conocer a gente y encontrarse con Dios. "Madrid" ancla la ciudad. Estilo 121 BCN: nombre bilingüe, internacional, cosmopolita. |
 | **ADN LIDERE** | **Conectamos** (6C) — cuatro niveles de conexión (con Dios, unos con otros, con la comunidad, con el mundo). El nombre captura la esencia del "conectar", pero la barrera idiomática debilita la conexión con el barrio — los valores LIDERE priorizan la sencillez y la cercanía. |
 | **Público** | Jóvenes urbanos, expats, erasmus, personas con perfil internacional. Comunidad anglófona del barrio (hay). |
@@ -866,7 +906,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | **Demasiado anglófono para Santa Eugenia.** El barrio es obrero, multicultural pero con base castellanoparlante. Un nombre en inglés puede sonar a "esto no es para mí" para la señora del portal o para el inmigrante latinoamericano. Funciona mejor en Malasaña, Lavapiés o Salamanca que en Vallecas. Además, hay apps de citas que se llaman "Meet". |
 | **Eslogan** | *"Where life meets God"* / *"Encuéntrate aquí"* |
 
-**Propuesta de imagen/logo — estilo 121 BCN:**
+**Propuesta de imagen/logo — estilo 121 BCN::**
+
 - **Logo**: **MEET** en tipografía geométrica ultra-bold + **MADRID** debajo en tipografía fina. Blanco y negro puro. Minimalismo extremo.
 - **Alternativa**: las dos "E" de MEET convertidas en personas que se encuentran (cara a cara).
 - **Colores**: blanco y negro como base, con acento en **azul eléctrico** (#2980B9). Estilo tech/cosmopolita.
@@ -879,7 +920,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★** (sube de ★★★★ con el café concierto mensual y la web dual)
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Evolución de "La Sala" (sección 1.6) con el anclaje del barrio. "Sala" evoca espacio de estar, lugar de reunión, pero también "sala de conciertos", "sala de estar", "sala de espera" (de la vida). "Eugenia" localiza y humaniza: suena a persona, no solo a barrio. |
 | **ADN LIDERE** | **Compartimos** (6C) — la sala como espacio de vida compartida: Palabra, ocio, fiestas, trabajos. **Conectamos con la comunidad** (6C) — *"nos involucramos en actividades sociales, fiestas, ocio, culturales que nuestro entorno viva"*. La programación artística es puerta al evangelismo relacional (Lección 3.1). |
 | **Público** | Jóvenes, creativos, personas que buscan un espacio cultural/comunitario alternativo. Amplio: "sala" es una palabra que no excluye a nadie. |
@@ -891,7 +932,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede confundirse con sala de fiestas o discoteca. El diseño interior y la comunicación (cálido, no discotequero) lo resuelven. |
 | **Eslogan** | *"El espacio que tu barrio necesitaba"* / *"Entra. Quédate. Vive."* / *"Música, comunidad y vida"* |
 
-**Propuesta de imagen/logo — estilo Elan Church:**
+**Propuesta de imagen/logo — estilo Elan Church::**
+
 - **Logo**: **SALA EUGENIA** en tipografía serif moderna y elegante (Playfair Display o DM Serif Display). Mayúsculas, espaciado amplio (tracking generoso). Sofisticada pero accesible.
 - **Alternativa**: "SALA" en bold grande + "eugenia" en cursiva fina debajo, creando contraste de pesos tipográficos.
 - **Colores**: fondo crema/beige (#FAF3E0) con texto en **verde bosque** (#2C3E2D) o **burdeos** (#800020). Sensación de café cultural, de librería de barrio.
@@ -905,7 +947,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Contracción de "A la sala". Juego fonético que suena a invitación: "¡A la sala!" = "¡vamos!". También evoca "ala" (vuelo, libertad, ángel) + "sala" (espacio). Fonéticamente musical, como palabra inventada con vida propia. Hay algo de grito de ánimo: "¡Alasala!" como "¡vamos allá!" |
 | **ADN LIDERE** | **Celebramos** (6C) — suena a cántico, a celebración comunitaria, a gratitud expresada con alegría. **Estrategia** (Hechos 2) — la sala/casa como espacio central de la vida de fe. **Multiplicación** — nombre replicable: *Alasala Madrid, Alasala Barcelona, Alasala Sevilla*. |
 | **Público** | Jóvenes, familias jóvenes, personas con espíritu creativo. |
@@ -913,7 +955,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Nadie sabe qué significa a primera vista. Requiere comunicación fuerte para explicar/anclar. Puede sonar a palabra sin sentido. |
 | **Eslogan** | *"¡Vamos!"* / *"A la sala. A la vida."* / *"Tu invitación está aquí"* |
 
-**Propuesta de imagen/logo — estilo VIVE/121:**
+**Propuesta de imagen/logo — estilo VIVE/121::**
+
 - **Logo**: **ALASALA** todo junto en tipografía bold geométrica (Bebas Neue, Sora Bold). La simetría visual de la palabra es muy potente: A-L-A-S-A-L-A tiene un ritmo palindrómico casi perfecto. Se puede jugar con esa simetría en el diseño.
 - **Alternativa**: separar **ALA · SALA** con un punto medio, revelando las dos palabras ocultas. O **A LA SALA** con espacios, y un icono de puerta/entrada.
 - **Colores**: **naranja vibrante** (#E67E22) sobre fondo blanco o negro. Energía pura. O versión monocromática en negro.
@@ -927,7 +970,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★★**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | El local número 4 del portal Zazuar 13. Una dirección convertida en nombre. Pero el juego es más profundo: **4/13 puede leerse como una cita bíblica**. Filipenses 4:13: *"Todo lo puedo en Cristo que me fortalece"* — uno de los versículos más conocidos y citados de la Biblia. La dirección física del local ES una declaración de fe oculta a plena vista. |
 | **ADN LIDERE** | **Estrategia** (Hechos 2) — la fe anclada en la dirección real del barrio, en la casa concreta, en la calle. Joel Comiskey cap. 1: construir sobre roca, no sobre arena — y la roca aquí es literal: la dirección física del local. **Evangelismo relacional** — el "descubrimiento" del versículo replica el principio de Lección 3.1: no argumentar, invitar y que la persona descubra. **Multiplicación** — cada nuevo local toma su propia dirección + cita: *Local 7/21, Local 3/16*. Replicable al infinito. |
 | **Público** | Jóvenes urbanos, curiosos, personas que buscan algo diferente. Cristianos que reconocerán la cita bíblica al instante. No cristianos que descubrirán el significado más adelante. |
@@ -936,7 +979,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede sonar a almacén, nave industrial o trastero. El diseño interior y exterior debe transmitir calidez. La referencia bíblica solo la pillan los que la conocen (pero eso es parte de la gracia: un código compartido). |
 | **Eslogan** | *"Todo lo puedes"* / *"Pasa algo en el Local 4/13"* / *"La dirección que lo cambia todo"* |
 
-**Propuesta de imagen/logo — estilo 121 BCN / Zazuar 13:**
+**Propuesta de imagen/logo — estilo 121 BCN / Zazuar 13::**
+
 - **Logo**: el número **4/13** como elemento central, en tipografía ultra-bold condensada (Bebas Neue, Oswald Bold). "LOCAL" encima en tipografía fina y pequeña. El slash (/) como elemento gráfico protagonista — puede ser una barra diagonal en color acento.
 - **Alternativa**: **L4/13** como acrónimo/marca. O el 4:13 con dos puntos (como cita bíblica) integrado en un diseño que también parece una dirección.
 - **Colores**: **negro y amarillo industrial** (#F1C40F sobre #1A1A1A). Estilo señalética urbana, como un número de nave o portal. O negro y blanco puro al estilo 121 BCN, con la barra "/" en rojo.
@@ -951,7 +995,7 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 **Potencial: ★★★★☆**
 
 | Aspecto | Detalle |
-|---------|---------|
+| --------- | --------- |
 | **Concepto** | Nombre que ya existe en la historia de la iglesia: la **Asociación ReCreando** nació en diciembre de 2015 como brazo social de la Asamblea Cristiana de Madrid. Colabora con VallecasTodoCultura ofreciendo asesoramiento legal, laboral y de extranjería; organiza Kids Games, participa en la ONN (Operación Niño de la Navidad), capellanías, y durante la pandemia fue clave en el reparto de alimentos y ayuda a familias. Adoptar "ReCreando" como nombre del local es abrazar la identidad social que la iglesia ya tiene en el barrio y elevarla a marca. Además, la palabra encierra múltiples capas: **re-crear** (volver a crear, restaurar lo roto — Isaías 61:4), **recrear** (disfrutar, jugar, vivir con alegría) y **creando** (acción continua, creatividad, emprendimiento). |
 | **ADN LIDERE** | **Visión** (Is 61:4) — *"restaurar las ruinas antiguas, levantar los escombros de antaño, reparar las ciudades arruinadas"*. ReCreando ES Isaías 61 hecho nombre. **Cuidamos** (6C) — la asociación encarna el cuidado concreto: alimentos, asesoramiento legal, acompañamiento social. **Compartimos** (6C) — compartir no solo la Palabra sino la vida: *"compartimos el tiempo, el ocio, las fiestas, los trabajos, las alegrías y las penas"*. **Conquistamos** (6C) — la misión integral como puerta al evangelismo relacional: servir al barrio para ganar al barrio. **Misión** (Mt 22 + Mt 28) — las tres patas del discípulo: ama a Dios, ama al prójimo (acción social) y se reproduce (multiplicación del impacto). |
 | **Público** | Todo el barrio. Familias en situación de vulnerabilidad, inmigrantes que necesitan orientación legal, vecinos que buscan comunidad y apoyo. También jóvenes sensibles a lo social, voluntarios, y cualquiera que conecte con la idea de "crear algo nuevo". |
@@ -959,7 +1003,8 @@ Se ha definido un **evento insignia mensual**: una noche de música en directo, 
 | **Riesgo** | Puede sonar más a ONG o centro social que a iglesia. Pero en Santa Eugenia eso puede ser una ventaja (baja la barrera de entrada). También puede confundirse con un centro de ocio infantil ("recreo"). Requiere comunicación clara para que la dimensión espiritual no quede oculta detrás de lo social. |
 | **Eslogan** | *"Creando algo nuevo en el barrio"* / *"Re-creamos vidas"* / *"Donde todo se hace nuevo"* (Ap 21:5) / *"Restaurar. Crear. Vivir."* |
 
-**Propuesta de imagen/logo — estilo propio (social + espiritual):**
+**Propuesta de imagen/logo — estilo propio (social + espiritual)::**
+
 - **Logo**: **RECREANDO** en tipografía sans-serif bold (Montserrat Bold o Poppins SemiBold). El prefijo **RE** puede destacarse en color acento (naranja, verde o el que se elija), separado visualmente del resto: **RE**CREANDO. Esto subraya la doble lectura: re-crear y creando.
 - **Alternativa**: la palabra completa con un **trazo de pincel** o **brocha** bajo "CREANDO", como si alguien estuviera pintando/creando en ese momento. Transmite creatividad, taller, manos a la obra.
 - **Icono opcional**: unas manos abiertas sosteniendo una semilla/brote (crear + cuidar), o un pincel/trazo que forma una cruz sutil.
@@ -983,7 +1028,7 @@ Antes de hablar de colores y tipografías, la marca debe nacer del contenido. El
 #### Visión, Misión, Estrategia y Valores (Tema 1)
 
 | Concepto LIDERE | Contenido clave | Aplicación a la marca |
-|-----------------|----------------|----------------------|
+| ----------------- | ---------------- | ---------------------- |
 | **Visión** (el "Por qué") | *"Llevar el evangelio a toda persona, convirtiéndolas en discípulos de Jesucristo que transformen su propia comunidad"* (Apocalipsis 7:9 + Isaías 61:4). Llenar el cielo + transformar el mundo. | El nombre y la imagen deben comunicar **transformación** y **alcance universal**. Nombres como *Restaura*, *Pura Vida*, *Renueva* conectan directamente. |
 | **Misión** (el "Qué") | Hacer discípulos. Un discípulo = alguien que **(1)** ama a Dios, **(2)** ama al prójimo y **(3)** se reproduce en otros discípulos (Mateo 22:36-40 + Mateo 28:18-20). Tres patas de una banqueta: si falta una, se cae. | La marca debe comunicar **las tres patas**: relación con Dios (no solo club social), amor concreto al prójimo (no solo teoría), y reproducción/movimiento (no estancamiento). |
 | **Estrategia** (el "Cómo") | Ser iglesia según **Hechos 2:42-47**: vida compartida en las casas, cada día, con sencillez de corazón. Grupos pequeños / células. *"No es que la iglesia de Dios tenga una misión, sino que la misión de Dios tiene una iglesia."* | Nombres como *La Casa*, *Mesa Abierta*, *Entre Amigos*, *Café Zazuar* reflejan esta estrategia. La imagen debe evocar **hogar, mesa, vida compartida**. |
@@ -994,7 +1039,7 @@ Antes de hablar de colores y tipografías, la marca debe nacer del contenido. El
 El corazón del modelo celular. Cada "C" sugiere un universo visual:
 
 | C | Significado | Conexión visual/verbal |
-|---|------------|----------------------|
+| --- | ------------ | ---------------------- |
 | **Celebramos** | Celebrar todo lo que Dios es y lo que ha hecho. Celebrar las vidas, los cumpleaños, las fechas señaladas. Gratitud como actitud central. | Colores festivos, fotografías de celebración (no culto solemne). El nombre debe sonar a **fiesta**, no a funeral. *Pura Vida*, *Alasala* encajan aquí. |
 | **Conectamos** | Cuatro niveles de conexión: con Dios / unos con otros / con la comunidad / con el mundo. *"Los unos-a-otros de la Biblia se desarrollan aquí."* | Iconografía de **conexión**: puentes, puntos que se unen, manos, redes. *Nexo*, *Conecta*, *El Puente*, *Meet* beben de esta C. |
 | **Compartimos** | Compartir la Palabra, la Vida y la Misión. *"Compartimos el tiempo, el ocio, las fiestas, los trabajos, las alegrías y las penas."* | La imagen debe evocar **vida compartida**: mesa, café, sofá, conversación. *Mesa Abierta*, *Café Zazuar*, *Entre Amigos*, *La Sala*. |
@@ -1017,7 +1062,7 @@ El evangelismo relacional es el motor: *"Come, celebra, toma un café, comparte 
 **Clave para la marca**: el nombre del local debe funcionar como **excusa natural para invitar**. Test ácido: ¿un miembro puede decir "¿te vienes a [nombre]?" sin que suene a "te voy a evangelizar"? Si la respuesta es sí, el nombre funciona.
 
 | Nombre | ¿Pasa el test? | Por qué |
-|--------|---------------|---------|
+| -------- | --------------- | --------- |
 | *Pura Vida* | ✅ Sí | "¿Vienes a Pura Vida?" — suena a plan. |
 | *Café Zazuar* | ✅ Sí | "¿Tomamos un café en Zazuar?" — natural. |
 | *YoVoy* | ✅ Sí | "YoVoy, ¿vienes?" — la invitación está en el nombre. |
@@ -1035,7 +1080,7 @@ El evangelismo relacional es el motor: *"Come, celebra, toma un café, comparte 
 #### Metáforas recurrentes del curso
 
 | Metáfora LIDERE | Fuente | Nombres que conectan |
-|----------------|--------|---------------------|
+| ---------------- | -------- | --------------------- |
 | **La casa / las casas** | Hechos 2:46 — *"partiendo el pan en las casas"* | La Casa, La Sala, Sala Eugenia, Alasala |
 | **La mesa / el pan** | Hechos 2:42 — *"partían el pan con sencillez de corazón"* + Mateo 9 (cena de Mateo con publicanos) | Mesa Abierta, Café Zazuar, Ágape |
 | **El agricultor** | 1 Juan 2 — etapas: hijo → joven → padre/agricultor. *"Planta hoy para recoger mañana"* | Semilla, Brota, Raíces, El Olivo, Crece |
@@ -1049,7 +1094,7 @@ El evangelismo relacional es el motor: *"Come, celebra, toma un café, comparte 
 ### 10.1 Principios de marca: qué SÍ y qué NO
 
 | SÍ transmitir | NO transmitir | Fundamento LIDERE |
-|---------------|---------------|-------------------|
+| --------------- | --------------- | ------------------- |
 | **Cercanía**: como el logo de un bar de barrio o una asociación vecinal. | **Institución**: nada que parezca entidad gubernamental, banco o franquicia. | *"Ministramos por quiénes somos, no por los dones"* — relaciones horizontales. |
 | **Calidez**: colores cálidos, tipografías amigables, formas redondeadas. | **Religión tradicional**: evitar cruces, palomas, Biblias en el logo. Eso se descubre dentro. | Hechos 2:46 — *"sencillez de corazón"*. La iglesia primitiva no tenía logotipos religiosos. |
 | **Vida**: verde, brotes, movimiento, personas. | **Exclusividad**: nada que sugiera "club privado" o "solo para los nuestros". | *"La misión de Dios tiene una iglesia"* — el espacio es para los que AÚN no están. |
@@ -1062,7 +1107,7 @@ El evangelismo relacional es el motor: *"Come, celebra, toma un café, comparte 
 El equipo ha identificado un estilo común en las iglesias que inspiran el proyecto. Estas son las claves:
 
 | Rasgo | Detalle |
-|-------|---------|
+| ------- | --------- |
 | **Tipografía** | Sans-serif bold/extra-bold (Montserrat, Poppins, Sora). Titulares enormes, en mayúsculas o mixtas. Frases cortas tipo claim publicitario. |
 | **Paleta** | Fondos oscuros (negro, grafito) con acentos de color saturado. VIVE = morado/rosa; Hillsong = crema/dorado; Elan = blanco + foto full-bleed; 121 = blanco + negro puro. Muy poco color pastel. |
 | **Fotografía** | Hero images a pantalla completa: gente real, momentos de comunidad, luces de evento, mucho desenfoque. Sensación de movimiento y vida. |
@@ -1073,7 +1118,7 @@ El equipo ha identificado un estilo común en las iglesias que inspiran el proye
 ### 10.3 Qué propuesta encaja con qué estilo
 
 | Iglesia de referencia | Estilo visual | Propuestas que mejor encajan | Encaje con café concierto |
-|----------------------|---------------|------------------------------|---------------------------|
+| ---------------------- | --------------- | ------------------------------ | --------------------------- |
 | **VIVE Church** | Morado/rosa, energía, eventos masivos, aspiracional, tipografía bold | **YoVoy**, **Pura Vida**, **Alasala** | Medio: son marcas de movimiento, no de espacio |
 | **Hillsong Madrid** | "Bienvenido a Casa", crema/dorado, familiar, cálido pero premium | **La Casa de Santa Eugenia**, **Mesa Abierta**, **Pura Vida** | Medio: calidez sí, pero no evocan música en vivo |
 | **Elan Church** | Fotos full-bleed, blanco dominante, serif elegante, "transformación real" | **Sala Eugenia** ★, **Restaura**, **Renueva** | **Alto para Sala Eugenia**: el estilo Elan (espacio cultural cálido + luces Edison + fotografía artística) es EXACTO para un café concierto |
@@ -1086,7 +1131,7 @@ El equipo ha identificado un estilo común en las iglesias que inspiran el proye
 Fusionando la calidez del proyecto LIDERE con el impacto de las iglesias de referencia. Cada color debe poder justificarse desde el vocabulario del curso:
 
 | Uso | Color | Código | Referencia | Conexión LIDERE |
-|-----|-------|--------|------------|-----------------|
+| ----- | ------- | -------- | ------------ | ----------------- |
 | **Fondo principal** | Negro / grafito profundo | #1A1A1A | VIVE, 121 BCN, Hillsong | Contraste: el fondo oscuro hace brillar la "luz" (Mt 5 — sal y luz) |
 | **Fondo alternativo** | Crema cálido | #F5E6CC | Hillsong, Elan | **Hogar**: el color de la pared de una casa, de la mesa de madera, de Hechos 2 |
 | **Acento vibrante 1** | Verde tropical / vida | #27AE60 | Pura Vida, Brota, Oasis | **Crecemos** (6C): brote, semilla, vida nueva. Agricultor que planta (1 Juan 2) |
@@ -1102,7 +1147,7 @@ Fusionando la calidez del proyecto LIDERE con el impacto de las iglesias de refe
 ### 10.5 Tipografías sugeridas
 
 | Uso | Fuente | Carácter |
-|-----|--------|----------|
+| ----- | -------- | ---------- |
 | **Titulares (estilo iglesias ref.)** | Montserrat ExtraBold / Poppins Bold / Bebas Neue | Moderno, bold, impacto. Para nombres en mayúsculas. |
 | **Titulares (estilo cálido)** | Playfair Display / DM Serif Display | Elegante, con alma. Para Sala Eugenia, Gracia, El Olivo. |
 | **Cuerpo de texto** | Lora / Merriweather | Serif cálida, legible, con personalidad. |
@@ -1128,7 +1173,7 @@ Cada aplicación debe reflejar el modelo LIDERE: la vida compartida, el evangeli
 Si el equipo quiere fusionar un nombre con la estética de una iglesia de referencia concreta, estas combinaciones son las que mejor integran todo: barrio + marca + contenido LIDERE + actividad insignia (café concierto mensual).
 
 | Combinación | Resultado visual | ADN LIDERE dominante | Encaje con café concierto |
-|-------------|-----------------|---------------------|---------------------------|
+| ------------- | ----------------- | --------------------- | --------------------------- |
 | **Sala Eugenia + estilo Elan Church** | Espacio cultural cálido. Serif elegante, fotos de interiores con luces Edison, plantas, gente con copas de vino, artista en escenario pequeño. La web dice "Entra. Quédate. Vive." Sensación de café literario con alma. | **Compartimos** (6C) — la sala como espacio de vida compartida. **Conectamos con la comunidad** — programación artística como puerta. | **PERFECTO**: "sala" = sala de conciertos en español. El cartel "SALA EUGENIA presenta: [artista]" es exactamente lo que parece — y lo que es. |
 | **Café Zazuar + estilo propio (barrio)** | Cafetería de barrio con personalidad. Pizarra con eventos, tazas con logo, luces cálidas, sofás, micrófono en la esquina. Web tipo `cafezazuar.es` con sensación de cafetería con programación cultural. | **CAFÉ pastoral** (Compartir + Amor + Fe + Edificar) + **Evangelismo relacional** (la tabla de metas incluye "CAFÉ"). | **PERFECTO**: un café con conciertos es un formato que todo vecino de España reconoce al instante. |
 | **Pura Vida + estilo Hillsong** | Comunidad aspiracional y cálida. Fotografía de gente real abrazándose sobre fondo oscuro con verde/dorado. La web dice "Bienvenido a Pura Vida". Sensación de hogar premium. | **Visión** (vida en abundancia, Jn 10:10) + **Celebramos** (gratitud) + **Compartimos la Vida** (6C). El eslogan natural es "La vida que siempre quisiste", que conecta con el itinerario de nueva vida en Cristo. | Bueno: "Viernes de Pura Vida" funciona como evento recurrente. |
@@ -1151,7 +1196,7 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 8. **Coherencia como marca digital** (14%) — NUEVO (web dual): ¿funciona como dominio, handle de Instagram, link de WhatsApp? El nombre es la marca de la web evangelística completa.
 
 | Pos. | Nombre | Punt. | Estilo ref. | Test café concierto | Test web dual | Resumen actualizado |
-|------|--------|-------|-------------|--------------------:|:--------------|---------------------|
+| ------ | -------- | ------- | ------------- | --------------------: | :-------------- | --------------------- |
 | **1** | **Sala Eugenia** | ★★★★★ | Elan Church | ✅✅✅ "Concierto en Sala Eugenia" = perfecto | `salaeugenia.es` · @salaeugenia | **SUBE de #8 a #1.** El café concierto mensual DEFINE este nombre. En España "sala" = lugar de música en vivo. La coherencia nombre↔actividad↔web↔Instagram es total. Ancla al barrio ("Eugenia"). Multiplicable: Sala + [barrio]. Estilo Elan: cálido, cultural, bello. La web del local funciona como cartelera cultural + comunidad de fe. |
 | **2** | **Café Zazuar** | ★★★★★+ | — (propio) | ✅✅✅ "Música en el Café de Zazuar" = 100% natural | `cafezazuar.es` · @cafezazuar | **SUBE de #11 a #2.** Un café con conciertos el último viernes del mes es un formato que todo vecino de barrio entiende al instante. Coherencia total: nombre=espacio=actividad. CAFÉ pastoral del curso. `cafezazuar.es/cafeconcierto` es la URL perfecta. Debilidad: atado a "Zazuar" para multiplicación. |
 | **3** | **Pura Vida** | ★★★★★ | Hillsong / VIVE | ✅✅ "Música en Pura Vida" = suena a chiringuito cool | `puravida.es` · @puravida.madrid | Se mantiene fuerte. Marca lifestyle universal. "Un viernes pura vida" funciona. El café concierto refuerza la promesa de marca: esto ES pura vida. Multiplicable. La comunidad latina lo reconoce al instante. |
@@ -1172,7 +1217,7 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 ### Cambios principales respecto al ranking anterior (pre-café concierto)
 
 | Nombre | Antes | Ahora | Razón del cambio |
-|--------|-------|-------|-----------------|
+| -------- | ------- | ------- | ----------------- |
 | **Sala Eugenia** | #8 | **#1** | El café concierto la define. "Sala" = música en vivo en España. |
 | **Café Zazuar** | #11 | **#2** | Coherencia total café + concierto + barrio + web. |
 | **Restaura** | #7 | #11 | "Concierto en Restaura" no funciona como plan de viernes. |
@@ -1183,7 +1228,7 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 ### Menciones honoríficas (fuera del TOP 15 pero con valor)
 
 | Nombre | Conexión LIDERE | Por qué merece atención |
-|--------|----------------|------------------------|
+| -------- | ---------------- | ------------------------ |
 | **Proyecto Eugenia** | **Visión** — "Eugenia" = "bien nacida" (griego). Conecta con "nueva vida" del itinerario y con la visión de restaurar ciudades (Is 61:4). | El nombre del barrio convertido en profecía: nacer bien, nacer de nuevo. Inteligente y local. |
 | **Lumbre** | **Valores** — la sal, la luz, la levadura (Mt 5). El fuego cálido donde se reúne la familia = la célula. | Fuego cálido del hogar. Muy español, original, evocador. |
 | **Zazuar 13** | **Estrategia** — misma lógica que Local 4/13: la dirección del barrio como ancla de la fe en lo cotidiano. | La dirección pura. Estilo industrial/urbano. Alternativa a Local 4/13. |
