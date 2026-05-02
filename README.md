@@ -1237,5 +1237,315 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 
 ---
 
+---
+
+## 12. COMPARATIVA FINAL: LOS 7 FINALISTAS
+
+El equipo ha reducido más de 40 propuestas a **siete nombres favoritos**. Este apartado es un análisis cara a cara para facilitar la decisión final.
+
+### Los 7 finalistas
+
+| # | Nombre | Sección de origen | Potencial original |
+| --- | --- | --- | --- |
+| 1 | **Mesa Abierta** | 3.2 | ★★★★★ |
+| 2 | **Ven y Ve** | 3.3 | ★★★★★ |
+| 3 | **Zazuar 13** | 5.1 | ★★★★☆ |
+| 4 | **Conecta Zazuar** | *nueva propuesta* | ★★★★☆ |
+| 5 | **Zazuar 4/13** | variante de 9.7 (Local 4/13) | ★★★★★ |
+| 6 | **ReCreando** | 9.8 | ★★★★☆ |
+| 7 | **HOME** | *nueva propuesta* | ★★★★☆ |
+
+---
+
+### 12.1 Conecta Zazuar — nueva propuesta
+
+**Potencial: ★★★★☆**
+
+| Aspecto | Detalle |
+| --------- | --------- |
+| **Concepto** | Fusión de "Conectamos" (una de las 6C de la célula) con la dirección del local. El verbo "conectar" es el puente entre personas, barrio y fe. Conectar es lo que pasa cuando un vecino nuevo se sienta a tomar café con alguien que ya está — es el segundo momento de la reunión celular (después de "Celebramos"). |
+| **ADN LIDERE** | **Conectamos** (6C) — *"nos conectamos con la comunidad, con sus necesidades, descubriendo sus sueños, frustraciones, sus problemas"*. Es la puerta de entrada al evangelismo relacional: primero conectar, después compartir. **Web dual** — la navegación de la web evangelística usa VEN · **CONECTA** · CRECE · SIRVE. El nombre del local coincide con una de las secciones de la propia web. **CAFÉ pastoral** — la "C" de CAFÉ es Compartir, pero el acto de compartir requiere primero conectar. **Estrategia** (Hechos 2) — la vida compartida empieza por la conexión diaria, en el barrio, en la calle concreta de Zazuar. |
+| **Público** | Jóvenes y adultos que buscan comunidad real. Vecinos nuevos en el barrio. Personas aisladas o solas que necesitan un punto de conexión humana. |
+| **Ventaja** | Nombre acción: invita a hacer algo ("conéctate"). "Zazuar" lo ancla al barrio — no es genérico. Combina lo universal (conectar) con lo hiperlocal (Zazuar). Funciona digitalmente: `conectazazuar.es`, @conectazazuar. Pasa el test del WhatsApp: "¿Te vienes a Conecta Zazuar?" suena a espacio/actividad. |
+| **Riesgo** | "Conecta" es muy usado en marketing (Conecta Madrid, Conecta Joven, etc.). Puede sonar a coworking, operadora de telefonía o proyecto municipal. Necesita identidad visual fuerte para diferenciarse. |
+| **Eslogan** | *"Tu punto de encuentro en el barrio"* / *"Conecta con algo real"* / *"Personas reales, conexiones reales"* |
+
+**Propuesta de imagen/logo:**
+
+- **Logo**: **CONECTA** en tipografía bold (Montserrat ExtraBold) + **ZAZUAR** debajo en tipografía fina y espaciada. El punto de la "i" o un elemento gráfico puede ser un **nodo/círculo de conexión** (como los iconos de red/wifi, pero más orgánico — personas conectándose).
+- **Alternativa**: las dos palabras unidas con un trazo que las une visualmente, como un cable o una línea que conecta la C de Conecta con la Z de Zazuar.
+- **Colores**: **naranja cálido** (#E8732A) como acento principal (energía, cercanía, calidez relacional) + **grafito** (#1A1A1A) como base. El naranja conecta con "Celebramos" y la calidez del barrio.
+- **Estilo visual**: a medio camino entre 121 BCN (minimalismo) y Elan Church (calidez). Urbano pero no frío. Digital pero humano.
+
+---
+
+### 12.2 Zazuar 4/13 — variante de Local 4/13
+
+**Potencial: ★★★★★**
+
+| Aspecto | Detalle |
+| --------- | --------- |
+| **Concepto** | La misma idea que Local 4/13 (sección 9.7) pero sustituyendo "Local" por "Zazuar". Resultado: **Zazuar 4/13** — la calle + el número del local + la cita bíblica oculta. Gana en identidad de barrio lo que pierde en el toque industrial de "Local". Filipenses 4:13: *"Todo lo puedo en Cristo que me fortalece"* sigue escondido a plena vista. |
+| **ADN LIDERE** | Idéntico a Local 4/13: **Estrategia** (Hechos 2 — fe anclada en la dirección real), **Evangelismo relacional** (el "descubrimiento" del versículo como conversación orgánica), **Multiplicación** (cada nuevo local toma su propia dirección + cita). Añade: **Conectamos con la comunidad** (6C) — "Zazuar" es del barrio, no genérico. El vecino reconoce su calle. |
+| **Público** | Igual que Local 4/13 pero con mayor alcance local: el vecino de Santa Eugenia reconoce "Zazuar" como su calle. El no creyente oye un nombre con personalidad. El creyente descubre Filipenses 4:13. |
+| **Ventaja** | Todo lo de Local 4/13 + la identidad de barrio que aporta "Zazuar". Suena menos a almacén/nave y más a dirección con nombre propio. "Zazuar 4/13" es fonéticamente más interesante que "Local 4/13" — la Z inicial le da punch. Funciona como marca: @zazuar413, #zazuar413. |
+| **Riesgo** | Puede sonar a código postal o número de autobús. El formato "nombre + número/número" no es convencional como nombre de espacio. El mismo riesgo que Local 4/13: la referencia bíblica solo la pillan los que la conocen. |
+| **Eslogan** | *"Todo lo puedes"* / *"La dirección que lo cambia todo"* / *"Pasa algo en Zazuar 4/13"* |
+
+**Propuesta de imagen/logo:**
+
+- **Logo**: **ZAZUAR** en tipografía fina espaciada + **4/13** grande y ultra-bold (Bebas Neue, Oswald Bold). El slash como elemento gráfico protagonista en color acento.
+- **Alternativa**: **Z 4/13** como acrónimo/marca. Ultra minimalista.
+- **Colores**: **negro y amarillo industrial** (#F1C40F sobre #1A1A1A). Señalética urbana. O negro y blanco puro estilo 121 BCN con la barra "/" en rojo.
+- **Estilo**: 121 BCN puro. Minimalismo con secreto bíblico.
+- **Easter egg interior**: Filipenses 4:13 completo en la pared. El momento "wow" del descubrimiento.
+
+---
+
+### 12.3 HOME — nueva propuesta
+
+**Potencial: ★★★★☆**
+
+| Aspecto | Detalle |
+| --------- | --------- |
+| **Concepto** | Cuatro letras que dicen todo. HOME = hogar, casa, refugio, pertenencia. Es la palabra más universal del mundo para nombrar el lugar donde uno pertenece. En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana — "home" es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno. La iglesia primitiva de Hechos 2 se reunía *en las casas*. La célula es un hogar espiritual. HOME convierte esa realidad en marca. |
+| **ADN LIDERE** | **Estrategia** (Hechos 2:42-47) — *"partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón"*. La casa ES la estrategia. HOME es Hechos 2 en una palabra. **Cuidamos** (6C) — el hogar es donde se cuida: *"pastoreamos a las personas de nuestro grupo"*, *"hacemos el seguimiento"*. El hogar es el espacio del CAFÉ pastoral: Compartir, Amor, Fe, Edificar — todo sucede en casa. **Conectamos** (6C) — el hogar es donde los lazos se forman: *"nos conectamos unos con otros por medio de la vulnerabilidad y la transparencia"*. **Valores LIDERE** — *"sencillez de corazón"* (Hechos 2:46): nada más sencillo que la palabra "casa". *"Ministramos por quiénes somos"*: en casa eres tú mismo, sin máscaras. |
+| **Público** | Universal. Familias que buscan comunidad, inmigrantes que dejaron su hogar, jóvenes solos en la ciudad, personas rotas que necesitan un lugar seguro. En Santa Eugenia, donde mucha gente vive lejos de su país y de su familia, decir "esto es tu casa" es profundamente poderoso. |
+| **Ventaja** | **Extremadamente corto y memorable.** 4 letras = logo limpio, fachada potente, merch elegante. "HOME" en letras grandes en la fachada funciona como declaración: esto es un hogar. **Eslogan integrado**: *"Bienvenido a casa"* es la frase que Hillsong Madrid usa — está probada y funciona. **Multiplicable al máximo**: HOME Santa Eugenia, HOME Lavapiés, HOME Jerez, HOME Barcelona. Cada local es un nuevo hogar. El concepto escala infinitamente. **Bajo umbral**: nadie tiene miedo de ir a "casa". |
+| **Riesgo** | **Nombre en inglés en un barrio obrero castellanoparlante.** Es el mismo riesgo que hundió a Meet Madrid (sección 9.4). PERO hay una diferencia clave: "home" es probablemente la palabra inglesa más conocida del planeta (Home de iPhone, Google Home, smart home, Home de IKEA, "home sweet home"). El riesgo es real pero menor que con "Meet". **Competencia de marca**: `home.es` estará ocupado, @home en Instagram está ocupado, #HOME devuelve millones de resultados. Necesita diferenciador: HOME.se, HOME Santa Eugenia, @home.se. **Genérico**: puede confundirse con inmobiliaria, tienda de decoración o coworking. |
+| **Eslogan** | *"Bienvenido a casa"* / *"Siéntete en casa"* / *"Tu hogar en el barrio"* / *"Donde todos somos familia"* |
+
+**Propuesta de imagen/logo:**
+
+- **Logo**: **HOME** en tipografía sans-serif extra-bold (Montserrat Black, Sora Bold). Todo mayúsculas. La "O" puede ser un icono de **puerta abierta**, una **casa simplificada** o un **corazón** — representando que el hogar es donde está el amor. Minimalismo absoluto.
+- **Alternativa**: **HOME** con la O reemplazada por el outline de una casa. O la palabra completa dentro de la silueta de una casa/tejado.
+- **Colores**: **crema cálido** (#F5E6CC) como fondo (el color de la pared de un hogar) + **terracota** (#C44D2F) como acento (el ladrillo de Vallecas). Alternativa: negro + dorado (#F1C40F) estilo Hillsong — premium pero cálido.
+- **Estilo visual**: Hillsong Madrid puro. Fotografía de comunidad real: abrazos, risas, comida compartida, manos sosteniendo tazas de café. Luces cálidas tipo Edison. Sensación de "esto es mi casa".
+- **Fachada**: **HOME** en letras grandes, retroiluminadas con luz cálida. Debajo: *"Bienvenido a casa"* en tipografía manuscrita (Caveat, Kalam). El vecino que pasa lee "HOME — Bienvenido a casa" y siente curiosidad y calidez.
+- **Aplicación digital**: @home.se o @home.santaeugenia. Dominio: `homese.es` o `home-se.es` (compromiso por la imposibilidad de `home.es`). Hashtag: #HOMEse, #BienvenidoACasa.
+
+---
+
+### 12.4 Comparativa cabeza a cabeza: los 8 criterios
+
+Evaluación de los 7 finalistas con los mismos 8 criterios del ranking TOP 15. Puntuación de 1 a 5 (5 = máximo).
+
+| Criterio (peso) | Mesa Abierta | Ven y Ve | Zazuar 13 | Conecta Zazuar | Zazuar 4/13 | ReCreando | HOME |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. Atractivo para el barrio** (16%) | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★★ | ★★★★☆ |
+| **2. Fidelidad LIDERE** (20%) | ★★★★★ | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ |
+| **3. Bajo umbral de entrada** (16%) | ★★★★★ | ★★★★☆ | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★★★ | ★★★★★ |
+| **4. Potencial de marca** (16%) | ★★★★☆ | ★★★☆☆ | ★★★★★ | ★★★★☆ | ★★★★★ | ★★★★☆ | ★★★★★ |
+| **5. Encaje Santa Eugenia** (16%) | ★★★★☆ | ★★★☆☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★☆☆ |
+| **6. Multiplicación** (14%) | ★★★★☆ | ★★★★★ | ★★☆☆☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★★ |
+| **7. Test café concierto** (14%) | ★★★☆☆ | ★★☆☆☆ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★★☆ |
+| **8. Marca digital** (14%) | ★★★★☆ | ★★★☆☆ | ★★★★★ | ★★★★☆ | ★★★★★ | ★★★★☆ | ★★★☆☆ |
+
+#### Puntuación ponderada
+
+| Pos. | Nombre | Puntuación ponderada | Perfil |
+| :---: | --- | :---: | --- |
+| **1** | **Zazuar 4/13** | **4,34** | Equilibrio total: barrio + LIDERE + marca + secreto bíblico |
+| **2** | **ReCreando** | **4,30** | Historia real + misión social + conexión LIDERE profunda |
+| **3** | **Mesa Abierta** | **4,20** | Hospitalidad pura. Hechos 2 hecho nombre. Muy bajo umbral |
+| **4** | **HOME** | **4,14** | LIDERE puro (Hechos 2 = las casas). Marca brutal. Pero el inglés y la competencia digital le restan en Santa Eugenia |
+| **5** | **Zazuar 13** | **4,02** | Marca potentísima. Falla en multiplicación y profundidad LIDERE |
+| **6** | **Conecta Zazuar** | **3,86** | Sólido y digital. Pero "Conecta" es genérico y muy usado |
+| **7** | **Ven y Ve** | **3,62** | Teológicamente perfecto. Pero débil como marca y espacio |
+
+---
+
+### 12.5 Test del WhatsApp — "¿Te vienes?"
+
+El evangelismo relacional del curso LIDERE (Lección 3.1) pide que la invitación sea natural, como invitar a un plan. Un miembro de la célula le dice a un vecino:
+
+| Nombre | Mensaje de WhatsApp | ¿Suena natural? |
+| --- | --- | :---: |
+| **Mesa Abierta** | *"El viernes hay cena en Mesa Abierta, ¿te apuntas?"* | ✅✅✅ Perfecto. Suena a restaurante/espacio gastro. |
+| **Ven y Ve** | *"¿Te vienes a Ven y Ve este domingo?"* | ⚠️ Redundante: "ven" + "te vienes". Forzado. |
+| **Zazuar 13** | *"Pásate por Zazuar 13, hay buen ambiente"* | ✅✅✅ Natural. Suena a dirección de un local cool. |
+| **Conecta Zazuar** | *"El viernes quedamos en Conecta Zazuar, ¿vienes?"* | ✅✅ Bien, pero suena algo a marca/franquicia. |
+| **Zazuar 4/13** | *"Vente al 4/13, hay concierto"* | ✅✅✅ Underground, curioso, genera pregunta. |
+| **ReCreando** | *"¿Te vienes a ReCreando? Hay taller de cocina"* | ✅✅✅ Suena a actividad, a plan, a taller. Natural. |
+| **HOME** | *"El viernes hay plan en HOME, ¿te apuntas?"* | ✅✅ Funciona. Suena a espacio moderno. Pero "home" en un WhatsApp en español puede sonar raro para algunos vecinos. |
+
+---
+
+### 12.6 Test del Café Concierto — "Hay música en…"
+
+El café concierto mensual (último viernes de cada mes) será la actividad más visible del local para el barrio. El nombre debe funcionar en el cartel y en la conversación:
+
+| Nombre | Cartel del concierto | ¿Funciona? |
+| --- | --- | :---: |
+| **Mesa Abierta** | "MESA ABIERTA presenta: [artista] · Viernes 30 · 21:00" | ✅ Funciona pero no evoca música. Suena más a cena que a concierto. |
+| **Ven y Ve** | "VEN Y VE presenta: [artista] · Viernes 30 · 21:00" | ⚠️ Forzado. "Ven y Ve" es un verbo, no un espacio. |
+| **Zazuar 13** | "ZAZUAR 13 presenta: [artista] · Viernes 30 · 21:00" | ✅✅ Suena a venue urbano. Estilo sala de conciertos alternativa. |
+| **Conecta Zazuar** | "CONECTA ZAZUAR presenta: [artista] · Viernes 30 · 21:00" | ✅ Funciona como marca. Algo corporativo. |
+| **Zazuar 4/13** | "ZAZUAR 4/13 presenta: [artista] · Viernes 30 · 21:00" | ✅✅ Underground, industrial, curioso. Estilo 121 BCN. |
+| **ReCreando** | "RECREANDO presenta: [artista] · Viernes 30 · 21:00" | ✅ Suena a festival social/cultural. Encaja si hay variedad de actividades. |
+| **HOME** | "HOME presenta: [artista] · Viernes 30 · 21:00" | ✅✅ Suena a venue moderno, tipo loft/espacio cultural. 4 letras en un cartel = impacto visual brutal. |
+
+---
+
+### 12.7 Test de marca digital — dominio, redes, WhatsApp
+
+| Nombre | Dominio web | Instagram | Hashtag | URL WhatsApp | Valoración |
+| --- | --- | --- | --- | --- | :---: |
+| **Mesa Abierta** | `mesaabierta.es` | @mesaabierta | #MesaAbierta | Largo pero memorable | ★★★★☆ |
+| **Ven y Ve** | `venyve.es` | @venyve | #VenYVe | Corto pero confuso (¿qué es?) | ★★★☆☆ |
+| **Zazuar 13** | `zazuar13.es` | @zazuar13 | #Zazuar13 | Perfecto: corto + memorable | ★★★★★ |
+| **Conecta Zazuar** | `conectazazuar.es` | @conectazazuar | #ConectaZazuar | Funcional, algo largo | ★★★★☆ |
+| **Zazuar 4/13** | `zazuar413.es` | @zazuar413 | #Zazuar413 | Excelente: corto + intrigante | ★★★★★ |
+| **ReCreando** | `recreando.es` | @recreando.se | #ReCreando | Bueno. Puede competir con otros "ReCreando" | ★★★★☆ |
+| **HOME** | `home.es` ❌ ocupado → `homese.es` | @home.se | #HOMEse | Problema: "home" es palabra demasiado común. Necesita sufijo (.se, Santa Eugenia) | ★★★☆☆ |
+
+---
+
+### 12.8 Análisis DAFO por finalista
+
+#### Mesa Abierta
+
+| | |
+| --- | --- |
+| **Fortalezas** | Hechos 2 puro: la mesa, el pan, la hospitalidad. Bajo umbral máximo — suena a restaurante/asociación gastro. Multiculturalidad: en la mesa todos somos iguales. Conecta con cenas comunitarias reales. |
+| **Debilidades** | No dice nada del barrio (podría estar en cualquier ciudad). "Concierto en Mesa Abierta" suena forzado. No tiene referencia bíblica oculta ni capa de profundidad. |
+| **Oportunidades** | Iniciar con cenas comunitarias mensuales como actividad insignia. Conectar con la cultura latina de la mesa compartida. Programas tipo "Un plato, una historia" con testimonios. |
+| **Amenazas** | Puede confundirse con comedor social o proyecto de Cáritas. El nombre "Mesa Abierta" ya existe en otros contextos (ONGs, restaurantes sociales). |
+
+#### Ven y Ve
+
+| | |
+| --- | --- |
+| **Fortalezas** | Directamente del evangelio (Juan 1:46, Juan 4). Es la esencia del evangelismo relacional del curso LIDERE: no argumentar, invitar a experimentar. Nombre del propio curso (uno de los vídeos de Marcos Zapata). Teológicamente impecable. |
+| **Debilidades** | Es un verbo/invitación, no un nombre de espacio. "Concierto en Ven y Ve" = forzado. Marca digital débil (dominio probablemente ocupado). Suena imperativo. No ancla al barrio. |
+| **Oportunidades** | Usarlo como eslogan/claim del local aunque no sea el nombre: "Ven y ve" debajo del nombre principal. Potente en campañas de invitación. |
+| **Amenazas** | Pierde fuerza como marca a largo plazo. Difícil de sostener como identidad de un espacio físico y digital completo. |
+
+#### Zazuar 13
+
+| | |
+| --- | --- |
+| **Fortalezas** | La dirección como nombre: inconfundible, fácil de encontrar, instagrameable. Genera curiosidad ("¿Qué es Zazuar 13?"). Muy buena marca digital. Estilo urbano/industrial atractivo para jóvenes. |
+| **Debilidades** | No dice nada por sí solo — necesita comunicación fuerte detrás. Sin capa espiritual o bíblica. Nula multiplicación: si se abre otro local, Zazuar 13 no se replica. Conexión LIDERE superficial. |
+| **Oportunidades** | Funciona como "nombre paraguas" al que se le añade profundidad con el eslogan y la experiencia interior. Si el barrio adopta "Zazuar 13" como punto de referencia, se convierte en landmark. |
+| **Amenazas** | Puede sonar a pub, tienda o nave. Si la iglesia se muda, el nombre muere. Atado a la ubicación física. |
+
+#### Conecta Zazuar
+
+| | |
+| --- | --- |
+| **Fortalezas** | Verbo de acción que invita a participar. "Conectamos" es una de las 6C del curso. "Zazuar" lo ancla al barrio. Buena marca digital. Coincide con la sección CONECTA de la web evangelística. |
+| **Debilidades** | "Conecta" es genérico y sobreusado en marketing (Conecta Madrid, Conecta Joven, Conecta Barcelona…). Puede sonar a coworking, operadora de fibra o programa municipal. Sin capa bíblica. |
+| **Oportunidades** | Si se consigue diferenciar con identidad visual fuerte, el verbo "conectar" es potente en un barrio donde muchas personas viven desconectadas. Encaja con programas de integración social. |
+| **Amenazas** | Confusión con otras marcas "Conecta". Suena a proyecto institucional/corporativo, no a comunidad de base. La competencia por el territorio semántico de "conectar" es alta. |
+
+#### Zazuar 4/13
+
+| | |
+| --- | --- |
+| **Fortalezas** | Todo lo de Zazuar 13 + la profundidad bíblica de Filipenses 4:13 oculta a plena vista. Tres capas de lectura: dirección física, referencia cultural (Studio 54), versículo bíblico. Excelente marca digital. Estilo 121 BCN. Multiplicable (cada nuevo local toma su dirección + cita). Easter egg evangelístico en la pared interior. |
+| **Debilidades** | La referencia bíblica solo la pillan los que la conocen. El formato "nombre + número/número" no es convencional. Puede sonar a código postal o línea de autobús. Requiere inversión en comunicar la historia detrás del nombre. |
+| **Oportunidades** | El momento "descubrimiento" (cuando alguien pregunta "¿por qué 4/13?" y se le muestra Filipenses 4:13 en la pared) es un acto de evangelismo orgánico perfecto. Funciona como conversación iniciadora de la fe. Merch potente: camisetas con "4/13" generan preguntas. |
+| **Amenazas** | Si la iglesia se muda de ese local concreto, pierde la literalidad de la dirección (aunque mantiene la referencia bíblica). El toque industrial puede intimidar a personas mayores. |
+
+#### ReCreando
+
+| | |
+| --- | --- |
+| **Fortalezas** | Ya tiene historia real en el barrio: la Asociación ReCreando lleva desde 2015 haciendo trabajo social reconocido. Legitimidad inmediata. Triple capa semántica: re-crear (restaurar), recrear (disfrutar), creando (acción). Isaías 61:4 hecho nombre. Pasa todos los tests de evangelismo relacional. Gerundio transmite acción continua. |
+| **Debilidades** | Suena más a ONG o centro social que a espacio cultural/iglesia. Puede confundirse con centro de ocio infantil ("recreo"). La dimensión espiritual puede quedar oculta detrás de lo social. Dominio `recreando.es` puede estar ocupado o competir con otros proyectos. |
+| **Oportunidades** | Unificar asociación + local bajo una sola marca multiplica el impacto. El nombre justifica cualquier actividad: talleres, asesoramiento legal, conciertos, cultos, Kids Games — todo es "recrear". La base de confianza ya está construida. |
+| **Amenazas** | Si la marca ReCreando se asocia SOLO a lo social, puede ser difícil introducir la dimensión de iglesia/fe sin generar rechazo ("yo venía a la ONG, no a una iglesia"). Requiere equilibrio comunicativo cuidadoso. |
+
+#### HOME
+
+| | |
+| --- | --- |
+| **Fortalezas** | Hechos 2 en una palabra: la iglesia en las casas. Bajo umbral máximo — "casa" es el concepto más acogedor que existe. 4 letras = marca visual potentísima (fachada, merch, logo). "Bienvenido a casa" como eslogan es imbatible (Hillsong lo ha demostrado). Multiplicación perfecta: HOME + [barrio]. Universal para un barrio multicultural: todo el mundo sabe qué es "home". Conexión LIDERE de las más profundas: la casa, el CAFÉ pastoral, la célula como hogar, "sencillez de corazón". |
+| **Debilidades** | **Nombre en inglés en un barrio obrero castellanoparlante.** Es el gran riesgo. La señora del portal de 65 años, el inmigrante ecuatoriano o el vecino marroquí puede sentir que "esto no es para mí". El documento ya penalizó a Meet Madrid por lo mismo (sección 9.4). Marca digital comprometida: `home.es` estará ocupado, @home no disponible, #HOME devuelve millones de resultados no relacionados. Sin referencia bíblica oculta ni capa de profundidad más allá de "casa". Puede confundirse con inmobiliaria, tienda de decoración o coworking. |
+| **Oportunidades** | "Home" es MUCHO más conocido que "Meet" en español — aparece en tecnología (Home de iPhone, Google Home), en decoración (Home de IKEA), en cultura pop ("home sweet home"). La barrera idiomática es menor que con otros anglicismos. Si se posiciona como espacio de comunidad con estética Hillsong (crema/dorado, luces cálidas, fotografía emocional), puede convertirse en referente del barrio. El eslogan en español ("Bienvenido a casa" / "Siéntete en casa") compensa la barrera del nombre en inglés. |
+| **Amenazas** | La comunidad latina (mayoritaria en Santa Eugenia) puede percibir el inglés como algo ajeno, elitista o de "barrio rico". En Vallecas, donde la identidad de barrio es fortísima, un nombre en inglés puede generar rechazo inicial. Si se abre un segundo local en zona más cosmopolita (Lavapiés, Malasaña), HOME funciona mejor allí que aquí — lo cual es un arma de doble filo. |
+
+---
+
+### 12.9 Matriz de decisión: ¿qué es lo más importante para vosotros?
+
+El nombre "perfecto" no existe. Cada finalista gana en un terreno distinto. La decisión depende de **qué valora más el equipo**:
+
+| Si lo más importante es… | Elige… | Razón |
+| --- | --- | --- |
+| **Hospitalidad y bajo umbral** | **Mesa Abierta** | La mesa compartida es la imagen más universal de acogida. Cero barrera de entrada. |
+| **Fidelidad teológica al curso** | **Ven y Ve** | Sale directamente del evangelio y del temario LIDERE. Es la esencia pura. |
+| **Marca urbana potente** | **Zazuar 13** | Inconfundible, instagrameable, fácil de encontrar. Puro branding. |
+| **Conexión digital + 6C** | **Conecta Zazuar** | El verbo del curso hecho nombre de barrio. Web-ready desde el minuto cero. |
+| **Equilibrio total (barrio + fe + marca)** | **Zazuar 4/13** | La dirección real que esconde Filipenses 4:13. Tres capas de lectura. Lo tiene todo. |
+| **Historia real + misión social** | **ReCreando** | No es un nombre inventado: es una asociación con años de trabajo reconocido en el barrio. |
+| **Hogar + acogida + Hechos 2** | **HOME** | La casa como concepto central. Marca minimalista. "Bienvenido a casa" lo dice todo. |
+
+---
+
+### 12.10 Combinaciones posibles: nombre + eslogan
+
+Un nombre fuerte puede completarse con un eslogan que compense sus debilidades:
+
+| Nombre principal | + Eslogan | Qué aporta el eslogan |
+| --- | --- | --- |
+| **Mesa Abierta** | *"Ven y ve"* | Añade la invitación evangélica que el nombre no tiene |
+| **Mesa Abierta** | *"Siempre hay un sitio para ti"* | Refuerza la hospitalidad |
+| **Zazuar 13** | *"Pasa algo bueno aquí"* | Da vida a una dirección fría |
+| **Zazuar 13** | *"Tu nueva dirección"* | Doble sentido: dirección física + dirección de vida |
+| **Zazuar 4/13** | *"Todo lo puedes"* | Filipenses 4:13 sin decirlo. El creyente lo reconoce |
+| **Zazuar 4/13** | *"La dirección que lo cambia todo"* | Juego dirección postal / dirección vital |
+| **Conecta Zazuar** | *"Personas reales, conexiones reales"* | Humaniza el nombre y lo separa de lo corporativo |
+| **ReCreando** | *"Donde todo se hace nuevo"* (Ap 21:5) | Conecta lo social con lo espiritual |
+| **ReCreando** | *"Creando algo nuevo en el barrio"* | Mantiene el tono social + esperanza |
+| **Ven y Ve** | Mejor como eslogan de otro nombre | "Ven y Ve" funciona mejor como claim que como nombre de espacio |
+| **HOME** | *"Bienvenido a casa"* | El eslogan natural. Compensa el inglés del nombre con español cálido |
+| **HOME** | *"Siéntete en casa"* | Más íntimo, más cercano. Invitación suave |
+| **HOME** | *"Tu hogar en el barrio"* | Ancla al barrio. Compensa que el nombre no lo haga |
+
+---
+
+### 12.11 Recomendación final
+
+Tras analizar los 8 criterios, los tests prácticos y el ADN LIDERE, la comparativa arroja tres niveles (actualizada con HOME):
+
+**NIVEL 1 — Los más completos:**
+
+| Nombre | Por qué |
+| --- | --- |
+| **Zazuar 4/13** | El más equilibrado de los seis. Tiene todo: identidad de barrio (Zazuar), marca potente (4/13), profundidad bíblica (Filipenses 4:13), estilo 121 BCN, evangelismo orgánico (el easter egg), multiplicación (cada local = nueva dirección + cita), marca digital excelente. Su debilidad (formato poco convencional) se compensa con la curiosidad que genera. |
+| **ReCreando** | El más enraizado. No se inventa nada: se adopta lo que ya existe y funciona. Años de trabajo social en el barrio le dan una credibilidad que ningún otro nombre puede igualar. Triple capa semántica. Isaías 61:4 hecho vida. Su debilidad (puede sonar a ONG) es también su fortaleza en un barrio con necesidades sociales reales. |
+
+**NIVEL 2 — Muy fuertes, con matices:**
+
+| Nombre | Por qué |
+| --- | --- |
+| **Mesa Abierta** | Hechos 2 puro. La hospitalidad como evangelismo. Bajo umbral máximo. Pero no ancla al barrio, el café concierto no lo refuerza, y le falta profundidad bíblica oculta. Necesita un buen eslogan que lo complete. |
+| **HOME** | El concepto más poderoso (hogar = Hechos 2), la marca más limpia (4 letras), el eslogan más probado ("Bienvenido a casa"). Multiplicación perfecta. Pero el inglés en Santa Eugenia es un riesgo real y la marca digital está comprometida. Si el barrio lo acepta, es imparable. Si no, es Meet Madrid 2.0. |
+| **Zazuar 13** | Marca brutal. Pero sin la capa del 4/13 es una dirección vacía de contenido espiritual. Si se elige, conviene añadirle un eslogan con alma. Es el hermano menor de Zazuar 4/13. |
+
+**NIVEL 3 — Mejor como complemento:**
+
+| Nombre | Por qué |
+| --- | --- |
+| **Conecta Zazuar** | Sólido pero genérico. "Conecta" está muy gastado. Funciona, pero no emociona ni sorprende. |
+| **Ven y Ve** | Teológicamente perfecto, pero débil como marca de espacio y como identidad digital. Su mejor papel es como **eslogan o claim** de cualquiera de los otros nombres. |
+
+---
+
+**La gran decisión es entre Zazuar 4/13 y ReCreando** — representan dos filosofías:
+
+- **Zazuar 4/13** = empezar de cero con una marca nueva, potente, con secreto bíblico. Mirada al futuro.
+- **ReCreando** = abrazar la historia que ya existe, la credibilidad ganada, la identidad social. Mirada a las raíces.
+
+Ambos pasan todos los tests. Ambos tienen profundidad LIDERE. La pregunta es: **¿queréis crear algo nuevo o elevar lo que ya tenéis?**
+
+**¿Y HOME?** Entra directamente en el NIVEL 2 — muy fuerte, con un matiz decisivo. Su concepto (hogar = Hechos 2) y su marca (4 letras, eslogan probado, multiplicación perfecta) lo colocan en el mismo rango que Mesa Abierta y por encima de Zazuar 13. Pero tiene una pregunta pendiente que solo vosotros podéis responder: **¿aceptará el barrio de Santa Eugenia un nombre en inglés?** Si la respuesta es sí, HOME sube al NIVEL 1. Si la respuesta es "no estamos seguros", conviene ser prudentes — porque el nombre es la primera impresión y la primera impresión solo se da una vez.
+
+**Test rápido**: preguntad a 5 vecinos del barrio que no sean de la iglesia: *"Oye, han abierto un sitio que se llama HOME en Zazuar 13, ¿irías a echar un ojo?"*. Si la reacción es curiosidad, adelante. Si es confusión o indiferencia, tenéis la respuesta.
+
+---
+
 *Documento generado para la Asamblea Cristiana de Madrid.*
-*Abril 2026 — Versión actualizada con criterios de web dual, café concierto mensual y libro de asimilación. Incluye nuevo ranking con 8 criterios ponderados.*
+*Mayo 2026 — Versión actualizada con comparativa de 7 finalistas (incluye HOME), análisis DAFO, tests prácticos y recomendación final.*
