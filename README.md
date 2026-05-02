@@ -1239,5 +1239,3 @@ Evaluados según **seis criterios** ponderados. Los cinco primeros al 16% cada u
 
 *Documento generado para la Asamblea Cristiana de Madrid.*
 *Abril 2026 — Versión actualizada con criterios de web dual, café concierto mensual y libro de asimilación. Incluye nuevo ranking con 8 criterios ponderados.*
-
-update: 9.45 02/05/2026
