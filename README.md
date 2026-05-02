@@ -203,9 +203,121 @@ El equipo necesita elegir el apellido antes de:
 
 ---
 
+## Estrategia de comunicación: "en casa" como hilo conductor
+
+### El concepto
+
+Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME se refuerza en cada comunicación porque el eslogan siempre ancla en español lo que el nombre dice en inglés. El resultado: un lenguaje de marca unificado, cálido y reconocible al instante.
+
+**Estructura**: `HOME: [frase con "casa"]`
+
+### Valoración
+
+| Fortaleza | Detalle |
+| --- | --- |
+| **Coherencia de marca** | Cada cartel, story o WhatsApp refuerza la identidad HOME sin repetir lo mismo |
+| **Ancla en español** | "Casa" traduce y humaniza "HOME" para quien no domina inglés |
+| **Versatilidad** | "Casa" cabe en frases de fiesta, de cuidado, de invitación, de intimidad |
+| **Baja barrera** | Todo suena doméstico, familiar, no religioso. Pasa el test del WhatsApp |
+| **Consistencia visual** | En redes e impresos, el patrón `HOME: [frase]` se vuelve reconocible como formato propio |
+| **Referencia probada** | Hillsong Madrid ya usa "Bienvenido a Casa" y tiene "Casa Abierta" como evento — la estrategia funciona en el mercado español |
+
+### Catálogo de actividades y eslóganes
+
+#### Eventos recurrentes
+
+| Actividad | Eslogan | Cuándo usarlo |
+| --- | --- | --- |
+| **Café Concierto** | *HOME: Este viernes hay café y música en casa* | Cartel mensual, stories, WhatsApp de invitación |
+| **Domingo** | *HOME: Te esperamos en casa* | Recordatorio semanal (sábado noche / domingo mañana) |
+| **Grupos de Encuentro** | *HOME: Nos vemos en casa* | Invitación a células entre semana |
+| **Cena comunitaria** | *HOME: Esta noche cenamos en casa* | Cenas mensuales o espontáneas |
+| **Fútbol / deporte** | *HOME: Los de casa jugamos juntos* | Partidos de sábados |
+| **Kids Games** | *HOME: Los peques de la casa* | Actividades infantiles de barrio |
+| **ReCreando (acción social)** | *HOME: En casa cabe todo el barrio* | Comunicaciones de asesoría, ayuda alimentaria |
+
+#### Fechas especiales
+
+| Actividad | Eslogan | Notas |
+| --- | --- | --- |
+| **Navidad** | *HOME: Vuelve a casa por Navidad* | Referencia cultural fortísima (anuncio del turrón). Funciona al 200% |
+| **Nochevieja / Año nuevo** | *HOME: Año nuevo, misma casa* | Continuidad, familia que permanece |
+| **Semana Santa** | *HOME: En casa recordamos lo importante* | Tono reflexivo |
+| **Día de la madre** | *HOME: En casa te cuidamos* | Homenaje cálido |
+| **San Valentín / amor** | *HOME: En casa se quiere bien* | Puede usarse para evento de parejas o cena comunitaria |
+| **Halloween alternativo** | *HOME: Esta noche hay fiesta en casa* | Alternativa positiva, con luz |
+| **Vuelta al cole (septiembre)** | *HOME: Ya estamos en casa* | Reencuentro tras verano |
+| **Fiesta de verano / barbacoa** | *HOME: En casa se come bien* | Barbacoa, paella, picnic |
+| **Aniversario de la iglesia** | *HOME: Esto es casa desde [año]* | Celebración de trayectoria |
+
+#### Momentos espirituales
+
+| Actividad | Eslogan | Tono |
+| --- | --- | --- |
+| **Bautismo** | *HOME: Una nueva vida empieza en casa* | Celebrativo, íntimo |
+| **Reunión de oración** | *HOME: En casa hablamos claro* | Cercanía con Dios |
+| **Día de la visión (membresía)** | *HOME: Haz de esta casa la tuya* | Compromiso, pertenencia |
+| **Bienvenida a nuevos** | *HOME: Siempre hay sitio en casa* | Puerta abierta |
+| **Retiro / excursión** | *HOME: Los de casa salimos juntos* | Comunidad fuera del local |
+| **Culto especial de alabanza** | *HOME: En casa se canta* | Gozo |
+
+#### Comunicación general
+
+| Situación | Eslogan | Canal |
+| --- | --- | --- |
+| **Bio de Instagram** | *Tu casa en Santa Eugenia* | Fijo en perfil |
+| **Firma de WhatsApp** | *HOME — Bienvenido a casa* | Firma del número Business |
+| **Respuesta a primer contacto** | *¡Bienvenido! Esta es tu casa* | WhatsApp manual |
+| **Post genérico de comunidad** | *HOME: Esto es lo que pasa en casa* | Reel semanal |
+| **Invitación boca a boca** | *¿Te vienes a casa?* | Conversación natural |
+
+### Reglas de uso
+
+1. **Siempre en español** — el eslogan compensa el nombre en inglés.
+2. **"HOME:" como prefijo visual** — en redes y carteles, siempre visible.
+3. **Variar la frase** — no repetir siempre "Bienvenido a casa". El catálogo anterior da variedad para todo el año.
+4. **Tono coherente** — las frases suenan a plan entre amigos, nunca a púlpito.
+5. **Adaptable al contexto** — si surge una actividad nueva, solo hay que inventar una frase con "casa". El formato se mantiene solo.
+
+---
+
+## Webs de referencia para imagen y diseño
+
+### Lista de referencia actualizada
+
+| Web | Estilo / Aportación para HOME |
+| --- | --- |
+| [hillsong.com/spain/madrid](https://hillsong.com/spain/madrid/) | **Referencia principal**. "Bienvenido a Casa" como eslogan. Evento "Casa Abierta". Prueba de que el concepto funciona en España. Estilo visual premium: negro + tipografía bold + foto de comunidad |
+| [vivechurch.org/madrid](https://www.vivechurch.org/campus-location/madrid) | Multi-campus moderno. Hero visual potente con foto de pastores. Tono aspiracional pero cercano. Estructura de campus replicable |
+| [somoselan.com](https://www.somoselan.com/) | Diseño español contemporáneo. Lenguaje directo: "¿Listo para una transformación real?" Newsletter integrada. Scroll largo con secciones diferenciadas |
+| [121bcn.com](https://www.121bcn.com/) | **Nombre numérico + referencia bíblica (Salmo 121)** — mismo concepto que HOME 4/13. Minimalismo extremo. Bilingüe. Mapa + email + give. "A Church for Barcelona" = "Tu casa en Santa Eugenia" |
+| [hechosbarcelona.com](https://hechosbarcelona.com/) | En construcción (WordPress). Referencia del ecosistema evangélico español |
+| [ag.org](https://ag.org/) | Denominacional (Asambleas de Dios). Estructura corporativa de referencia para asambleacristiana.es |
+| [elevationchurch.org](https://www.elevationchurch.org/) | "A place for you and your family". Estructura Find → Connect → Serve (= VEN → CONECTA → SIRVE). Eventos visuales compartibles. eGroups como modelo de grupos |
+| [crossroads.net](https://www.crossroads.net/) | "Real People. Real Connection." Categorías claras: Groups, Care, Serve, Trips. Tono aventurero. Historias de personas reales. Quiz/herramienta "Next Step Navigator" |
+| [lifechurch.io](https://lifechurch.site.production.lifechurch.io/) | Multi-campus. App propia. YouVersion (Bible App). Modelo digital avanzado |
+
+### Conclusiones para el diseño de HOME
+
+1. **Hillsong Madrid valida directamente el concepto HOME**: usan "Bienvenido a Casa" y lo combinan con eventos temáticos ("Casa Abierta"). La diferenciación de HOME será el tono de barrio + la coherencia de eslóganes "en casa" en TODA la comunicación, no solo en la puerta.
+
+2. **121 BCN valida el modelo "nombre corto + referencia oculta"**: su nombre viene del Salmo 121. HOME con apellido 4/13 (Filipenses 4:13) sigue exactamente la misma lógica. En su web usan *solo* el nombre y el eslogan — sin explicar la referencia bíblica. Se descubre dentro.
+
+3. **Elevation + Crossroads confirman la estructura de navegación VEN · CONECTA · CRECE · SIRVE**: ambos organizan su web en ese recorrido (Find → Connect → Serve → Lead). No es invención nuestra: es el estándar de iglesias con mejor asimilación digital.
+
+4. **Elan (somoselan.com) es la referencia española más cercana en tono**: diseño limpio, lenguaje directo sin jerga, scroll largo, newsletter. Su "Atrévete a ver más allá" tiene el mismo espíritu que "Bienvenido a casa" — una invitación, no una doctrina.
+
+5. **VIVE Church demuestra el poder del hero visual con rostros reales**: su homepage es una foto de comunidad + un CTA. HOME debe hacer lo mismo: la primera impresión es una foto real del barrio, no un logo gigante.
+
+6. **Ninguna de estas webs parece una iglesia desde fuera** — y ese es el punto. HOME debe seguir esa línea: quien llega a la web ve comunidad, actividades y calidez. La fe se descubre dentro.
+
+---
+
 ## Resumen
 
 > **HOME** es Hechos 2 hecho marca: la iglesia en las casas, con una puerta abierta y un eslogan que lo dice todo — *"Bienvenido a casa"*.
+>
+> La estrategia de comunicación "en casa" convierte cada actividad en una extensión natural de la marca: coherente, cálida, infinitamente escalable.
 >
 > Falta el apellido. Pero el nombre ya tiene alma.
 
@@ -214,4 +326,4 @@ El equipo necesita elegir el apellido antes de:
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 12:37, 02/05/2026
+updated: 14:54, 02/05/2026
