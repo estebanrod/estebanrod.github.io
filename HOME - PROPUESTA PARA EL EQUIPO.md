@@ -6,16 +6,51 @@ Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
 
 ---
 
-# Índice del sitio
+## 1. El nombre: HOME
 
-Bienvenido — este `README` actúa como índice del sitio público. Enlaces directos a las propuestas principales:
+**Eslogan**: *"Bienvenido a casa"* / *"Siéntete en casa"*
 
-- HOME — Propuesta principal de nombre y estrategia: [HOME - PROPUESTA PARA EL EQUIPO](HOME-PROPUESTA-PARA-EL-EQUIPO.md)
-- CASA — Variante en español (propuesta paralela): [CASA - PROPUESTA PARA EL EQUIPO](CASA-PROPUESTA-PARA-EL-EQUIPO.md)
-- ESTRATEGIA WEB — Propuesta de estructura dual (corporativa + local): [ESTRATEGIA WEB DUAL - PROPUESTA DE ESTRUCTURA](ESTRATEGIA-WEB-DUAL-PROPUESTA-DE-ESTRUCTURA.md)
-- BENCHMARK — Análisis comparativo de webs de iglesias: [BENCHMARK COMPLETO - IGLESIAS REFERENCIA WEB](BENCHMARK-COMPLETO-IGLESIAS-REFERENCIA-WEB.md)
+Cuatro letras que lo dicen todo. HOME = hogar, casa, refugio, pertenencia. Es la palabra más universal del mundo para nombrar el lugar donde uno pertenece.
 
-Si quieres que alguno de estos documentos se muestre como página independiente con ajustes (metadatos, título, excerpt), dímelo y lo adapto.
+En un barrio multicultural como Santa Eugenia — con población latina, china, magrebí, rumana, subsahariana y por supuesto española — HOME es una palabra que trasciende idiomas y culturas: todo el mundo sabe lo que significa, todo el mundo necesita uno.
+
+La iglesia primitiva de Hechos 2 se reunía **en las casas**. La célula es un hogar espiritual. HOME convierte esa realidad en marca.
+
+---
+
+## 2. El eslogan
+
+| Eslogan | Cuándo usarlo | Efecto |
+| --- | --- | --- |
+| *"Bienvenido a casa"* | Fachada, web, primer contacto, carteles | Declaración: esto es un hogar. Ven. |
+| *"Siéntete en casa"* | Interior, grupos pequeños, comunicación personal | Más íntimo. Invitación a relajarse, a ser tú mismo. |
+| *"Tu hogar en el barrio"* | Flyers de buzón, redes sociales, campañas locales | Ancla al barrio. Compensa que "HOME" no lo diga solo. |
+
+El eslogan siempre en español y debe contener la palabra "casa". Compensa el nombre en inglés con calidez y cercanía. La combinación HOME (moderno, reconocible) + "Bienvenido a casa" (cálido, cercano) crea un contraste que funciona.
+
+---
+
+## 3. Conexión con el ADN LIDERE
+
+| Principio LIDERE | Conexión con HOME |
+| --- | --- |
+| **Estrategia** (Hechos 2:42-47) | *"Partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón."* La casa ES la estrategia. HOME es Hechos 2 en una palabra. |
+| **Cuidamos** (las 6C) | El hogar es donde se cuida. Espacio del CAFÉ pastoral: Compartir, Amor, Fe, Edificar — todo sucede en casa. |
+| **Conectamos** (las 6C) | El hogar es donde los lazos se forman: *"nos conectamos unos con otros por medio de la vulnerabilidad y la transparencia"*. |
+| **Valores** | *"Sencillez de corazón"* (Hechos 2:46): nada más sencillo que la palabra "casa". *"Ministramos por quiénes somos"*: en casa eres tú mismo, sin máscaras. |
+| **Multiplicación** | HOME [barrio A] → HOME [barrio B] → HOME [ciudad]. Cada local es un nuevo hogar en una iglesia que se multiplica. Pero no solo eso, porque cada casa también es HOME. No se trata solo de un local, es nuestra nueva forma de ser iglesia. El concepto escala infinitamente tanto hacia lo más grande como hacia lo más pequeño. |
+| **Evangelismo relacional** | "¿Te vienes a HOME?" suena a plan, a espacio, a lugar donde pasan cosas. No suena a iglesia. |
+| **Célula** | La célula es literalmente *un grupo de amigos reunido en una casa*. HOME nombra esa realidad. |
+
+---
+
+## 4. Fortalezas
+
+1. **Hechos 2 en una palabra**: la iglesia en las casas convertida en marca.
+2. **Bajo umbral máximo**: nadie tiene miedo de ir a "casa".
+3. **4 letras**: marca visual potentísima (fachada, merch, logo, cartel).
+4. **Eslogan probado**: "Bienvenido a casa" funciona (Hillsong lo demuestra cada semana).
+5. **Multiplicable al infinito**: HOME + [apellido local]. Cada local es un nuevo hogar.
 6. **Universal**: en un barrio multicultural, "home" trasciende idiomas.
 7. **Conexión LIDERE profunda**: la casa, el CAFÉ pastoral, la célula, la sencillez de corazón.
 
@@ -56,11 +91,6 @@ Extraídas del ADN de LIDERE, de *Una familia en espera de invitados* y de los p
 | **Acoge** | HOME Acoge | `homeacoge.es` | @homeacoge | *Una familia en espera de invitados* — la asimilación como vocación | Verbo activo. *"Aquí se acoge"* resume toda la estrategia del manual. Sencillo y humano. |
 | **Cosecha** | HOME Cosecha | `homecosecha.es` | @homecosecha | LIDERE 3 — *"cosecha evangelística"* | Evoca abundancia y fruto. No suena a iglesia. Conecta con la cultura latina y con el barrio. |
 
----
-
-## Enlace a la propuesta CASA
-
-Hemos añadido la propuesta paralela en español: [CASA - PROPUESTA PARA EL EQUIPO](CASA-PROPUESTA-PARA-EL-EQUIPO.md)
 ### 6.2 Test rápido de los finalistas (una palabra)
 
 | Apellido | *¿Te vienes a…?* | *El viernes hay música en…* | ¿Único en Google? | ¿Fácil de teclear? |
@@ -379,5 +409,3 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
-
-updated: 8:52, 05/05/2026
