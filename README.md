@@ -150,6 +150,51 @@ Estas propuestas no se pierden. Quedan registradas para revisarlas más adelante
 
 **Nota:** "Descartado por ahora" significa que no se presenta como opción principal en esta ronda, pero sigue disponible para futuras iteraciones del equipo.
 
+---
+
+### 6.6 Propuestas del equipo — Brainstorm 4 de mayo 2026
+
+Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, Esteban). Algunas mantienen HOME como nombre principal; otras plantean un cambio de nombre completo.
+
+#### 6.6.1 Propuestas que mantienen HOME
+
+| Propuesta | Dominio | IG | Por qué funciona | Riesgos |
+| --- | --- | --- | --- | --- |
+| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). Pero eso puede ser una virtud: deja cero ambigüedad. |
+| **HOME vida** / **HOMEvida** | `homevida.es` | @homevida | Corto, positivo, universal. "Vida" es la palabra más potente del evangelio (Jn 10:10). Funciona en fachada: HOME VIDA. Buen dominio. | Puede sonar a gimnasio o centro wellness. Hay varias iglesias "Vida" en España (ruido SEO). |
+| **Vida Home** / **VIDAHome** | `vidahome.es` | @vidahome | Pone "vida" primero: el foco es la vida, el hogar es el contexto. Suena a marca lifestyle. | Al invertir, HOME pasa a segundo plano y pierde protagonismo visual. "Vida Home" suena más a tienda de decoración. |
+| **Real Home** | `realhome.es` | @realhome | Juego bilingüe elegante. Evoca autenticidad: *"esto es un hogar de verdad"*. Diferenciador fuerte: no es una iglesia de fachada. 4+4 letras: equilibrado visualmente. | En español "real" puede evocar monarquía (Real Madrid). En buscadores, "real home" tiene mucho ruido en inglés (inmobiliarias, decoración). El dominio `.es` probablemente esté ocupado. |
+
+#### 6.6.2 Propuestas que cambian el nombre principal
+
+| Propuesta | Dominio | IG | Por qué funciona | Riesgos |
+| --- | --- | --- | --- | --- |
+| **CASA** (solo) | `casa.church` o `casaiglesia.es` | @casa_iglesia | 100% español. Misma semántica que HOME pero sin barrera idiomática. El barrio obrero de Santa Eugenia lo entiende al instante. Conexión directa con Hechos 2: *"en las casas"*. Potentísimo en fachada. | Palabra extremadamente genérica: SEO casi imposible sin apellido. Dominios `.es` ocupados. No tiene la modernidad tipográfica de HOME (4 letras sans-serif). Necesita apellido o TLD diferenciador. |
+| **CASA.church** | `casa.church` | @casachurch | El TLD `.church` resuelve el problema de dominio genérico. Deja claro que es iglesia sin ponerlo en el nombre visual (solo en la URL). Innovador. Funciona bien dicho en voz alta: *"búscanos en casa punto church"*. | El TLD `.church` es poco conocido en España — el vecino medio esperaría `.es` o `.com`. Añade "church" (iglesia) al dominio, lo cual contradice parcialmente la estrategia de bajo umbral. Mezcla español + inglés de forma menos natural que HOME. |
+
+#### 6.6.3 Test rápido de las propuestas del equipo
+
+| Propuesta | *"¿Te vienes a…?"* | *"El viernes hay música en…"* | ¿Único en Google? | ¿Fácil de teclear? | Coherencia con cap. 10 |
+| --- | --- | --- | --- | --- | --- |
+| **HOME en casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (el eslogan ES el nombre) |
+| **HOME vida** | ✅✅ Funciona | ✅✅ Funciona | ⚠️ Ruido "vida church" | ✅ | ✅ Parcial (pierde "casa") |
+| **Vida Home** | ✅✅ Funciona | ✅ Menos natural | ⚠️ Ruido | ✅ | ⚠️ HOME pasa a segundo plano |
+| **Real Home** | ✅✅ Funciona | ✅✅ Funciona | ❌ Mucho ruido en inglés | ✅ | ✅ Parcial |
+| **CASA** | ✅✅✅ Perfecto | ✅✅✅ Natural | ❌ Imposible sin apellido | ✅✅✅ | ⚠️ Hay que rehacer eslóganes |
+| **CASA.church** | ✅✅ Funciona | ✅✅ Funciona | ✅ Único (TLD raro) | ⚠️ TLD poco familiar | ⚠️ Hay que rehacer eslóganes |
+
+#### 6.6.4 Valoración general
+
+**HOME en casa** es la propuesta más coherente con todo el documento: mantiene HOME como marca, integra el eslogan en el propio nombre y no requiere cambiar nada de la estrategia de comunicación (cap. 10). El "problema" de la redundancia (HOME = en casa) es en realidad su fortaleza: la repetición bilingüe elimina toda ambigüedad para cualquier público.
+
+**CASA** como nombre tiene una fuerza brutal en español puro, pero arrastra todos los problemas de genericidad que HOME resuelve con sus 4 letras en inglés. Si el equipo se inclina por CASA, necesitaría un apellido diferenciador igual que HOME (CASA Juntos, CASA Abierta, etc.) y habría que replantear la identidad visual y la estrategia de comunicación.
+
+**HOME vida** es sólido como apellido (equivalente a los de la sección 6.1) pero pierde la conexión "casa" que vertebra toda la comunicación.
+
+**Real Home** es creativo por el juego bilingüe pero tiene problemas serios de ruido en buscadores.
+
+---
+
 ## 7. Estrategia web: ¿dual o única?
 
 El equipo está debatiendo si mantener dos webs (Asamblea Cristiana + HOME) o pasar a tener solo la de HOME. A continuación se valoran ambas opciones.
@@ -365,4 +410,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 14:44, 04/05/2026
+updated: 8:52, 05/05/2026
