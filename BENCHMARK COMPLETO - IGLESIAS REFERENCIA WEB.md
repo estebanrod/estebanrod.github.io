@@ -590,4 +590,4 @@ El modelo a construir para el proyecto LIDERE combinaria lo mejor de cada refere
 
 ---
 
-updated: 8:02, 07/05/2026
+updated: 11:38, 30/04/2026
