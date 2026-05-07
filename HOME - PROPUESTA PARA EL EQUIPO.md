@@ -1,5 +1,7 @@
 # HOME
 
+[Volver al índice](README.md)
+
 ## Propuesta de nombre para el local de Santa Eugenia
 
 Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
@@ -399,6 +401,8 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 ## 11. Resumen
 
+---
+
 > **HOME** es Hechos 2 hecho marca: la iglesia en las casas, con una puerta abierta y un eslogan que lo dice todo — *"Bienvenido a casa"*.
 >
 > La estrategia de comunicación "en casa" convierte cada actividad en una extensión natural de la marca: coherente, cálida, infinitamente escalable.
@@ -409,3 +413,11 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
+
+---
+
+[Volver al índice](README.md)
+
+---
+
+updated: 8:02, 07/05/2026

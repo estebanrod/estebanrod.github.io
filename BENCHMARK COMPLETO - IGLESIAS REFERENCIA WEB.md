@@ -1,5 +1,7 @@
 # BENCHMARK COMPLETO - IGLESIAS REFERENCIA WEB
 
+[Volver al índice](README.md)
+
 Fecha: 2026-05-04
 Objetivo: analisis comparativo de webs de iglesias de referencia para extraer patrones de bienvenida, UX, discipulado y conversion aplicables al proyecto LIDERE.
 
@@ -581,3 +583,11 @@ El modelo a construir para el proyecto LIDERE combinaria lo mejor de cada refere
 | Hub de next steps accionable | Life.Church |
 | Movilizacion escalonada de voluntarios | Elevation Church |
 | Transparencia en donaciones con impacto | Crossroads |
+
+---
+
+[Volver al índice](README.md)
+
+---
+
+updated: 8:02, 07/05/2026

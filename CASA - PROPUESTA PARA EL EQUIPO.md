@@ -1,5 +1,7 @@
 # CASA
 
+[Volver al índice](README.md)
+
 ## Propuesta de nombre para el local de Santa Eugenia
 
 Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
@@ -371,3 +373,11 @@ La frase *"¿Te vienes a casa?"* es una invitación que cualquier español/latin
 
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
+
+---
+
+[Volver al índice](README.md)
+
+---
+
+updated: 8:02, 07/05/2026

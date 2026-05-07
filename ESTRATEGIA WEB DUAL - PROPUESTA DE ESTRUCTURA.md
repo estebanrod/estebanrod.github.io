@@ -1,5 +1,7 @@
 ﻿# ESTRATEGIA WEB DUAL
 
+[Volver al índice](README.md)
+
 ## Asamblea Cristiana de Madrid + Local de Santa Eugenia
 
 **Fecha**: Abril 2026
@@ -483,7 +485,6 @@ Aviso legal | Privacidad | Cookies
 
 ---
 
----
 
 ### 4.4 CONTENIDOS: TU PRIMER DOMINGO
 
@@ -1710,3 +1711,11 @@ home[apellido].es (plantilla local replicable)
 ---
 
 *Documento de trabajo — versión 3. Marcos integrados: LIDERE + "Una familia en espera de invitados" + Estrategia "en casa". Actualizar según se tomen decisiones sobre nombre, dominio y plataforma.*
+
+---
+
+[Volver al índice](README.md)
+
+---
+
+updated: 8:02, 07/05/2026

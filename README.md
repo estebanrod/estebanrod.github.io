@@ -20,4 +20,4 @@ Bienvenido — este `README` actúa como índice del sitio público. Enlaces dir
 *Documento preparado para el equipo de la Asamblea Cristiana de Madrid.*
 *Mayo 2026.*
 
-updated: 18:06, 05/05/2026
+updated: 21:22, 06/05/2026
