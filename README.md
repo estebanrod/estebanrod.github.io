@@ -6,7 +6,7 @@ Asamblea Cristiana de Madrid — Calle Zazuar 13, Santa Eugenia (Vallecas)
 
 ---
 
-# Índice del sitio
+### Índice del sitio
 
 Bienvenido — este `README` actúa como índice del sitio público. Enlaces directos a las propuestas principales:
 
