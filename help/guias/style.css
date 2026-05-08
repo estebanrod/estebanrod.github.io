@@ -326,6 +326,14 @@ nav {
 
 .site-footer a span { color: var(--accent); }
 
+/* Legal links inside footer */
+.site-footer .legal-links {
+  margin-top: 0.4rem;
+  font-size: 0.86rem;
+  color: var(--warm-mid);
+}
+.site-footer .legal-links a { color: var(--warm-mid); text-decoration: underline; }
+
 /* RESPONSIVE */
 @media (max-width: 768px) {
   nav { padding: 1rem 1.5rem; }
