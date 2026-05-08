@@ -517,6 +517,56 @@
       .banner { margin: 0 1.5rem 3rem; padding: 1.75rem; grid-template-columns: 1fr; }
       .about { grid-template-columns: 1fr; gap: 1.5rem; padding: 3rem 1.5rem; }
       footer { padding: 1.5rem; flex-direction: column; gap: 0.5rem; text-align: center; }
+      .cta-contacto-home { margin: 0 1.5rem 3rem; padding: 1.75rem; grid-template-columns: 1fr; }
+    }
+
+    /* ── CTA CONTACTO ── */
+    .cta-contacto-home {
+      margin: 0 3rem 4rem;
+      background: var(--white);
+      border: 1px solid rgba(139, 115, 85, 0.2);
+      border-left: 3px solid var(--accent);
+      border-radius: 2px;
+      padding: 2rem 2.5rem;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .cta-contacto-home .cta-icon { font-size: 1.8rem; }
+
+    .cta-contacto-home .cta-title {
+      font-family: 'Lora', serif;
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.3rem;
+    }
+
+    .cta-contacto-home .cta-desc {
+      font-size: 0.85rem;
+      color: var(--warm-mid);
+      line-height: 1.6;
+    }
+
+    .cta-contacto-home .cta-btn {
+      background: var(--ink);
+      color: var(--cream);
+      padding: 0.75rem 1.5rem;
+      border-radius: 2px;
+      font-size: 0.82rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s;
+    }
+
+    .cta-contacto-home .cta-btn:hover { background: var(--accent); }
+
+    @media (max-width: 768px) {
+      .cta-contacto-home { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -528,6 +578,7 @@
       <li><a href="#guias">Guías</a></li>
       <li><a href="#nonprofit">Nonprofit</a></li>
       <li><a href="#nosotros">Nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
     </ul>
   </nav>
 
@@ -665,6 +716,16 @@
       </div>
     </div>
   </section>
+
+  <!-- CTA CONTACTO -->
+  <div class="cta-contacto-home reveal">
+    <div class="cta-icon">💬</div>
+    <div>
+      <div class="cta-title">¿Echas algo en falta o quieres colaborar?</div>
+      <div class="cta-desc">Si alguna guía tiene un error, está desactualizada o no se entiende, dínoslo y lo revisaremos. También puedes pedirnos una guía nueva o enviarnos la tuya.</div>
+    </div>
+    <a href="contacto.html" class="cta-btn">Escribirnos →</a>
+  </div>
 
   <!-- FOOTER -->
   <footer>

@@ -334,6 +334,62 @@ nav {
 }
 .site-footer .legal-links a { color: var(--warm-mid); text-decoration: underline; }
 
+/* CONTACT CTA */
+.cta-contacto {
+  margin-top: 3rem;
+  background: var(--white);
+  border: 1px solid rgba(139, 115, 85, 0.2);
+  border-left: 3px solid var(--accent);
+  border-radius: 2px;
+  padding: 1.5rem 1.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.cta-contacto-icon {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.cta-contacto-body {
+  flex: 1;
+}
+
+.cta-contacto-title {
+  font-family: 'Lora', serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+
+.cta-contacto-desc {
+  font-size: 0.82rem;
+  color: var(--warm-mid);
+  line-height: 1.6;
+}
+
+.cta-contacto-link {
+  flex-shrink: 0;
+  background: var(--ink);
+  color: var(--cream);
+  padding: 0.6rem 1.25rem;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.cta-contacto-link:hover { background: var(--accent); }
+
+@media (max-width: 768px) {
+  .cta-contacto { flex-direction: column; align-items: flex-start; }
+}
+
 /* RESPONSIVE */
 @media (max-width: 768px) {
   nav { padding: 1rem 1.5rem; }
