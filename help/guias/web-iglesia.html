@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crea la web de tu iglesia gratis — iglesia.help</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="../index.html" class="nav-logo">iglesia<span>.help</span></a>
+  <ul class="nav-links">
+    <li><a href="../index.html#guias">Guías</a></li>
+    <li><a href="../index.html#nonprofit">Nonprofit</a></li>
+    <li><a href="../index.html#nosotros">Nosotros</a></li>
+  </ul>
+</nav>
+
+<div class="guide-wrap">
+
+  <div class="breadcrumb">
+    <a href="../index.html">Inicio</a>
+    <span class="breadcrumb-sep">›</span>
+    <a href="../index.html#guias">Guías</a>
+    <span class="breadcrumb-sep">›</span>
+    Web de la iglesia
+  </div>
+
+  <div class="guide-tag">Web</div>
+  <h1 class="guide-h1">Crea la web de tu iglesia gratis</h1>
+  <p class="guide-intro">
+    Tener presencia en internet ya no es opcional. Cuando alguien busca una iglesia en su ciudad, la primera cosa que hace es buscar en Google. Esta guía te explica cómo tener una web sencilla, bonita y funcional sin necesitar conocimientos técnicos ni pagar por hosting.
+  </p>
+
+  <div class="info-box">
+    <div class="info-box-title">¿Qué opción encaja mejor con tu iglesia?</div>
+    <ul>
+      <li><strong>Google Sites</strong> — la más sencilla, gratis total, no necesita dominio propio</li>
+      <li><strong>Cloudflare Pages</strong> — gratuita, con dominio propio, requiere algo más de conocimiento técnico</li>
+      <li><strong>WordPress.com</strong> — más posibilidades, plan gratuito disponible, dominio propio desde 4€/mes</li>
+    </ul>
+  </div>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-body">
+      <div class="step-title">Consigue un dominio propio (opcional pero recomendado)</div>
+      <div class="step-desc">
+        <p>Un dominio propio como <strong>iglesiagraciagetafe.es</strong> transmite profesionalidad y es más fácil de recordar. En España, un dominio .es cuesta entre <strong>5 y 12€ al año</strong>.</p>
+        <p>Recomendamos registrarlo en <strong>Cloudflare</strong> (<span class="url-pill">cloudflare.com</span>) porque venden dominios a precio de coste, sin margen, y ofrecen herramientas muy potentes gratuitas para iglesias.</p>
+        <div class="tip"><strong>Consejo para el nombre:</strong> Usa el nombre de tu iglesia tal cual, sin abreviaturas raras. Si ya está tomado, añade la ciudad: iglesiabetelmadrid.es, iglesiagracia-getafe.es, etc.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="step-divider">
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-body">
+      <div class="step-title">Opción A — Google Sites (la más sencilla)</div>
+      <div class="step-desc">
+        <p>Ve a <span class="url-pill">sites.google.com</span> e inicia sesión con una cuenta de Google. Haz clic en el <strong>+</strong> para crear un sitio nuevo.</p>
+        <p>Google Sites funciona como una presentación de diapositivas: arrastras bloques, escribes texto, añades imágenes. No necesitas saber nada de código.</p>
+        <p>Las páginas imprescindibles para una iglesia son:</p>
+        <ul style="margin: 0.5rem 0 0.75rem 1.2rem; display: flex; flex-direction: column; gap: 0.3rem;">
+          <li style="font-size: 0.88rem; color: var(--warm-mid);"><strong style="color: var(--ink);">Inicio</strong> — quiénes sois y cuándo son los cultos</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);"><strong style="color: var(--ink);">Qué creemos</strong> — vuestra declaración de fe</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);"><strong style="color: var(--ink);">Grupos y ministerios</strong> — jóvenes, mujeres, grupos pequeños</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);"><strong style="color: var(--ink);">Sermones</strong> — enlace al canal de YouTube</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);"><strong style="color: var(--ink);">Contacto</strong> — dirección, teléfono, mapa de Google</li>
+        </ul>
+        <div class="tip"><strong>Dominio propio con Google Sites:</strong> Si ya has comprado un dominio, puedes vincularlo a Google Sites desde Configuración → Dominio personalizado. Google te indicará qué registros DNS añadir en Cloudflare.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="step-divider">
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-body">
+      <div class="step-title">Opción B — Cloudflare Pages (gratuita con dominio propio)</div>
+      <div class="step-desc">
+        <p>Si ya tienes un dominio en Cloudflare, puedes publicar una web completamente gratis usando <strong>Cloudflare Pages</strong>. Necesitarás archivos HTML — nosotros en iglesia.help podemos ayudarte a crearlos.</p>
+        <p>El proceso básico:</p>
+        <ul style="margin: 0.5rem 0 0.75rem 1.2rem; display: flex; flex-direction: column; gap: 0.3rem;">
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Entra en tu panel de Cloudflare → <strong>Workers & Pages → Create</strong></li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Selecciona <strong>"Direct Upload"</strong></li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Arrastra tu carpeta con los archivos HTML</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Cloudflare publica la web en segundos</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Desde "Custom Domains" vincula tu dominio propio</li>
+        </ul>
+        <div class="tip"><strong>Sin límites:</strong> Cloudflare Pages es gratuito para siempre en su plan básico, sin límites de visitas ni de ancho de banda.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="step-divider">
+
+  <div class="step">
+    <div class="step-num">4</div>
+    <div class="step-body">
+      <div class="step-title">Añade la dirección y el horario bien visibles</div>
+      <div class="step-desc">
+        <p>Lo más importante de la web de una iglesia para quien la visita por primera vez es saber <strong>dónde estáis y cuándo podéis ir</strong>. Asegúrate de que esta información aparece en la página de inicio sin tener que buscarla.</p>
+        <p>Incluye siempre un <strong>mapa de Google Maps</strong> embebido. En Google Maps, busca tu dirección, haz clic en "Compartir → Insertar mapa" y copia el código HTML.</p>
+        <div class="tip"><strong>Google Business:</strong> Regístrate también en Google Business Profile (<span class="url-pill">business.google.com</span>) para que tu iglesia aparezca en Google Maps cuando alguien busque "iglesia evangélica cerca de mí". Es gratuito.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="step-divider">
+
+  <div class="step">
+    <div class="step-num">5</div>
+    <div class="step-body">
+      <div class="step-title">Mantén la web actualizada</div>
+      <div class="step-desc">
+        <p>Una web desactualizada genera más desconfianza que no tener web. Lo mínimo que debes mantener al día:</p>
+        <ul style="margin: 0.5rem 0 0.75rem 1.2rem; display: flex; flex-direction: column; gap: 0.3rem;">
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Horario de cultos — especialmente si cambia en verano o festividades</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Eventos especiales — campamentos, conferencias, retiros</li>
+          <li style="font-size: 0.88rem; color: var(--warm-mid);">Datos de contacto</li>
+        </ul>
+        <p>Designa a una persona de la iglesia como responsable de la web. No necesita saber programar — con Google Sites cualquiera puede editar el contenido.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="guide-footer">
+    <div class="other-guides-title">Continúa con otras guías</div>
+    <div class="other-guides">
+      <a href="google-nonprofits.html" class="other-guide-card">
+        <div class="ogc-tag">Nonprofit</div>
+        <div class="ogc-title">Google for Nonprofits para tu iglesia</div>
+      </a>
+      <a href="streaming-youtube.html" class="other-guide-card">
+        <div class="ogc-tag">Streaming</div>
+        <div class="ogc-title">Retransmite tu culto en YouTube con OBS</div>
+      </a>
+      <a href="canva-nonprofit.html" class="other-guide-card">
+        <div class="ogc-tag">Diseño</div>
+        <div class="ogc-title">Canva para iglesias: plan nonprofit gratis</div>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<footer class="site-footer">
+  <a href="../index.html">iglesia<span>.help</span></a> &nbsp;·&nbsp; Recursos técnicos gratuitos para comunidades evangélicas
+</footer>
+
+</body>
+</html>
