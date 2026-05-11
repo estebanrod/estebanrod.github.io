@@ -162,7 +162,8 @@ Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, E
 
 | Propuesta | Dominio | IG | Por qué funciona | Riesgos |
 | --- | --- | --- | --- | --- |
-| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). Pero eso puede ser una virtud: deja cero ambigüedad. |
+| **HOME tu casa** | `hometucase.es` | @hometucase | El apellido convierte el nombre en declaración de pertenencia: el espacio ya es del visitante antes de entrar. *"HOME / tu casa"* en dos líneas es la fachada perfecta. Coherente con toda la estrategia de comunicación del cap. 10. No hay doble preposición en uso oral. | El posesivo "tu" puede sentirse impuesto si el visitante aún no se siente parte. Se mitiga con el eslogan de bienvenida en la fachada. |
+| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). Pero eso puede ser una virtud: deja cero ambigüedad. La doble preposición *"en HOME en casa"* puede tropezar en oral. |
 | **HOME vida** / **HOMEvida** | `homevida.es` | @homevida | Corto, positivo, universal. "Vida" es la palabra más potente del evangelio (Jn 10:10). Funciona en fachada: HOME VIDA. Buen dominio. | Puede sonar a gimnasio o centro wellness. Hay varias iglesias "Vida" en España (ruido SEO). |
 | **Vida Home** / **VIDAHome** | `vidahome.es` | @vidahome | Pone "vida" primero: el foco es la vida, el hogar es el contexto. Suena a marca lifestyle. | Al invertir, HOME pasa a segundo plano y pierde protagonismo visual. "Vida Home" suena más a tienda de decoración. |
 | **Real Home** | `realhome.es` | @realhome | Juego bilingüe elegante. Evoca autenticidad: *"esto es un hogar de verdad"*. Diferenciador fuerte: no es una iglesia de fachada. 4+4 letras: equilibrado visualmente. | En español "real" puede evocar monarquía (Real Madrid). En buscadores, "real home" tiene mucho ruido en inglés (inmobiliarias, decoración). El dominio `.es` probablemente esté ocupado. |
@@ -178,6 +179,7 @@ Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, E
 
 | Propuesta | *"¿Te vienes a…?"* | *"El viernes hay música en…"* | ¿Único en Google? | ¿Fácil de teclear? | Coherencia con cap. 10 |
 | --- | --- | --- | --- | --- | --- |
+| **HOME tu casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (declara pertenencia desde el primer contacto) |
 | **HOME en casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (el eslogan ES el nombre) |
 | **HOME vida** | ✅✅ Funciona | ✅✅ Funciona | ⚠️ Ruido "vida church" | ✅ | ✅ Parcial (pierde "casa") |
 | **Vida Home** | ✅✅ Funciona | ✅ Menos natural | ⚠️ Ruido | ✅ | ⚠️ HOME pasa a segundo plano |
@@ -187,7 +189,9 @@ Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, E
 
 #### 6.6.4 Valoración general
 
-**HOME en casa** es la propuesta más coherente con todo el documento: mantiene HOME como marca, integra el eslogan en el propio nombre y no requiere cambiar nada de la estrategia de comunicación (cap. 10). El "problema" de la redundancia (HOME = en casa) es en realidad su fortaleza: la repetición bilingüe elimina toda ambigüedad para cualquier público.
+**HOME tu casa** es la propuesta más sólida de esta ronda: mantiene HOME como marca, declara pertenencia desde el primer contacto (*"el espacio ya es tuyo antes de entrar"*) y no genera doble preposición en uso oral. La fachada *"HOME / tu casa"* en dos líneas resume toda la estrategia de comunicación del cap. 10 sin necesidad de un eslogan adicional.
+
+**HOME en casa** es una alternativa igualmente coherente: integra el eslogan en el nombre y elimina toda ambigüedad. Su único punto débil es la doble preposición *"en HOME en casa"* en uso oral, que se resuelve omitiendo la preposición en comunicaciones de evento (*"el viernes, música. HOME en casa"*).
 
 **CASA** como nombre tiene una fuerza brutal en español puro, pero arrastra todos los problemas de genericidad que HOME resuelve con sus 4 letras en inglés. Si el equipo se inclina por CASA, necesitaría un apellido diferenciador igual que HOME (CASA Juntos, CASA Abierta, etc.) y habría que replantear la identidad visual y la estrategia de comunicación.
 
