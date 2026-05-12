@@ -78,116 +78,29 @@ HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
 
 ---
 
-### 6.1 Propuestas de apellido — una palabra
+### 6.1 Propuestas activas
 
-Extraídas del ADN de LIDERE, de *Una familia en espera de invitados* y de los propios eslóganes de HOME. Aquí se listan las propuestas activas priorizadas; las propuestas descartadas temporalmente se conservan más abajo como histórico.
-
-| Apellido | Nombre completo | Dominio | IG | Origen | Por qué funciona |
-| --- | --- | --- | --- | --- | --- |
-| **Juntos** | HOME Juntos | `homejuntos.es` | @homejuntos | Hechos 2:44 — *"perseveraban juntos"* | Cálido, universal, pasa el test del WhatsApp: *"¿vienes a HOME Juntos?"* Nada religioso. |
-| **Mesa** | HOME Mesa | `homemesa.es` | @homemesa | Hechos 2:46 — *"partiendo el pan"* | Hospitalidad directa. Evoca la cena comunitaria, el café. Perfecto para el Café Concierto: *"esta noche en HOME Mesa"*. |
-| **Umbral** | HOME Umbral | `homeumbral.es` | @homeumbral | Metáfora del sistema de asimilación: el umbral es el punto de entrada | Poético, único en buscadores, evoca la puerta abierta del logo. Doble lectura: *el umbral de la casa* y *el inicio del camino*. |
-| **Raíz** | HOME Raíz | `homeraiz.es` | @homeraiz | Cap. 1 de Joel Comiskey — *"Fundamentos: ¿Arena o Roca?"* | Corto, profundo, multicultural (toda la comunidad inmigrante de Vallecas entiende "echar raíces"). Funciona en fachada. |
-| **Celebra** | HOME Celebra | `homecelebra.es` | @homecelebra | Primera C de las 6C — *Celebramos* | Festivo, bajísima barrera. Ideal para el Café Concierto: *"el viernes se celebra en HOME Celebra"*. Positivo y universal. |
-| **Hechos** | HOME Hechos | `homehechos.es` | @homehechos | Hechos 2:42-47 — la estrategia de la iglesia primitiva | Doble lectura: el libro bíblico + *"aquí pasan cosas"*. Sugiere acción, no religión. Único en buscadores. |
-| **Acoge** | HOME Acoge | `homeacoge.es` | @homeacoge | *Una familia en espera de invitados* — la asimilación como vocación | Verbo activo. *"Aquí se acoge"* resume toda la estrategia del manual. Sencillo y humano. |
-| **Cosecha** | HOME Cosecha | `homecosecha.es` | @homecosecha | LIDERE 3 — *"cosecha evangelística"* | Evoca abundancia y fruto. No suena a iglesia. Conecta con la cultura latina y con el barrio. |
-
-### 6.2 Test rápido de los finalistas (una palabra)
-
-| Apellido | *¿Te vienes a…?* | *El viernes hay música en…* | ¿Único en Google? | ¿Fácil de teclear? |
-| --- | --- | --- | --- | --- |
-| **Juntos** | ✅✅✅ Natural | ✅✅ Funciona | ⚠️ Con "home" delante: únicos | ✅ |
-| **Mesa** | ✅✅✅ Natural | ✅✅✅ Perfecto | ✅ Único | ✅ |
-| **Umbral** | ✅✅ Funciona | ✅✅ Interesante | ✅✅ Muy único | ✅ |
-| **Raíz** | ✅✅✅ Natural | ✅✅ Funciona | ✅ Único | ✅ (sin tilde en URL: homeraiz) |
-| **Celebra** | ✅✅ Funciona | ✅✅✅ Perfecto | ✅ Único | ✅ |
-| **Hechos** | ✅✅ Funciona | ✅ Menos obvio | ✅✅ Muy único | ✅ |
-| **Acoge** | ✅✅✅ Natural | ✅ Menos obvio | ✅ Único | ✅ |
-
----
-
-### 6.3 Propuestas de apellido — frase o combinación
-
-Nombres con dos o más palabras. Pierden limpieza en el dominio (que se vuelve largo), pero ganan personalidad verbal, especialmente en fachada, flyers y conversación oral. Para el dominio se indica la versión abreviada viable.
-
-| Apellido | Nombre completo | Dominio | IG | Origen | Por qué funciona |
-| --- | --- | --- | --- | --- | --- |
-| **Puerta Abierta** | HOME Puerta Abierta | `homepuertaabierta.es` | @homepuertaabierta | La puerta como metáfora de bienvenida (logo, fachada, Hechos 2) | Expresión que cualquier persona del barrio reconoce. La fachada podría literalmente tener una puerta abierta. *"El viernes hay concierto en HOME Puerta Abierta"* — funciona. |
-| **Pan y Mesa** | HOME Pan y Mesa | `homepanymesa.es` | @homepanymesa | Hechos 2:46 — *"partiendo el pan en las casas"* | Hospitalidad y comunidad en tres palabras. Perfecto para el Café Concierto. El visitante nuevo lo entiende sin contexto religioso: aquí se come, aquí se comparte. |
-| **Del Barrio** | HOME del Barrio | `homedelbarrio.es` | @homedelbarrio | Evangelismo relacional (LIDERE 3) — *"sé intencional, ve a donde está la gente"* | Reclama la identidad local con orgullo vallecano. *"¿Vienes a HOME del Barrio?"* suena a plan de vecinos, no a iglesia. Muy potente en flyers de buzón. |
-| **Café con Alma** | HOME Café con Alma | `homecafeconalma.es` | @homecafeconalma | El CAFÉ pastoral (Compartir + Amor + Fe + Edificar) + el Café Concierto mensual | Dos lecturas: el café como bebida y el CAFÉ como sigla pastoral. Ideal para la actividad más visible del local. *"El viernes en HOME Café con Alma"* es exactamente lo que ocurre ese viernes. |
-| **Ven y Quédate** | HOME Ven y Quédate | `homevenquedate.es` | @homevenquedate | La escalera de asimilación VEN · CONECTA · CRECE · SIRVE (*Una familia en espera de invitados*) | Resume todo el sistema de asimilación en tres palabras. Invitación directa, sin rodeos. El "quédate" lleva implícito que hay algo que merece la pena. |
-| **Sin Muros** | HOME Sin Muros | `homesinmuros.es` | @homesinmuros | Modelo de iglesia abierta al barrio — *"iglesia que sale, no que espera"* (LIDERE 1.4) | Postula la diferencia con la iglesia tradicional. Atractivo para quien tiene una mala experiencia eclesiástica previa. Suena a movimiento, no a edificio. |
-| **Mesa Franca** | HOME Mesa Franca | `homemesafranca.es` | @homemesafranca | Hechos 2:46 + el valor LIDERE de *"vulnerabilidad y transparencia"* | "Franco" = honesto, abierto, sin filtros. Una mesa franca es donde se habla de verdad. Diferente, memorable, con carácter. Pasa el test de la sala de conciertos: *"el viernes en HOME Mesa Franca"*. |
-| **Entre Amigos** | HOME Entre Amigos | `homeentreamigos.es` | @homeentreamigos | La célula definida en LIDERE como *"un grupo de amigos con una misión"* | Frase hecha que todo el mundo usa. Bajísimo umbral. *"¿Vienes al concierto? Es entre amigos"* — es exactamente la invitación del evangelismo relacional. |
-| **Vida y Barrio** | HOME Vida y Barrio | `homevídaybarrio.es` / `homevidaybarrio.es` | @homevidaybarrio | Visión LIDERE: *"llenar el cielo y transformar el barrio"* (Ap 7:9 + Is 61:4) | Conecta las dos dimensiones de la misión: la vida personal transformada y el impacto comunitario. Funciona bien en comunicaciones de acción social (ReCreando). |
-
-### 6.4 Nota sobre dominios con apellidos multi-palabra
-
-Los apellidos de más de una palabra generan dominios largos (ej. `homecafeconalma.es`). Tres estrategias para resolverlo:
-
-1. **Abreviar el dominio**: usar solo la primera palabra como dominio (`homecafe.es`, `homemesa.es`) y reservar el nombre completo para la identidad verbal y visual.
-2. **Usar guiones**: `home-pan-y-mesa.es` — menos elegante pero más legible.
-3. **Aceptar el dominio largo**: si el apellido es memorable y se comunica sobre todo por boca o QR, la longitud del dominio importa menos de lo que parece.
-
-En cualquier caso, el handle de Instagram debería ser la versión más corta posible y estar alineado con el dominio elegido.
-
-### 6.5 Histórico de propuestas descartadas (por ahora)
-
-Estas propuestas no se pierden. Quedan registradas para revisarlas más adelante si cambia el contexto del barrio, de la web o de la estrategia de marca.
-
-| Apellido descartado (temporal) | Nombre completo | Estado actual | Motivo principal de descarte |
-| --- | --- | --- | --- |
-| **Zazuar** | HOME Zazuar | Descartado por ahora | Muy fuerte en SEO y barrio, pero se prefirió abrir el foco y no cerrar todavía el apellido a la calle concreta. |
-| **Eugenia** | HOME Eugenia | Descartado por ahora | Cálido y con anclaje local, pero puede sonar a nombre de persona y generar ambigüedad de marca. |
-| **13** | HOME 13 | Descartado por ahora | Muy corto y memorable, pero demasiado abstracto fuera del contexto local. |
-| **4/13** | HOME 4/13 | Descartado por ahora | Potente por Filipenses 4:13, pero complica URLs y comunicación verbal masiva. |
-| **SE** | HOME SE | (SE = Santa Eugenia) Descartado por ahora | Ultra breve, pero ambiguo para pronunciación y búsqueda. |
-| **Vallecas** | HOME Vallecas | Descartado por ahora | Buen anclaje territorial, aunque más genérico y con mayor ruido en buscadores. |
-| **Santa Eugenia** | HOME Santa Eugenia | Descartado por ahora | Muy claro geográficamente, pero largo para dominio, usuario y recordación digital. |
-| **Sala** | HOME Sala | Descartado por ahora | Funciona para conciertos, pero se puede confundir con "sala de eventos" sin identidad propia HOME. |
-| **Renueva** | HOME Renueva | Descartado por ahora | Fuerte en transformación espiritual, menos claro para audiencia de primer contacto vecinal. |
-| **Restaura** | HOME Restaura | Descartado por ahora | Teológicamente sólido, pero puede sonar a ONG/acción social antes que a comunidad hogar. |
-
-**Nota:** "Descartado por ahora" significa que no se presenta como opción principal en esta ronda, pero sigue disponible para futuras iteraciones del equipo.
-
----
-
-### 6.6 Propuestas del equipo — Brainstorm 4 de mayo 2026
-
-Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, Esteban). Algunas mantienen HOME como nombre principal; otras plantean un cambio de nombre completo.
-
-#### 6.6.1 Propuestas que mantienen HOME
+Todas las propuestas que se están valorando actualmente, reunidas en un solo lugar.
 
 | Propuesta | Dominio | IG | Por qué funciona | Riesgos |
 | --- | --- | --- | --- | --- |
-| **HOME tu casa** | `hometucase.es` | @hometucase | El apellido convierte el nombre en declaración de pertenencia: el espacio ya es del visitante antes de entrar. *"HOME / tu casa"* en dos líneas es la fachada perfecta. Coherente con toda la estrategia de comunicación del cap. 10. No hay doble preposición en uso oral. | El posesivo "tu" puede sentirse impuesto si el visitante aún no se siente parte. Se mitiga con el eslogan de bienvenida en la fachada. |
-| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). Pero eso puede ser una virtud: deja cero ambigüedad. La doble preposición *"en HOME en casa"* puede tropezar en oral. |
-| **HOME vida** / **HOMEvida** | `homevida.es` | @homevida | Corto, positivo, universal. "Vida" es la palabra más potente del evangelio (Jn 10:10). Funciona en fachada: HOME VIDA. Buen dominio. | Puede sonar a gimnasio o centro wellness. Hay varias iglesias "Vida" en España (ruido SEO). |
-| **Vida Home** / **VIDAHome** | `vidahome.es` | @vidahome | Pone "vida" primero: el foco es la vida, el hogar es el contexto. Suena a marca lifestyle. | Al invertir, HOME pasa a segundo plano y pierde protagonismo visual. "Vida Home" suena más a tienda de decoración. |
-| **Real Home** | `realhome.es` | @realhome | Juego bilingüe elegante. Evoca autenticidad: *"esto es un hogar de verdad"*. Diferenciador fuerte: no es una iglesia de fachada. 4+4 letras: equilibrado visualmente. | En español "real" puede evocar monarquía (Real Madrid). En buscadores, "real home" tiene mucho ruido en inglés (inmobiliarias, decoración). El dominio `.es` probablemente esté ocupado. |
+| **HOME tu casa** | `hometucasa.es` | @hometucasa | El apellido convierte el nombre en declaración de pertenencia: el espacio ya es del visitante antes de entrar. *"HOME / tu casa"* en dos líneas es la fachada perfecta. Coherente con toda la estrategia de comunicación del cap. 10. No hay doble preposición en uso oral. | El posesivo "tu" puede sentirse impuesto si el visitante aún no se siente parte. Se mitiga con el eslogan de bienvenida en la fachada. |
+| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). La doble preposición *"en HOME en casa"* puede tropezar en oral. |
+| **HOME vida** | `homevida.es` | @homevida | Corto, positivo, universal. "Vida" es la palabra más potente del evangelio (Jn 10:10). Funciona en fachada: HOME VIDA. Buen dominio. | Puede sonar a gimnasio o centro wellness. Hay varias iglesias "Vida" en España (ruido SEO). Pierde la conexión "casa". |
+| **CASA** | `casa.church` o `casaiglesia.es` | @casa_iglesia | 100% español. Misma semántica que HOME pero sin barrera idiomática. El barrio obrero de Santa Eugenia lo entiende al instante. Conexión directa con Hechos 2: *"en las casas"*. Potentísimo en fachada. | SEO casi imposible sin apellido. Dominios `.es` ocupados. Necesita apellido o TLD diferenciador. Hay que rehacer eslóganes. |
+| **CASA.church** | `casa.church` | @casachurch | El TLD `.church` resuelve el problema de dominio genérico. Deja claro que es iglesia sin ponerlo en el nombre visual (solo en la URL). Funciona bien dicho en voz alta: *"búscanos en casa punto church"*. | TLD `.church` poco conocido en España. Mezcla español + inglés de forma menos natural que HOME. Hay que rehacer eslóganes. |
 
-#### 6.6.2 Propuestas que cambian el nombre principal
-
-| Propuesta | Dominio | IG | Por qué funciona | Riesgos |
-| --- | --- | --- | --- | --- |
-| **CASA** (solo) | `casa.church` o `casaiglesia.es` | @casa_iglesia | 100% español. Misma semántica que HOME pero sin barrera idiomática. El barrio obrero de Santa Eugenia lo entiende al instante. Conexión directa con Hechos 2: *"en las casas"*. Potentísimo en fachada. | Palabra extremadamente genérica: SEO casi imposible sin apellido. Dominios `.es` ocupados. No tiene la modernidad tipográfica de HOME (4 letras sans-serif). Necesita apellido o TLD diferenciador. |
-| **CASA.church** | `casa.church` | @casachurch | El TLD `.church` resuelve el problema de dominio genérico. Deja claro que es iglesia sin ponerlo en el nombre visual (solo en la URL). Innovador. Funciona bien dicho en voz alta: *"búscanos en casa punto church"*. | El TLD `.church` es poco conocido en España — el vecino medio esperaría `.es` o `.com`. Añade "church" (iglesia) al dominio, lo cual contradice parcialmente la estrategia de bajo umbral. Mezcla español + inglés de forma menos natural que HOME. |
-
-#### 6.6.3 Test rápido de las propuestas del equipo
+#### Test rápido de todas las propuestas activas
 
 | Propuesta | *"¿Te vienes a…?"* | *"El viernes hay música en…"* | ¿Único en Google? | ¿Fácil de teclear? | Coherencia con cap. 10 |
 | --- | --- | --- | --- | --- | --- |
 | **HOME tu casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (declara pertenencia desde el primer contacto) |
 | **HOME en casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (el eslogan ES el nombre) |
 | **HOME vida** | ✅✅ Funciona | ✅✅ Funciona | ⚠️ Ruido "vida church" | ✅ | ✅ Parcial (pierde "casa") |
-| **Vida Home** | ✅✅ Funciona | ✅ Menos natural | ⚠️ Ruido | ✅ | ⚠️ HOME pasa a segundo plano |
-| **Real Home** | ✅✅ Funciona | ✅✅ Funciona | ❌ Mucho ruido en inglés | ✅ | ✅ Parcial |
 | **CASA** | ✅✅✅ Perfecto | ✅✅✅ Natural | ❌ Imposible sin apellido | ✅✅✅ | ⚠️ Hay que rehacer eslóganes |
 | **CASA.church** | ✅✅ Funciona | ✅✅ Funciona | ✅ Único (TLD raro) | ⚠️ TLD poco familiar | ⚠️ Hay que rehacer eslóganes |
 
-#### 6.6.4 Valoración general
+#### Valoración general
 
 **HOME tu casa** es la propuesta más sólida de esta ronda: mantiene HOME como marca, declara pertenencia desde el primer contacto (*"el espacio ya es tuyo antes de entrar"*) y no genera doble preposición en uso oral. La fachada *"HOME / tu casa"* en dos líneas resume toda la estrategia de comunicación del cap. 10 sin necesidad de un eslogan adicional.
 
@@ -195,65 +108,100 @@ Propuestas surgidas en la lluvia de ideas del equipo (Manuela, Cristina, Asun, E
 
 **CASA** como nombre tiene una fuerza brutal en español puro, pero arrastra todos los problemas de genericidad que HOME resuelve con sus 4 letras en inglés. Si el equipo se inclina por CASA, necesitaría un apellido diferenciador igual que HOME (CASA Juntos, CASA Abierta, etc.) y habría que replantear la identidad visual y la estrategia de comunicación.
 
-**HOME vida** es sólido como apellido (equivalente a los de la sección 6.1) pero pierde la conexión "casa" que vertebra toda la comunicación.
-
-**Real Home** es creativo por el juego bilingüe pero tiene problemas serios de ruido en buscadores.
+**HOME vida** es sólido como apellido pero pierde la conexión "casa" que vertebra toda la comunicación.
 
 ---
 
-## 7. Estrategia web: ¿dual o única?
+### 6.2 Histórico de propuestas descartadas (por ahora)
 
-El equipo está debatiendo si mantener dos webs (Asamblea Cristiana + HOME) o pasar a tener solo la de HOME. A continuación se valoran ambas opciones.
+Estas propuestas no se pierden. Quedan registradas para revisarlas más adelante si cambia el contexto del barrio, de la web o de la estrategia de marca.
 
----
+**Nota:** "Descartado por ahora" significa que no se presenta como opción principal en esta ronda, pero sigue disponible para futuras iteraciones del equipo.
 
-### 7.1 Opción A — Web dual (`asambleacristiana.es` + `home[apellido].es`)
-
-**En qué consiste**: dos sitios independientes con públicos y tonos diferenciados. Asamblea Cristiana cubre lo institucional; HOME cubre lo evangelístico y local.
-
-| PROS | CONTRAS |
-| --- | --- |
-| Públicos claramente separados: el vecino curioso llega a una web hecha para él, sin pasar por la institucional | Doble esfuerzo de mantenimiento: sin equipo web dedicado, una de las dos quedará desactualizada o abandonada |
-| SEO independiente: cada dominio se posiciona para su audiencia sin comprometer al otro | El visitante nuevo que llega por HOME probablemente nunca encuentre la web de Asamblea Cristiana (y viceversa) |
-| Libertad de tono: la web de HOME puede ser completamente no religiosa en su apariencia exterior | Contenido duplicado inevitable: contacto, visión, horarios aparecerán en los dos sitios con el riesgo de desincronizarse |
-| Si la marca HOME evoluciona o fracasa, la web institucional queda intacta con su historia acumulada | Mayor coste: dos dominios, posiblemente dos plataformas, dos estructuras de permisos |
-| Arquitectura escalable si en el futuro hay más locales, cada uno con su dominio propio | Complejidad técnica: un CMS compartido requiere más configuración inicial y más conocimiento para mantenerlo |
-| Credibilidad diferenciada: lo institucional no contamina la marca local, ni al revés | Para el vecino que busca en Google, encontrar dos resultados distintos puede generar confusión sobre qué son realmente |
-
----
-
-### 7.2 Opción B — Web única (`home[apellido].es`)
-
-**En qué consiste**: un solo sitio centrado en HOME, con una sección interior que cubra la información institucional necesaria (quiénes somos, historia, denominación, transparencia).
-
-| PROS | CONTRAS |
-| --- | --- |
-| Un solo esfuerzo de mantenimiento: toda la energía concentrada en hacer una web excelente | La separación de públicos desaparece: el líder que busca información denominacional y el vecino curioso llegan al mismo sitio |
-| Coherencia de marca total: todo comunica HOME, sin que el visitante tenga que entender qué es "Asamblea Cristiana" | Si en el futuro hay más locales con sus propios dominios, habrá que replantear la arquitectura de información |
-| Más sencillo de comunicar: un solo enlace, un solo handle, un solo QR en los flyers | La historia y credibilidad de Asamblea Cristiana quedan enterradas en una subpágina, no en el dominio raíz |
-| La escalera VEN · CONECTA · CRECE · SIRVE puede ser la estructura de toda la web, sin compromisos institucionales | El dominio `home[apellido].es` puede sonar a espacio cultural; quien busca "iglesia en Santa Eugenia" lo encontrará menos fácil |
-| Reduce la confusión de identidad: eres HOME, no "Asamblea Cristiana que también tiene un local llamado HOME" | — |
-| Más realista para un equipo sin recursos técnicos continuos | — |
-
----
-
-### 7.3 Recomendación
-
-> Para un equipo sin personal web dedicado, **la web única es más sostenible**. El riesgo real de la web dual no es técnico: es que dentro de seis meses `asambleacristiana.es` esté desactualizada y transmita lo contrario de lo que HOME quiere comunicar.
->
-> La solución intermedia viable: **una sola web en `home[apellido].es`**, con una sección "Sobre nosotros" que incluya la historia, la denominación y los documentos de transparencia. La web de Asamblea Cristiana puede mantenerse como landing estática con lo mínimo imprescindible, sin requerir mantenimiento frecuente.
->
-> Si en el futuro el proyecto escala a varios locales, ese es el momento de revisar la arquitectura, no ahora.
+| Propuesta descartada | Nombre completo | Motivo principal de descarte |
+| --- | --- | --- |
+| **Juntos** | HOME Juntos | Cálido y universal, pero genérico en buscadores sin "home" delante. No diferencia lo suficiente como marca. |
+| **Mesa** | HOME Mesa | Hospitalidad directa, pero puede confundirse con restaurante o catering. |
+| **Raíz** | HOME Raíz | Profundo y multicultural, pero la tilde complica la URL y suena a proyecto ecológico. |
+| **Celebra** | HOME Celebra | Festivo y positivo, pero puede sonar a sala de fiestas o a empresa de eventos. |
+| **Umbral** | HOME Umbral | Poético y único en buscadores, pero demasiado abstracto para el vecino de a pie. |
+| **Hechos** | HOME Hechos | Doble lectura interesante, pero puede sonar a noticiario o a acción social genérica. |
+| **Acoge** | HOME Acoge | Sencillo y humano, pero puede confundirse con un programa de acogida institucional. |
+| **Cosecha** | HOME Cosecha | Evoca abundancia, pero puede sonar agrícola o a tienda ecológica fuera de contexto. |
+| **Vida Home** | Vida Home | HOME pasa a segundo plano y pierde protagonismo visual. Suena más a tienda de decoración. Ruido en buscadores. |
+| **Real Home** | Real Home | Mucho ruido en buscadores en inglés (inmobiliarias, decoración). "Real" puede evocar monarquía en español. Dominio `.es` probablemente ocupado. |
+| **Puerta Abierta** | HOME Puerta Abierta | Dominio largo (`homepuertaabierta.es`), puede sonar a ONG. |
+| **Pan y Mesa** | HOME Pan y Mesa | Dominio largo (`homepanymesa.es`), tres palabras dificultan la comunicación digital. |
+| **Del Barrio** | HOME del Barrio | Potente en flyers pero genérico en buscadores y cierra el foco geográfico. |
+| **Café con Alma** | HOME Café con Alma | Dominio excesivamente largo (`homecafeconalma.es`), puede confundirse con cafetería. |
+| **Ven y Quédate** | HOME Ven y Quédate | Funciona como invitación oral pero no como marca estable (imperativo). |
+| **Sin Muros** | HOME Sin Muros | Diferenciador pero puede sonar a movimiento político/social. |
+| **Mesa Franca** | HOME Mesa Franca | Memorable pero demasiado críptico para primer contacto vecinal. |
+| **Entre Amigos** | HOME Entre Amigos | Bajísimo umbral pero genérico; no ancla al proyecto. |
+| **Vida y Barrio** | HOME Vida y Barrio | Conecta visión pero largo y con tilde problemática en dominio. |
+| **Zazuar** | HOME Zazuar | Muy fuerte en SEO y barrio, pero se prefirió abrir el foco y no cerrar todavía el apellido a la calle concreta. |
+| **Eugenia** | HOME Eugenia | Cálido y con anclaje local, pero puede sonar a nombre de persona y generar ambigüedad de marca. |
+| **13** | HOME 13 | Muy corto y memorable, pero demasiado abstracto fuera del contexto local. |
+| **4/13** | HOME 4/13 | Potente por Filipenses 4:13, pero complica URLs y comunicación verbal masiva. |
+| **SE** | HOME SE | (SE = Santa Eugenia) Ultra breve, pero ambiguo para pronunciación y búsqueda. |
+| **Vallecas** | HOME Vallecas | Buen anclaje territorial, aunque más genérico y con mayor ruido en buscadores. |
+| **Santa Eugenia** | HOME Santa Eugenia | Muy claro geográficamente, pero largo para dominio, usuario y recordación digital. |
+| **Sala** | HOME Sala | Funciona para conciertos, pero se puede confundir con "sala de eventos" sin identidad propia HOME. |
+| **Renueva** | HOME Renueva | Fuerte en transformación espiritual, menos claro para audiencia de primer contacto vecinal. |
+| **Restaura** | HOME Restaura | Teológicamente sólido, pero puede sonar a ONG/acción social antes que a comunidad hogar. |
 
 ---
 
-## 8. Qué deberíamos perder
+## 7. Estrategia web: dos sitios, dos roles
+
+Mantener dos webs con funciones complementarias y niveles de mantenimiento muy distintos.
+
+---
+
+### 7.1 `asambleacristiana.es` — tarjeta de visita institucional
+
+- **Plataforma**: WordPress (ya existente, con un trabajo de diseño más complejo).
+- **Función**: presentar la iglesia como institución — historia, denominación, equipo pastoral, documentos de transparencia, contacto.
+- **Frecuencia de actualización**: baja. Solo cuando haya un cambio importante en la vida de la iglesia (nuevo pastor, cambio de horario general, nueva sede…). Estos cambios no ocurren con frecuencia.
+- **Quién la mantiene**: alguien con conocimiento de WordPress, puntualmente.
+- **Tono**: institucional, informativo, estable.
+
+No necesita actualizarse continuamente. Es una referencia sólida que da credibilidad y contexto denominacional a quien lo busque.
+
+---
+
+### 7.2 `home[apellido].es` — web viva de HOME
+
+- **Plataforma**: algo más sencillo que WordPress, que cualquier miembro del equipo pueda modificar sin ser experto en web.
+- **Función**: comunicar la vida de HOME al barrio — eventos, horarios, eslóganes, fotos de comunidad, enlace a redes sociales. Estructurada alrededor de la escalera VEN · CONECTA · CRECE · SIRVE.
+- **Frecuencia de actualización**: alta. Cada vez que haya un evento, un cambio de fecha, una nueva celebración o cualquier novedad que comunicar.
+- **Quién la mantiene**: cualquier miembro del equipo, sin necesidad de conocimientos técnicos.
+- **Tono**: cálido, cercano, no religioso en la superficie. Coherente con la estrategia de comunicación "en casa" (cap. 10).
+- **Vínculo con redes sociales**: la web de HOME estará fuertemente vinculada a las redes sociales (Instagram, WhatsApp, YouTube…). Las redes son el canal principal de comunicación diaria; la web es el punto de aterrizaje que da contexto, horarios y estructura a lo que las redes cuentan en tiempo real. Embeds de Instagram, enlaces directos a WhatsApp y contenido compartible deben ser parte nativa de la web, no un añadido.
+
+La flexibilidad es clave: si el viernes hay Café Concierto, la web debe poder reflejarlo ese mismo día sin depender de un especialista.
+
+---
+
+### 7.3 Cómo se complementan
+
+| | `asambleacristiana.es` | `home[apellido].es` |
+| --- | --- | --- |
+| **Público** | Quien busca "iglesia evangélica en Santa Eugenia" o quiere saber qué denominación somos | El vecino curioso, el invitado de un miembro, el que vio un flyer |
+| **Actualización** | Puntual (cambios importantes) | Continua (eventos, fechas, fotos) |
+| **Mantenimiento** | Requiere conocimiento de WordPress | Cualquier miembro del equipo |
+| **Enlace entre ambas** | Enlace a HOME en la web institucional: *"Visita HOME [apellido] para ver qué pasa esta semana"* | Enlace a Asamblea Cristiana en la sección "Sobre nosotros": *"Somos parte de la Asamblea Cristiana de Madrid"* |
+| **Riesgo de abandono** | Bajo: apenas necesita cambios | Bajo: la herramienta es sencilla y el equipo puede usarla |
+
+> Las dos webs no compiten: una da credibilidad institucional y la otra da vida al proyecto. Al no necesitar actualización frecuente, `asambleacristiana.es` no corre el riesgo de quedarse obsoleta. Y al ser fácil de editar, `home[apellido].es` puede estar siempre al día.
+
+---
+
+## 8. Qué no casa con este cambio
 
 - **OIKOS** Nuestro lugar es HOME, tanto en el local, como en nuestros grupos pequeños. OIKOS es una palabra que ni siquiera se entiende en contextos cristianos, solamente para quien haya leído el libro de Joel, por lo que Oikos no puede ser la casa de un vecino de Santa Eugenia al no identificar su significado. Por el contrario, todo el mundo entiende el significado de HOME.
 
-- **YoVoy** En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de volver a casa. YoVoy no tiene sentido en esta nueva identidad.
-
-- **Lidere** Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
+- **YoVoy** En un escenario de HOME donde todos estamos al mismo nivel, el YO deja de tener relevancia. Además, ya no se trata de IR a ningún lugar, sino de VOLVER a casa. YoVoy no tiene sentido en esta nueva identidad. **Lidere** Puede mantenerse como el plan de formación para la nueva visión de iglesia basada en grupos pequeños dentro del plan de formación de Asamblea Cristiana.
 
 ---
 
@@ -424,4 +372,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 ---
 
-updated: 8:02, 07/05/2026
+updated: 10:0,1 12/05/2026
