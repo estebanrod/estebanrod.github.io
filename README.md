@@ -12,8 +12,6 @@ Bienvenido — este `README` actúa como índice del sitio público. Enlaces dir
 
 - HOME — Propuesta principal de nombre y estrategia: [HOME - PROPUESTA PARA EL EQUIPO](HOME.md)
 
----
-
 Otros documentos:
 
 - CASA — Variante en español (propuesta paralela): [CASA - PROPUESTA PARA EL EQUIPO](CASA.md)
