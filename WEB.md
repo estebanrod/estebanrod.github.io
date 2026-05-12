@@ -16,7 +16,7 @@
 
 ## 1. VISIÓN GENERAL: POR QUÉ DOS WEBS
 
-| | **asambleacristiana.es** | **[local].es** (nombre por definir) |
+| | **asambleacristiana.es** | **home[apellido].es** (nombre por definir) |
 | --- | --- | --- |
 | **Público** | Miembros, iglesias, alianzas, instituciones | Vecinos, curiosos, buscadores, **invitados** |
 | **Tono** | Institucional cálido | Cercano, evangelístico, de barrio |
@@ -24,7 +24,10 @@
 | **Equivalente offline** | La tarjeta de visita de la iglesia | El **tríptico de bienvenida** + la sonrisa del equipo H.O.L.A. |
 | **Pregunta que responde** | "¿Quiénes son estos?" | "¿Qué hay aquí para mí?" |
 | **Función en asimilación** | Credibilidad para quien investiga (nivel 0 de la escalera) | Facilitar el paso de nivel 0 → nivel 1 → nivel 2 |
-| **Frecuencia de actualización** | Baja (trimestral) | Alta (semanal — eventos, fotos, vídeos) |
+| **Frecuencia de actualización** | Baja (solo cuando haya un cambio importante en la iglesia) | Alta (semanal — eventos, fotos, vídeos) |
+| **Plataforma** | WordPress (ya existente, trabajo de diseño complejo) | Algo más sencillo que WordPress, editable por cualquier miembro del equipo |
+| **Mantenimiento** | Alguien con conocimiento de WordPress, puntualmente | Cualquier miembro del equipo, sin conocimientos técnicos |
+| **Vínculo con redes sociales** | Mínimo (enlace a YouTube, poco más) | **Fuerte**: embeds de Instagram, enlaces directos a WhatsApp, contenido compartible. Las redes son el canal diario; la web es el punto de aterrizaje que da contexto y estructura |
 | **SEO principal** | "iglesia evangélica madrid", "asamblea cristiana" | "[nombre local] santa eugenia", "actividades barrio" |
 
 **Principio LIDERE**: *"No es que la iglesia de Dios tenga una misión, sino que la misión de Dios tiene una iglesia."*
@@ -1462,15 +1465,25 @@ Si una página no ayuda a alguien a subir un escalón, sobra.
 
 ## 10. DECISIONES PENDIENTES
 
+### 10.1 Ya decidido
+
+| # | Decisión | Resolución |
+| --- | --- | --- |
+| 1 | **¿Una web o dos?** | **Dos webs** con roles diferenciados: `asambleacristiana.es` como tarjeta de visita institucional (WordPress, actualización puntual) y `home[apellido].es` como web viva del local (plataforma sencilla, editable por cualquiera, actualización continua). |
+| 2 | **Plataforma corporativa** | WordPress (ya existente). Se mantiene tal cual, con actualizaciones solo cuando haya cambios importantes en la iglesia. |
+| 3 | **Plataforma del local** | Algo más sencillo que WordPress. Que cualquier miembro del equipo pueda modificar sin ser experto en web. |
+| 4 | **Vínculo con redes sociales** | La web de HOME estará fuertemente vinculada a redes sociales (Instagram, WhatsApp, YouTube). Embeds de Instagram, enlaces directos a WhatsApp y contenido compartible como parte nativa de la web. Las redes son el canal principal de comunicación diaria; la web es el punto de aterrizaje que da contexto, horarios y estructura. |
+
+### 10.2 Pendiente
+
 | # | Decisión | Impacto |
 | --- | ---------- | --------- |
 | 1 | **Nombre del local** | Define dominio, branding, tono de toda la web |
-| 2 | **¿WordPress o nueva plataforma?** | WP para corporativa. Para el local: WP, Squarespace o Framer según estilo deseado |
-| 3 | **¿Quién actualiza semanalmente?** | "Esta semana" + redes NECESITA alguien dedicado |
-| 4 | **¿Quién gestiona el seguimiento?** | El Excel/Sheets y los mensajes 48/96 necesitan un responsable |
-| 5 | **¿Instagram primero o web primero?** | Si no hay fotos, IG primero (genera contenido para la web) |
-| 6 | **Sesión de fotos** | Sin fotos reales de comunidad, la web no transmite lo que debe |
-| 7 | **¿Cuándo se lanza el "Día de la visión"?** | La web prepara, pero el proceso de membresía es presencial |
+| 2 | **¿Quién actualiza semanalmente?** | "Esta semana" + redes NECESITA alguien dedicado |
+| 3 | **¿Quién gestiona el seguimiento?** | El Excel/Sheets y los mensajes 48/96 necesitan un responsable |
+| 4 | **¿Instagram primero o web primero?** | Si no hay fotos, IG primero (genera contenido para la web) |
+| 5 | **Sesión de fotos** | Sin fotos reales de comunidad, la web no transmite lo que debe |
+| 6 | **¿Cuándo se lanza el "Día de la visión"?** | La web prepara, pero el proceso de membresía es presencial |
 
 ---
 
