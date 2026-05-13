@@ -1,6 +1,6 @@
-# CASA
+﻿# CASA
 
-[Volver al índice](README.md)
+[Volver al índice](INDICE.md)
 
 ## Propuesta de nombre para el local de Santa Eugenia
 
@@ -376,7 +376,7 @@ La frase *"¿Te vienes a casa?"* es una invitación que cualquier español/latin
 
 ---
 
-[Volver al índice](README.md)
+[Volver al índice](INDICE.md)
 
 ---
 
