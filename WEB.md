@@ -755,7 +755,7 @@ Gratuito. Para niños de 4-12 años.
 
 #### ☕🎵 Café Concierto — Último viernes de cada mes
 
-#### HOME: Este viernes hay café y música en casa (versión actividades)
+##### HOME: Este viernes hay café y música en casa (versión actividades)
 
 Una noche de música en directo, ambiente relajado y algo de picar. El Último viernes de cada mes abrimos las puertas del local para compartir una velada con el barrio.
 
