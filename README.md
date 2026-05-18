@@ -75,6 +75,7 @@ HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
 2. **Sea fácil de recordar** — que un vecino lo pueda decir y teclear sin dudar
 3. **Funcione como dominio e Instagram** — `home_____.es` y @home_____
 4. **Tenga conexión con el barrio o con el proyecto** — que no suene a franquicia genérica
+5. **Podamos añadir en la fachada** — y que invite a entrar sin miedo
 
 ---
 
