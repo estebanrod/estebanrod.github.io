@@ -79,37 +79,22 @@ HOME solo es demasiado genérico para internet. Necesitamos un **apellido** que:
 
 ---
 
-### 6.1 Propuestas activas
+### 6.1 Apellido elegido: **tu casa**
 
-Todas las propuestas que se están valorando actualmente, reunidas en un solo lugar.
+> **Nombre final: HOME tu casa**
+> Dominio: `hometucasa.es` · Instagram: @hometucasa
 
-| Propuesta | Dominio | IG | Por qué funciona | Riesgos |
-| --- | --- | --- | --- | --- |
-| **HOME tu casa** | `hometucasa.es` | @hometucasa | El apellido convierte el nombre en declaración de pertenencia: el espacio ya es del visitante antes de entrar. *"HOME / tu casa"* en dos líneas es la fachada perfecta. Coherente con toda la estrategia de comunicación del cap. 10. No hay doble preposición en uso oral. | El posesivo "tu" puede sentirse impuesto si el visitante aún no se siente parte. Se mitiga con el eslogan de bienvenida en la fachada. |
-| **HOME en casa** | `homeencasa.es` | @homeencasa | El eslogan se convierte en identidad. *"¿Vienes a HOME en casa?"* suena natural. Refuerza el español. La fachada lee como una frase completa. Muy coherente con toda la estrategia de comunicación del cap. 10. | Redundante conceptualmente (HOME ya significa "en casa"). La doble preposición *"en HOME en casa"* puede tropezar en oral. |
-| **HOME vida** | `homevida.es` | @homevida | Corto, positivo, universal. "Vida" es la palabra más potente del evangelio (Jn 10:10). Funciona en fachada: HOME VIDA. Buen dominio. | Puede sonar a gimnasio o centro wellness. Hay varias iglesias "Vida" en España (ruido SEO). Pierde la conexión "casa". |
-| **CASA** | `casa.church` o `casaiglesia.es` | @casa_iglesia | 100% español. Misma semántica que HOME pero sin barrera idiomática. El barrio obrero de Santa Eugenia lo entiende al instante. Conexión directa con Hechos 2: *"en las casas"*. Potentísimo en fachada. | SEO casi imposible sin apellido. Dominios `.es` ocupados. Necesita apellido o TLD diferenciador. Hay que rehacer eslóganes. |
-| **CASA.church** | `casa.church` | @casachurch | El TLD `.church` resuelve el problema de dominio genérico. Deja claro que es iglesia sin ponerlo en el nombre visual (solo en la URL). Funciona bien dicho en voz alta: *"búscanos en casa punto church"*. | TLD `.church` poco conocido en España. Mezcla español + inglés de forma menos natural que HOME. Hay que rehacer eslóganes. |
+El apellido convierte el nombre en declaración de pertenencia: el espacio ya es del visitante antes de entrar. *"HOME / tu casa"* en dos líneas es la fachada perfecta. Coherente con toda la estrategia de comunicación del cap. 10. No hay doble preposición en uso oral.
 
-#### Test rápido de todas las propuestas activas
-
-| Propuesta | *"¿Te vienes a…?"* | *"El viernes hay música en…"* | ¿Único en Google? | ¿Fácil de teclear? | Coherencia con cap. 10 |
-| --- | --- | --- | --- | --- | --- |
-| **HOME tu casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (declara pertenencia desde el primer contacto) |
-| **HOME en casa** | ✅✅✅ Perfecto | ✅✅✅ Natural | ✅ Único | ✅ | ✅✅✅ Total (el eslogan ES el nombre) |
-| **HOME vida** | ✅✅ Funciona | ✅✅ Funciona | ⚠️ Ruido "vida church" | ✅ | ✅ Parcial (pierde "casa") |
-| **CASA** | ✅✅✅ Perfecto | ✅✅✅ Natural | ❌ Imposible sin apellido | ✅✅✅ | ⚠️ Hay que rehacer eslóganes |
-| **CASA.church** | ✅✅ Funciona | ✅✅ Funciona | ✅ Único (TLD raro) | ⚠️ TLD poco familiar | ⚠️ Hay que rehacer eslóganes |
-
-#### Valoración general
-
-**HOME tu casa** es la propuesta más sólida de esta ronda: mantiene HOME como marca, declara pertenencia desde el primer contacto (*"el espacio ya es tuyo antes de entrar"*) y no genera doble preposición en uso oral. La fachada *"HOME / tu casa"* en dos líneas resume toda la estrategia de comunicación del cap. 10 sin necesidad de un eslogan adicional.
-
-**HOME en casa** es una alternativa igualmente coherente: integra el eslogan en el nombre y elimina toda ambigüedad. Su único punto débil es la doble preposición *"en HOME en casa"* en uso oral, que se resuelve omitiendo la preposición en comunicaciones de evento (*"el viernes, música. HOME en casa"*).
-
-**CASA** como nombre tiene una fuerza brutal en español puro, pero arrastra todos los problemas de genericidad que HOME resuelve con sus 4 letras en inglés. Si el equipo se inclina por CASA, necesitaría un apellido diferenciador igual que HOME (CASA Juntos, CASA Abierta, etc.) y habría que replantear la identidad visual y la estrategia de comunicación.
-
-**HOME vida** es sólido como apellido pero pierde la conexión "casa" que vertebra toda la comunicación.
+| | Dato |
+| --- | --- |
+| **Nombre completo** | HOME tu casa |
+| **Dominio** | `hometucasa.es` |
+| **Instagram** | @hometucasa |
+| **Fachada** | HOME (grande) / tu casa (debajo, tipografía fina) |
+| **En conversación** | *"¿Te vienes a HOME tu casa?"* · *"El viernes hay música en HOME tu casa"* |
+| **Único en Google** | ✅ |
+| **Coherencia con cap. 10** | ✅✅✅ Total (declara pertenencia desde el primer contacto) |
 
 ---
 
@@ -121,6 +106,10 @@ Estas propuestas no se pierden. Quedan registradas para revisarlas más adelante
 
 | Propuesta descartada | Nombre completo | Motivo principal de descarte |
 | --- | --- | --- |
+| **en casa** | HOME en casa | Integra el eslogan en el nombre, pero redundante conceptualmente (HOME ya significa "en casa"). La doble preposición *"en HOME en casa"* tropezaba en uso oral. |
+| **vida** | HOME vida | Corto y positivo, pero puede sonar a gimnasio o centro wellness. Ruido SEO con "vida church". Pierde la conexión "casa" que vertebra toda la comunicación. |
+| **CASA** | CASA | 100% español y potentísimo en fachada, pero SEO casi imposible sin apellido. Dominios `.es` ocupados. Requería rehacer eslóganes y toda la identidad visual. |
+| **CASA.church** | CASA.church | El TLD `.church` resuelve el dominio genérico, pero es poco conocido en España. Mezcla español + inglés de forma menos natural que HOME. Requería rehacer eslóganes. |
 | **Juntos** | HOME Juntos | Cálido y universal, pero genérico en buscadores sin "home" delante. No diferencia lo suficiente como marca. |
 | **Mesa** | HOME Mesa | Hospitalidad directa, pero puede confundirse con restaurante o catering. |
 | **Raíz** | HOME Raíz | Profundo y multicultural, pero la tilde complica la URL y suena a proyecto ecológico. |
@@ -171,7 +160,7 @@ No necesita actualizarse continuamente. Es una referencia sólida que da credibi
 
 ---
 
-### 7.2 `home[apellido].es` — web viva de HOME
+### 7.2 `hometucasa.es` — web viva de HOME
 
 - **Plataforma**: algo más sencillo que WordPress, que cualquier miembro del equipo pueda modificar sin ser experto en web.
 - **Función**: comunicar la vida de HOME al barrio — eventos, horarios, eslóganes, fotos de comunidad, enlace a redes sociales. Estructurada alrededor de la escalera VEN · CONECTA · CRECE · SIRVE.
@@ -186,15 +175,15 @@ La flexibilidad es clave: si el viernes hay Café Concierto, la web debe poder r
 
 ### 7.3 Cómo se complementan
 
-| | `asambleacristiana.es` | `home[apellido].es` |
+| | `asambleacristiana.es` | `hometucasa.es` |
 | --- | --- | --- |
 | **Público** | Quien busca "iglesia evangélica en Santa Eugenia" o quiere saber qué denominación somos | El vecino curioso, el invitado de un miembro, el que vio un flyer |
 | **Actualización** | Puntual (cambios importantes) | Continua (eventos, fechas, fotos) |
 | **Mantenimiento** | Requiere conocimiento de WordPress | Cualquier miembro del equipo |
-| **Enlace entre ambas** | Enlace a HOME en la web institucional: *"Visita HOME [apellido] para ver qué pasa esta semana"* | Enlace a Asamblea Cristiana en la sección "Sobre nosotros": *"Somos parte de la Asamblea Cristiana de Madrid"* |
+| **Enlace entre ambas** | Enlace a HOME en la web institucional: *"Visita HOME tu casa para ver qué pasa esta semana"* | Enlace a Asamblea Cristiana en la sección "Sobre nosotros": *"Somos parte de la Asamblea Cristiana de Madrid"* |
 | **Riesgo de abandono** | Bajo: apenas necesita cambios | Bajo: la herramienta es sencilla y el equipo puede usarla |
 
-> Las dos webs no compiten: una da credibilidad institucional y la otra da vida al proyecto. Al no necesitar actualización frecuente, `asambleacristiana.es` no corre el riesgo de quedarse obsoleta. Y al ser fácil de editar, `home[apellido].es` puede estar siempre al día.
+> Las dos webs no compiten: una da credibilidad institucional y la otra da vida al proyecto. Al no necesitar actualización frecuente, `asambleacristiana.es` no corre el riesgo de quedarse obsoleta. Y al ser fácil de editar, `hometucasa.es` puede estar siempre al día.
 
 ---
 
@@ -211,7 +200,7 @@ La flexibilidad es clave: si el viernes hay Café Concierto, la web debe poder r
 ### 9.1 Logo
 
 - **HOME** en tipografía sans-serif extra-bold (Montserrat Black o Sora Bold). Todo mayúsculas.
-- **[Apellido]** debajo, en tipografía fina y espaciada.
+- **tu casa** debajo, en tipografía fina y espaciada.
 - La **O** de HOME puede ser:
   - Una **puerta abierta** (invitación)
   - Una **casa simplificada** (hogar)
@@ -240,13 +229,13 @@ La flexibilidad es clave: si el viernes hay Café Concierto, la web debe poder r
 | Uso | Fuente | Carácter |
 | --- | --- | --- |
 | **HOME (logo)** | Montserrat Black / Sora Bold | Bold, moderno, impacto |
-| **[Apellido] (logo)** | Montserrat Light / Sora Light | Fina, espaciada, elegante |
+| **"tu casa" (logo)** | Montserrat Light / Sora Light | Fina, espaciada, elegante |
 | **Eslogan** | Caveat / Kalam | Manuscrita, cercana, humana |
 | **Cuerpo web** | Lora / Merriweather | Serif cálida, legible |
 
 ### 9.5 Fachada
 
-**HOME** en letras grandes retroiluminadas con luz cálida (tipo Edison/neón blanco cálido). Debajo: **[apellido]** en tipografía fina. Y el eslogan *"Bienvenido a casa"* en manuscrita.
+**HOME** en letras grandes retroiluminadas con luz cálida (tipo Edison/neón blanco cálido). Debajo: **tu casa** en tipografía fina. Y el eslogan *"Bienvenido a casa"* en manuscrita.
 
 El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno pero cálido, que le dice "esto es tu casa".
 
@@ -254,8 +243,8 @@ El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno p
 
 | Aplicación | Descripción |
 | --- | --- |
-| **Web** | `home[apellido].es` — Hero image: gente real del barrio. Secciones: VEN · CONECTA · CRECE · SIRVE |
-| **Instagram** | @home[apellido] — Se reutilizaría el actual de Asamblea Cristiana de Madrid pero cambiando su imagen y empleando un feed cálido: momentos de comunidad, frases cortas, reels de eventos |
+| **Web** | `hometucasa.es` — Hero image: gente real del barrio. Secciones: VEN · CONECTA · CRECE · SIRVE |
+| **Instagram** | @hometucasa — Se reutilizaría el actual de Asamblea Cristiana de Madrid pero cambiando su imagen y empleando un feed cálido: momentos de comunidad, frases cortas, reels de eventos |
 | **Cartel café concierto** | "HOME presenta: [artista]" — diseño recurrente, cartelería de venue |
 | **Merch** | Camisetas con "HOME" grande en pecho. La gente pregunta → conversación |
 | **Stickers / pegatinas** | HOME en pegatinas para portales del barrio, farolas, buzones |
@@ -264,11 +253,11 @@ El vecino que pasa no ve una iglesia. Ve un espacio con nombre propio, moderno p
 
 ---
 
-### 9.7 ⏳ Por decidir
+### 9.7 ✅ Apellido decidido
 
-El equipo necesita elegir el apellido antes de:
+El apellido es **tu casa**. Próximos pasos:
 
-- Reservar dominio y handles de redes sociales
+- Reservar dominio `hometucasa.es` y handle @hometucasa
 - Briefing de diseño del logo
 - Producción de fachada
 
@@ -356,11 +345,11 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 ---
 
-> **HOME** es Hechos 2 hecho marca: la iglesia en las casas, con una puerta abierta y un eslogan que lo dice todo — *"Bienvenido a casa"*.
+> **HOME tu casa** es Hechos 2 hecho marca: la iglesia en las casas, con una puerta abierta y un eslogan que lo dice todo — *"Bienvenido a casa"*.
 >
 > La estrategia de comunicación "en casa" convierte cada actividad en una extensión natural de la marca: coherente, cálida, infinitamente escalable.
 >
-> Falta el apellido. Pero el nombre ya tiene alma.
+> `hometucasa.es` · @hometucasa
 
 ---
 
@@ -373,4 +362,4 @@ Toda actividad de HOME lleva la palabra **"casa"** en su eslogan. La marca HOME 
 
 ---
 
-updated: 10:0,1 12/05/2026
+updated: 20:51 19/05/2026
