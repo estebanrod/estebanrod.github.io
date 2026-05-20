@@ -98,11 +98,7 @@ El apellido convierte el nombre en declaración de pertenencia: el espacio ya es
 
 ---
 
-### 6.2 Histórico de propuestas descartadas (por ahora)
-
-Estas propuestas no se pierden. Quedan registradas para revisarlas más adelante si cambia el contexto del barrio, de la web o de la estrategia de marca.
-
-**Nota:** "Descartado por ahora" significa que no se presenta como opción principal en esta ronda, pero sigue disponible para futuras iteraciones del equipo.
+### 6.2 Histórico de propuestas descartadas
 
 | Propuesta descartada | Nombre completo | Motivo principal de descarte |
 | --- | --- | --- |
