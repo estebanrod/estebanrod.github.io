@@ -383,7 +383,7 @@ Los 20 criterios de evaluacion son los mismos para todos los sitios:
 ### 1.9 Asamblea Cristiana de Madrid
 
 **URL:** <https://asambleacristiana.es/>
-**Contexto:** Iglesia evangelica enraizada en Santa Eugenia / Vallecas con mas de 40 anos de historia. Modelo congregacional con fuerte mision integral en el barrio. Nuevo local en 2026.
+**Contexto:** Iglesia evangélica enraizada en Santa Eugenia / Vallecas con mas de 40 anos de historia. Modelo congregacional con fuerte mision integral en el barrio. Nuevo local en 2026.
 
 | # | Criterio | Puntuacion | Evidencia observada | Oportunidad principal |
 | --- | --- | ---: | --- | --- |
