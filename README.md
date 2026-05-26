@@ -15,3 +15,5 @@
 ░░░░░░░╚═════╝░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░
 
 ## estebanrod's github
+
+20+ years in telecommunications, a wealth of experience for developing new projects_
