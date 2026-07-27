@@ -16,4 +16,4 @@
 
 ## estebanrod's github
 
-20+ years in telecommunications, a wealth of experience for developing new projects_
+20+ years in telco, a wealth of experience for developing new projects_
